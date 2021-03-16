@@ -1,0 +1,1188 @@
+School,YrLevel,Domain,ACARA ID,School Name,Family Name,Given Name,Student PSI,SRN,Year Level,Test Level,Test Domain,Domain Band,Raw Score,Scaled Score,Parallel Path,Participation
+21221,9,Spelling,21221,Wishram Combined College,Lamb,Evelyn,R100000235R,491169629,9,9,Spelling,8,15.00,595.00,SA1:SB1:PB0,P
+21221,9,Writing,21221,Wishram Combined College,Lamb,Evelyn,R100000235R,491169629,9,9,Writing,,,,,E
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Lamb,Evelyn,R100000235R,491169629,9,9,Grammar and Punctuation,8,14.00,589.00,F1,P
+21221,9,Reading,21221,Wishram Combined College,Lamb,Evelyn,R100000235R,491169629,9,9,Reading,8,35.00,614.38,A3:D0:F0,P
+21221,9,Numeracy,21221,Wishram Combined College,Lamb,Evelyn,R100000235R,491169629,9,9,Numeracy,8,42.00,603.44,CA1:D1:C0:E1,P
+21215,5,Spelling,21215,Isovalerate Combined College,Allen,Georgia,R100000098S,853010112,5,5,Spelling,7,19.00,539.00,SA1:SD0:PB1,P
+21215,5,Writing,21215,Isovalerate Combined College,Allen,Georgia,R100000098S,853010112,5,5,Writing,8,1.00,575.00,,P
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Allen,Georgia,R100000098S,853010112,5,5,Grammar and Punctuation,7,19.00,539.00,F1,P
+21215,5,Reading,21215,Isovalerate Combined College,Allen,Georgia,R100000098S,853010112,5,5,Reading,6,33.00,535.00,A1:D1:F0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Allen,Georgia,R100000098S,853010112,5,5,Numeracy,6,30.00,525.00,A2:B0:C0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Williams,Janet,R100000042R,819020519,5,5,Spelling,6,16.00,521.00,SA0:SB0:PB1,P
+21213,5,Writing,21213,Hippocentaur Primary College,Williams,Janet,R100000042R,819020519,5,5,Writing,8,1.00,575.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Williams,Janet,R100000042R,819020519,5,5,Grammar and Punctuation,6,17.00,527.00,F1,P
+21213,5,Reading,21213,Hippocentaur Primary College,Williams,Janet,R100000042R,819020519,5,5,Reading,,,,A1:D1:F0,S
+21213,5,Numeracy,21213,Hippocentaur Primary College,Williams,Janet,R100000042R,819020519,5,5,Numeracy,6,25.00,508.33,NC1:D0:C0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Alvarado,Joanna,R100000053G,675659121,3,3,Grammar and Punctuation,5,16.00,411.00,E1,P
+21214,3,Reading,21214,Iliac Primary College,Alvarado,Joanna,R100000053G,675659121,3,3,Reading,0,0.0,0.0,A2:B1:E1,R
+21214,3,Numeracy,21214,Iliac Primary College,Alvarado,Joanna,R100000053G,675659121,3,3,Numeracy,,,,,A
+21214,3,Spelling,21214,Iliac Primary College,Alvarado,Joanna,R100000053G,675659121,3,3,Spelling,0,0.0,0.0,SA1:SD1:PD0,R
+21221,9,Spelling,21221,Wishram Combined College,Pavone,Laurene,R100000228H,556791652,9,9,Spelling,9,19.00,619.00,SA0:SD1:PB1,P
+21221,9,Writing,21221,Wishram Combined College,Pavone,Laurene,R100000228H,556791652,9,9,Writing,10,1.00,655.00,,P
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Pavone,Laurene,R100000228H,556791652,9,9,Grammar and Punctuation,8,16.00,601.00,F0,P
+21221,9,Reading,21221,Wishram Combined College,Pavone,Laurene,R100000228H,556791652,9,9,Reading,0,0.0,0.0,A3:B0:F0,R
+21221,9,Numeracy,21221,Wishram Combined College,Pavone,Laurene,R100000228H,556791652,9,9,Numeracy,8,44.00,608.12,CA0:D1:C0:E0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Newby,Mildred,R100000203K,631734365,7,7,Numeracy,7,36.00,559.38,NC1:B0:C0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Newby,Mildred,R100000203K,631734365,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Newby,Mildred,R100000203K,631734365,7,7,Spelling,,,,,A
+21220,7,Reading,21220,Unturpentined Secondary College,Newby,Mildred,R100000203K,631734365,7,7,Reading,7,33.00,578.12,A1:D0:E1,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Newby,Mildred,R100000203K,631734365,7,7,Grammar and Punctuation,8,24.00,619.00,E1,P
+21217,5,Spelling,21217,Phyllostoma Combined College,Winningham,Jacquelin,R100000135S,755299767,5,5,Spelling,6,17.00,527.00,SA1:SB0:PB0,P
+21217,5,Writing,21217,Phyllostoma Combined College,Winningham,Jacquelin,R100000135S,755299767,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Winningham,Jacquelin,R100000135S,755299767,5,5,Grammar and Punctuation,7,20.00,545.00,E1,P
+21217,5,Reading,21217,Phyllostoma Combined College,Winningham,Jacquelin,R100000135S,755299767,5,5,Reading,6,32.00,531.67,A0:B1:E1,P
+21217,5,Numeracy,21217,Phyllostoma Combined College,Winningham,Jacquelin,R100000135S,755299767,5,5,Numeracy,0,0.0,0.0,A0:B1:C0,R
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Lachance,Britney,R100000096E,674310219,3,3,Grammar and Punctuation,5,17.00,417.00,E1,P
+21215,3,Reading,21215,Isovalerate Combined College,Lachance,Britney,R100000096E,674310219,3,3,Reading,6,34.00,445.77,A1:B1:E0,P
+21215,3,Numeracy,21215,Isovalerate Combined College,Lachance,Britney,R100000096E,674310219,3,3,Numeracy,5,28.00,422.69,CA0:B1:F0,P
+21215,3,Spelling,21215,Isovalerate Combined College,Lachance,Britney,R100000096E,674310219,3,3,Spelling,6,21.00,441.00,SA1:SB1:PB1,P
+21215,9,Spelling,21215,Isovalerate Combined College,Dearing,Tessie,R100000081K,396082924,9,9,Spelling,8,18.00,613.00,SA1:SB1:PD1,P
+21215,9,Writing,21215,Isovalerate Combined College,Dearing,Tessie,R100000081K,396082924,9,9,Writing,6,0.00,505.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Dearing,Tessie,R100000081K,396082924,9,9,Grammar and Punctuation,9,20.00,625.00,F0,P
+21215,9,Reading,21215,Isovalerate Combined College,Dearing,Tessie,R100000081K,396082924,9,9,Reading,8,31.00,601.88,A2:D1:F0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Dearing,Tessie,R100000081K,396082924,9,9,Numeracy,8,45.00,610.47,CA0:B0:C0:F0,P
+21221,9,Spelling,21221,Wishram Combined College,Allen,Simone,R100000233H,203867073,9,9,Spelling,8,15.00,595.00,SA0:SD0:PD1,P
+21221,9,Writing,21221,Wishram Combined College,Allen,Simone,R100000233H,203867073,9,9,Writing,10,1.00,655.00,,P
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Allen,Simone,R100000233H,203867073,9,9,Grammar and Punctuation,8,17.00,607.00,E1,P
+21221,9,Reading,21221,Wishram Combined College,Allen,Simone,R100000233H,203867073,9,9,Reading,8,31.00,601.88,A0:D0:E1,P
+21221,9,Numeracy,21221,Wishram Combined College,Allen,Simone,R100000233H,203867073,9,9,Numeracy,8,43.00,605.78,NC0:B0:C0:F0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Costello,Jeanette,R100000088P,885381996,9,9,Spelling,9,21.00,631.00,SA0:SB1:PD1,P
+21215,9,Writing,21215,Isovalerate Combined College,Costello,Jeanette,R100000088P,885381996,9,9,Writing,10,1.00,655.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Costello,Jeanette,R100000088P,885381996,9,9,Grammar and Punctuation,8,17.00,607.00,F1,P
+21215,9,Reading,21215,Isovalerate Combined College,Costello,Jeanette,R100000088P,885381996,9,9,Reading,8,30.00,598.75,A0:D1:F0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Costello,Jeanette,R100000088P,885381996,9,9,Numeracy,8,45.00,610.47,CA1:D0:C0:E1,P
+21221,5,Spelling,21221,Wishram Combined College,Upham,Teodoro,R100000231M,271624309,5,5,Spelling,6,13.00,503.00,SA0:SD1:PB1,P
+21221,5,Writing,21221,Wishram Combined College,Upham,Teodoro,R100000231M,271624309,5,5,Writing,8,1.00,575.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Upham,Teodoro,R100000231M,271624309,5,5,Grammar and Punctuation,0,0.00,0.00,G0,P
+21221,5,Reading,21221,Wishram Combined College,Upham,Teodoro,R100000231M,271624309,5,5,Reading,,,,,W
+21221,5,Numeracy,21221,Wishram Combined College,Upham,Teodoro,R100000231M,271624309,5,5,Numeracy,6,32.00,531.67,CA0:B0:E0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Long,Agustin,R100000222K,634017946,9,9,Spelling,8,17.00,607.00,SA1:SD1:PB1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Long,Agustin,R100000222K,634017946,9,9,Writing,6,0.00,505.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Long,Agustin,R100000222K,634017946,9,9,Grammar and Punctuation,8,15.00,595.00,F1,P
+21220,9,Reading,21220,Unturpentined Secondary College,Long,Agustin,R100000222K,634017946,9,9,Reading,9,37.00,620.62,A2:B0:F0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Long,Agustin,R100000222K,634017946,9,9,Numeracy,8,43.00,605.78,CA1:B0:C0:E1,P
+21214,5,Spelling,21214,Iliac Primary College,Soto,Valentina,R100000051A,680948416,5,5,Spelling,6,17.00,527.00,SA1:SB0:PB0,P
+21214,5,Writing,21214,Iliac Primary College,Soto,Valentina,R100000051A,680948416,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Soto,Valentina,R100000051A,680948416,5,5,Grammar and Punctuation,6,17.00,527.00,E1,P
+21214,5,Reading,21214,Iliac Primary College,Soto,Valentina,R100000051A,680948416,5,5,Reading,6,32.00,531.67,A0:D1:E1,P
+21214,5,Numeracy,21214,Iliac Primary College,Soto,Valentina,R100000051A,680948416,5,5,Numeracy,7,36.00,545.00,A3:D1:C0,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Woodside,June,R100000021D,396107093,3,3,Grammar and Punctuation,,,,,E
+21212,3,Reading,21212,Anticapital Primary College,Woodside,June,R100000021D,396107093,3,3,Reading,6,30.00,430.38,A0:B0:F0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Woodside,June,R100000021D,396107093,3,3,Numeracy,5,29.00,426.54,A3:B1:F0,P
+21212,3,Spelling,21212,Anticapital Primary College,Woodside,June,R100000021D,396107093,3,3,Spelling,6,19.00,429.00,SA0:SB1:PB1,P
+21221,9,Spelling,21221,Wishram Combined College,Odum,Jeffrey,R100000226M,900848255,9,9,Spelling,,,,,E
+21221,9,Writing,21221,Wishram Combined College,Odum,Jeffrey,R100000226M,900848255,9,9,Writing,6,0.00,505.00,,P
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Odum,Jeffrey,R100000226M,900848255,9,9,Grammar and Punctuation,8,15.00,595.00,C1,P
+21221,9,Reading,21221,Wishram Combined College,Odum,Jeffrey,R100000226M,900848255,9,9,Reading,8,31.00,601.88,A0:D1:C0,P
+21221,9,Numeracy,21221,Wishram Combined College,Odum,Jeffrey,R100000226M,900848255,9,9,Numeracy,,,,,X
+21217,5,Spelling,21217,Phyllostoma Combined College,Wood,Herbert,R100000128G,266211914,5,5,Spelling,6,17.00,527.00,SA1:SB1:PB1,P
+21217,5,Writing,21217,Phyllostoma Combined College,Wood,Herbert,R100000128G,266211914,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Wood,Herbert,R100000128G,266211914,5,5,Grammar and Punctuation,0,0.00,0.00,G0,P
+21217,5,Reading,21217,Phyllostoma Combined College,Wood,Herbert,R100000128G,266211914,5,5,Reading,,,,,A
+21217,5,Numeracy,21217,Phyllostoma Combined College,Wood,Herbert,R100000128G,266211914,5,5,Numeracy,,,,,E
+21218,9,Spelling,21218,Redistrainer Secondary College,Bean,Guillermina,R100000166G,574013097,9,9,Spelling,9,21.00,631.00,SA0:SB0:PB0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Bean,Guillermina,R100000166G,574013097,9,9,Writing,6,0.00,505.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Bean,Guillermina,R100000166G,574013097,9,9,Grammar and Punctuation,,,,,C
+21218,9,Reading,21218,Redistrainer Secondary College,Bean,Guillermina,R100000166G,574013097,9,9,Reading,9,37.00,620.62,A1:B1:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Bean,Guillermina,R100000166G,574013097,9,9,Numeracy,8,45.00,610.47,CA1:B1:C0:F0,P
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Duncan,Trevor,R100000086G,439970865,3,3,Grammar and Punctuation,6,20.00,435.00,F0,P
+21215,3,Reading,21215,Isovalerate Combined College,Duncan,Trevor,R100000086G,439970865,3,3,Reading,6,31.00,434.23,A3:B1:F0,P
+21215,3,Numeracy,21215,Isovalerate Combined College,Duncan,Trevor,R100000086G,439970865,3,3,Numeracy,6,30.00,430.38,CA0:D0:E0,P
+21215,3,Spelling,21215,Isovalerate Combined College,Duncan,Trevor,R100000086G,439970865,3,3,Spelling,6,20.00,435.00,SA1:SB1:PB0,P
+21217,5,Spelling,21217,Phyllostoma Combined College,Cosby,Nakia,R100000142K,802538749,5,5,Spelling,6,18.00,533.00,SA1:SD0:PB1,P
+21217,5,Writing,21217,Phyllostoma Combined College,Cosby,Nakia,R100000142K,802538749,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Cosby,Nakia,R100000142K,802538749,5,5,Grammar and Punctuation,,,,,C
+21217,5,Reading,21217,Phyllostoma Combined College,Cosby,Nakia,R100000142K,802538749,5,5,Reading,7,34.00,538.33,A0:B0:E1,P
+21217,5,Numeracy,21217,Phyllostoma Combined College,Cosby,Nakia,R100000142K,802538749,5,5,Numeracy,6,27.00,515.00,CA1:D1:E1,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Pierce,Chrystal,R100000150A,133061145,9,9,Spelling,8,17.00,607.00,SA0:SB1:PD1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Pierce,Chrystal,R100000150A,133061145,9,9,Writing,6,0.00,505.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Pierce,Chrystal,R100000150A,133061145,9,9,Grammar and Punctuation,,,,,A
+21218,9,Reading,21218,Redistrainer Secondary College,Pierce,Chrystal,R100000150A,133061145,9,9,Reading,0,0.0,0.0,A3:B1:F0,R
+21218,9,Numeracy,21218,Redistrainer Secondary College,Pierce,Chrystal,R100000150A,133061145,9,9,Numeracy,8,47.00,615.16,NC1:B0:C0:F0,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Hall,Byron,R100000129H,335776714,3,3,Grammar and Punctuation,5,16.00,411.00,E0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Hall,Byron,R100000129H,335776714,3,3,Reading,5,28.00,422.69,A1:B0:E0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Hall,Byron,R100000129H,335776714,3,3,Numeracy,5,29.00,426.54,CA1:D0:F0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Hall,Byron,R100000129H,335776714,3,3,Spelling,4,12.00,387.00,SA0:SB0:PD1,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Riley,Russell,R100000121S,888211114,9,9,Spelling,,,,,W
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Riley,Russell,R100000121S,888211114,9,9,Writing,,,,,S
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Riley,Russell,R100000121S,888211114,9,9,Grammar and Punctuation,,,,,C
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Riley,Russell,R100000121S,888211114,9,9,Reading,8,31.00,601.88,A2:D0:C0,P
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Riley,Russell,R100000121S,888211114,9,9,Numeracy,,,,,W
+21220,7,Numeracy,21220,Unturpentined Secondary College,May,Columbus,R100000206A,211703575,7,7,Numeracy,7,44.00,578.12,NC1:D0:E0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,May,Columbus,R100000206A,211703575,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,May,Columbus,R100000206A,211703575,7,7,Spelling,7,18.00,583.00,SA1:SD1:PB0,P
+21220,7,Reading,21220,Unturpentined Secondary College,May,Columbus,R100000206A,211703575,7,7,Reading,,,,,X
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,May,Columbus,R100000206A,211703575,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21217,7,Numeracy,21217,Phyllostoma Combined College,Carlton,Genevie,R100000140S,425987780,7,7,Numeracy,0,0.0,0.0,NC0:B1:C0:F0,R
+21217,7,Writing,21217,Phyllostoma Combined College,Carlton,Genevie,R100000140S,425987780,7,7,Writing,9,1.00,625.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Carlton,Genevie,R100000140S,425987780,7,7,Spelling,7,17.00,577.00,SA1:SD0:PD0,P
+21217,7,Reading,21217,Phyllostoma Combined College,Carlton,Genevie,R100000140S,425987780,7,7,Reading,,,,,X
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Carlton,Genevie,R100000140S,425987780,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Smith,Leslie,R100000193A,619018444,9,9,Spelling,8,18.00,613.00,SA0:SD1:PD0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Smith,Leslie,R100000193A,619018444,9,9,Writing,6,0.00,505.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Smith,Leslie,R100000193A,619018444,9,9,Grammar and Punctuation,0,0.00,0.00,B0,P
+21219,9,Reading,21219,Trotcozy Secondary College,Smith,Leslie,R100000193A,619018444,9,9,Reading,8,31.00,601.88,A2:C0:B0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Smith,Leslie,R100000193A,619018444,9,9,Numeracy,,,,,X
+21220,7,Numeracy,21220,Unturpentined Secondary College,Morgan,Ernesto,R100000207M,627653130,7,7,Numeracy,7,34.00,581.25,A3:D1:C0:E1,P
+21220,7,Writing,21220,Unturpentined Secondary College,Morgan,Ernesto,R100000207M,627653130,7,7,Writing,5,0.00,475.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Morgan,Ernesto,R100000207M,627653130,7,7,Spelling,7,17.00,577.00,SA0:SD1:PB1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Morgan,Ernesto,R100000207M,627653130,7,7,Reading,7,32.00,575.00,A3:B1:E1,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Morgan,Ernesto,R100000207M,627653130,7,7,Grammar and Punctuation,8,21.00,601.00,E1,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Fugate,Peter,R100000111P,450912812,7,7,Numeracy,8,48.00,587.50,NC1:D1:E0:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Fugate,Peter,R100000111P,450912812,7,7,Writing,9,1.00,625.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Fugate,Peter,R100000111P,450912812,7,7,Spelling,7,18.00,583.00,SA1:SD1:PB0,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Fugate,Peter,R100000111P,450912812,7,7,Reading,7,35.00,584.38,A0:B1:E0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Fugate,Peter,R100000111P,450912812,7,7,Grammar and Punctuation,7,14.00,559.00,E1,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Jaramillo,Willian,R100000198R,6933898,7,7,Numeracy,8,52.00,596.88,NC0:D1:C0:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Jaramillo,Willian,R100000198R,6933898,7,7,Writing,5,0.00,475.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Jaramillo,Willian,R100000198R,6933898,7,7,Spelling,7,18.00,583.00,SA0:SB1:PD1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Jaramillo,Willian,R100000198R,6933898,7,7,Reading,,,,,W
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Jaramillo,Willian,R100000198R,6933898,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Fulton,Aurora,R100000035D,382707688,5,5,Spelling,7,19.00,539.00,SA1:SB0:PB1,P
+21213,5,Writing,21213,Hippocentaur Primary College,Fulton,Aurora,R100000035D,382707688,5,5,Writing,,,,,E
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Fulton,Aurora,R100000035D,382707688,5,5,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,5,Reading,21213,Hippocentaur Primary College,Fulton,Aurora,R100000035D,382707688,5,5,Reading,,,,,A
+21213,5,Numeracy,21213,Hippocentaur Primary College,Fulton,Aurora,R100000035D,382707688,5,5,Numeracy,6,33.00,535.00,CA1:B0:F0,P
+21212,5,Spelling,21212,Anticapital Primary College,Dansby,Judi,R100000018R,990752961,5,5,Spelling,6,18.00,533.00,SA0:SD1:PD1,P
+21212,5,Writing,21212,Anticapital Primary College,Dansby,Judi,R100000018R,990752961,5,5,Writing,4,0.00,425.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Dansby,Judi,R100000018R,990752961,5,5,Grammar and Punctuation,7,19.00,539.00,C0,P
+21212,5,Reading,21212,Anticapital Primary College,Dansby,Judi,R100000018R,990752961,5,5,Reading,7,35.00,541.67,A1:D1:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Dansby,Judi,R100000018R,990752961,5,5,Numeracy,6,31.00,528.33,A3:B0:C0,P
+21216,3,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Poch,Audrey,R100000106P,282643161,3,3,Grammar and Punctuation,5,16.00,411.00,F1,P
+21216,3,Reading,21216,Ophthalmoplegia Combined College,Poch,Audrey,R100000106P,282643161,3,3,Reading,0,0.0,0.0,A1:B1:F0,R
+21216,3,Numeracy,21216,Ophthalmoplegia Combined College,Poch,Audrey,R100000106P,282643161,3,3,Numeracy,5,28.00,422.69,A3:B0:E0,P
+21216,3,Spelling,21216,Ophthalmoplegia Combined College,Poch,Audrey,R100000106P,282643161,3,3,Spelling,6,19.00,429.00,SA0:SD0:PB1,P
+21221,5,Spelling,21221,Wishram Combined College,Ryans,Anita,R100000234P,451351971,5,5,Spelling,6,17.00,527.00,SA0:SB1:PB0,P
+21221,5,Writing,21221,Wishram Combined College,Ryans,Anita,R100000234P,451351971,5,5,Writing,4,0.00,425.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Ryans,Anita,R100000234P,451351971,5,5,Grammar and Punctuation,0,0.00,0.00,G0,P
+21221,5,Reading,21221,Wishram Combined College,Ryans,Anita,R100000234P,451351971,5,5,Reading,,,,,X
+21221,5,Numeracy,21221,Wishram Combined College,Ryans,Anita,R100000234P,451351971,5,5,Numeracy,6,33.00,535.00,CA0:B1:C0,P
+21212,5,Spelling,21212,Anticapital Primary College,Stout,Juana,R100000011H,383655377,5,5,Spelling,,,,,C
+21212,5,Writing,21212,Anticapital Primary College,Stout,Juana,R100000011H,383655377,5,5,Writing,,,,,A
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Stout,Juana,R100000011H,383655377,5,5,Grammar and Punctuation,6,15.00,515.00,F0,P
+21212,5,Reading,21212,Anticapital Primary College,Stout,Juana,R100000011H,383655377,5,5,Reading,6,28.00,518.33,A0:D0:F0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Stout,Juana,R100000011H,383655377,5,5,Numeracy,7,35.00,541.67,CA0:D1:F0,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Stokely,Christoper,R100000115D,192512270,5,5,Spelling,6,18.00,533.00,SA0:SD1:PB0,P
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Stokely,Christoper,R100000115D,192512270,5,5,Writing,8,1.00,575.00,,P
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Stokely,Christoper,R100000115D,192512270,5,5,Grammar and Punctuation,6,18.00,533.00,C1,P
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Stokely,Christoper,R100000115D,192512270,5,5,Reading,7,39.00,555.00,A3:B0:C0,P
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Stokely,Christoper,R100000115D,192512270,5,5,Numeracy,0,0.0,0.0,CA0:B1:F0,R
+21219,7,Numeracy,21219,Trotcozy Secondary College,Manders,Barry,R100000185G,444721933,7,7,Numeracy,7,34.00,581.25,A3:B1:E0:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Manders,Barry,R100000185G,444721933,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Manders,Barry,R100000185G,444721933,7,7,Spelling,8,21.00,601.00,SA0:SD0:PD1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Manders,Barry,R100000185G,444721933,7,7,Reading,7,29.00,565.62,A0:B0:C0,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Manders,Barry,R100000185G,444721933,7,7,Grammar and Punctuation,0,0.0,0.0,C1,R
+21217,7,Numeracy,21217,Phyllostoma Combined College,Thompson,Lydia,R100000146M,641342585,7,7,Numeracy,7,30.00,568.75,A1:B0:E0:F0,P
+21217,7,Writing,21217,Phyllostoma Combined College,Thompson,Lydia,R100000146M,641342585,7,7,Writing,5,0.00,475.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Thompson,Lydia,R100000146M,641342585,7,7,Spelling,7,17.00,577.00,SA0:SD0:PB1,P
+21217,7,Reading,21217,Phyllostoma Combined College,Thompson,Lydia,R100000146M,641342585,7,7,Reading,,,,,W
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Thompson,Lydia,R100000146M,641342585,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Lewis,Barry,R100000157E,943780521,9,9,Spelling,,,,,A
+21218,9,Writing,21218,Redistrainer Secondary College,Lewis,Barry,R100000157E,943780521,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Lewis,Barry,R100000157E,943780521,9,9,Grammar and Punctuation,9,21.00,631.00,E0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Lewis,Barry,R100000157E,943780521,9,9,Reading,8,29.00,595.62,A3:B0:E0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Lewis,Barry,R100000157E,943780521,9,9,Numeracy,8,25.00,583.12,A2:D0:C0:F0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Santoyo,Rory,R100000192P,434117401,9,9,Spelling,8,18.00,613.00,SA0:SD0:PB1,P
+21219,9,Writing,21219,Trotcozy Secondary College,Santoyo,Rory,R100000192P,434117401,9,9,Writing,,,,,A
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Santoyo,Rory,R100000192P,434117401,9,9,Grammar and Punctuation,9,20.00,625.00,F1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Santoyo,Rory,R100000192P,434117401,9,9,Reading,0,0.0,0.0,A1:D0:F0,R
+21219,9,Numeracy,21219,Trotcozy Secondary College,Santoyo,Rory,R100000192P,434117401,9,9,Numeracy,8,43.00,605.78,CA1:B1:C0:F0,P
+21215,5,Spelling,21215,Isovalerate Combined College,Ussery,Stevie,R100000080R,822404131,5,5,Spelling,6,17.00,527.00,SA1:SD0:PB0,P
+21215,5,Writing,21215,Isovalerate Combined College,Ussery,Stevie,R100000080R,822404131,5,5,Writing,8,1.00,575.00,,P
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Ussery,Stevie,R100000080R,822404131,5,5,Grammar and Punctuation,7,20.00,545.00,C0,P
+21215,5,Reading,21215,Isovalerate Combined College,Ussery,Stevie,R100000080R,822404131,5,5,Reading,7,35.00,541.67,A2:D0:C0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Ussery,Stevie,R100000080R,822404131,5,5,Numeracy,6,31.00,528.33,NC0:D1:C0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Diaz,Angela,R100000217K,327855067,9,9,Spelling,8,15.00,595.00,SA1:SD1:PD0,P
+21220,9,Writing,21220,Unturpentined Secondary College,Diaz,Angela,R100000217K,327855067,9,9,Writing,10,1.00,655.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Diaz,Angela,R100000217K,327855067,9,9,Grammar and Punctuation,9,21.00,631.00,E1,P
+21220,9,Reading,21220,Unturpentined Secondary College,Diaz,Angela,R100000217K,327855067,9,9,Reading,9,36.00,617.50,A3:B1:E0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Diaz,Angela,R100000217K,327855067,9,9,Numeracy,8,41.00,601.09,NC1:B0:C0:F0,P
+21221,5,Spelling,21221,Wishram Combined College,Fulton,Erica,R100000240R,685311639,5,5,Spelling,6,17.00,527.00,SA1:SD0:PD1,P
+21221,5,Writing,21221,Wishram Combined College,Fulton,Erica,R100000240R,685311639,5,5,Writing,8,1.00,575.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Fulton,Erica,R100000240R,685311639,5,5,Grammar and Punctuation,6,18.00,533.00,F0,P
+21221,5,Reading,21221,Wishram Combined College,Fulton,Erica,R100000240R,685311639,5,5,Reading,7,34.00,538.33,A1:D0:F0,P
+21221,5,Numeracy,21221,Wishram Combined College,Fulton,Erica,R100000240R,685311639,5,5,Numeracy,0,0.0,0.0,A2:B0:E0,R
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Carlton,Jessie,R100000087H,340433409,3,3,Grammar and Punctuation,5,14.00,399.00,F0,P
+21215,3,Reading,21215,Isovalerate Combined College,Carlton,Jessie,R100000087H,340433409,3,3,Reading,5,26.00,415.00,A2:D0:F0,P
+21215,3,Numeracy,21215,Isovalerate Combined College,Carlton,Jessie,R100000087H,340433409,3,3,Numeracy,,,,,E
+21215,3,Spelling,21215,Isovalerate Combined College,Carlton,Jessie,R100000087H,340433409,3,3,Spelling,5,17.00,417.00,SA1:SD0:PD0,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Beam,Caitlin,R100000125P,402173859,3,3,Grammar and Punctuation,0,0.00,0.00,G0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Beam,Caitlin,R100000125P,402173859,3,3,Reading,,,,,E
+21217,3,Numeracy,21217,Phyllostoma Combined College,Beam,Caitlin,R100000125P,402173859,3,3,Numeracy,5,28.00,422.69,CA1:B1:C0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Beam,Caitlin,R100000125P,402173859,3,3,Spelling,5,17.00,417.00,SA1:SD0:PD1,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Gallagher,Lynn,R100000109G,10837212,9,9,Spelling,8,16.00,601.00,SA1:SD0:PD1,P
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Gallagher,Lynn,R100000109G,10837212,9,9,Writing,6,0.00,505.00,,P
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Gallagher,Lynn,R100000109G,10837212,9,9,Grammar and Punctuation,9,19.00,619.00,F1,P
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Gallagher,Lynn,R100000109G,10837212,9,9,Reading,,,,A0:D0:F0,S
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Gallagher,Lynn,R100000109G,10837212,9,9,Numeracy,9,49.00,619.84,CA1:D0:E0:F0,P
+21221,3,GrammarAndPunctuation,21221,Wishram Combined College,Tibbitts,Dorie,R100000227G,430438093,3,3,Grammar and Punctuation,5,16.00,411.00,C1,P
+21221,3,Reading,21221,Wishram Combined College,Tibbitts,Dorie,R100000227G,430438093,3,3,Reading,5,28.00,422.69,A1:B0:C0,P
+21221,3,Numeracy,21221,Wishram Combined College,Tibbitts,Dorie,R100000227G,430438093,3,3,Numeracy,5,25.00,411.15,CA0:D0:E1,P
+21221,3,Spelling,21221,Wishram Combined College,Tibbitts,Dorie,R100000227G,430438093,3,3,Spelling,5,16.00,411.00,SA0:SB0:PD0,P
+21212,5,Spelling,21212,Anticapital Primary College,Spangler,Judith,R100000019K,61184023,5,5,Spelling,,,,SA0:SB1:PD1,S
+21212,5,Writing,21212,Anticapital Primary College,Spangler,Judith,R100000019K,61184023,5,5,Writing,4,0.00,425.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Spangler,Judith,R100000019K,61184023,5,5,Grammar and Punctuation,7,19.00,539.00,C1,P
+21212,5,Reading,21212,Anticapital Primary College,Spangler,Judith,R100000019K,61184023,5,5,Reading,6,32.00,531.67,A1:D0:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Spangler,Judith,R100000019K,61184023,5,5,Numeracy,6,29.00,521.67,A2:D1:E0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Goering,Dot,R100000171G,564353838,9,9,Spelling,9,19.00,619.00,SA1:SB1:PD1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Goering,Dot,R100000171G,564353838,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Goering,Dot,R100000171G,564353838,9,9,Grammar and Punctuation,8,16.00,601.00,C1,P
+21218,9,Reading,21218,Redistrainer Secondary College,Goering,Dot,R100000171G,564353838,9,9,Reading,8,32.00,605.00,A2:B1:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Goering,Dot,R100000171G,564353838,9,9,Numeracy,8,44.00,608.12,NC1:D0:C0:F0,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Darling,Pablo,R100000105H,477249064,7,7,Numeracy,7,44.00,578.12,CA1:B1:E1:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Darling,Pablo,R100000105H,477249064,7,7,Writing,,,,,E
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Darling,Pablo,R100000105H,477249064,7,7,Spelling,,,,SA1:SD1:PB0,S
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Darling,Pablo,R100000105H,477249064,7,7,Reading,,,,A2:C0:B0,S
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Darling,Pablo,R100000105H,477249064,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Bingham,Rita,R100000199K,788534120,9,9,Spelling,8,17.00,607.00,SA1:SB1:PB0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Bingham,Rita,R100000199K,788534120,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Bingham,Rita,R100000199K,788534120,9,9,Grammar and Punctuation,9,20.00,625.00,F1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Bingham,Rita,R100000199K,788534120,9,9,Reading,8,35.00,614.38,A2:B1:F0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Bingham,Rita,R100000199K,788534120,9,9,Numeracy,9,48.00,617.50,CA1:B1:E1:F0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Brown,Jim,R100000048G,417330656,5,5,Spelling,6,18.00,533.00,SA0:SD0:PB1,P
+21213,5,Writing,21213,Hippocentaur Primary College,Brown,Jim,R100000048G,417330656,5,5,Writing,,,,,S
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Brown,Jim,R100000048G,417330656,5,5,Grammar and Punctuation,,,,,A
+21213,5,Reading,21213,Hippocentaur Primary College,Brown,Jim,R100000048G,417330656,5,5,Reading,6,31.00,528.33,A3:B1:C0,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Brown,Jim,R100000048G,417330656,5,5,Numeracy,6,32.00,531.67,A1:B0:E1,P
+21221,7,Numeracy,21221,Wishram Combined College,Johnson,Vera,R100000232G,25072537,7,7,Numeracy,8,36.00,587.50,A2:D0:C0:F0,P
+21221,7,Writing,21221,Wishram Combined College,Johnson,Vera,R100000232G,25072537,7,7,Writing,5,0.00,475.00,,P
+21221,7,Spelling,21221,Wishram Combined College,Johnson,Vera,R100000232G,25072537,7,7,Spelling,7,16.00,571.00,SA0:SD0:PD1,P
+21221,7,Reading,21221,Wishram Combined College,Johnson,Vera,R100000232G,25072537,7,7,Reading,7,33.00,578.12,A2:D0:F0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Johnson,Vera,R100000232G,25072537,7,7,Grammar and Punctuation,7,17.00,577.00,F1,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Dodd,Colette,R100000148H,496457483,3,3,Grammar and Punctuation,6,19.00,429.00,E1,P
+21217,3,Reading,21217,Phyllostoma Combined College,Dodd,Colette,R100000148H,496457483,3,3,Reading,5,20.00,391.92,A3:B1:E0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Dodd,Colette,R100000148H,496457483,3,3,Numeracy,5,27.00,418.85,CA0:B1:C0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Dodd,Colette,R100000148H,496457483,3,3,Spelling,5,16.00,411.00,SA1:SB1:PB0,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Bubb,Vanessa,R100000147G,381224207,3,3,Grammar and Punctuation,5,18.00,423.00,C1,P
+21217,3,Reading,21217,Phyllostoma Combined College,Bubb,Vanessa,R100000147G,381224207,3,3,Reading,5,23.00,403.46,A0:B1:C0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Bubb,Vanessa,R100000147G,381224207,3,3,Numeracy,6,32.00,438.08,CA1:D0:E1,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Bubb,Vanessa,R100000147G,381224207,3,3,Spelling,6,20.00,435.00,SA1:SB0:PD1,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Ellerman,Ethel,R100000210P,575358325,7,7,Numeracy,,,,,X
+21220,7,Writing,21220,Unturpentined Secondary College,Ellerman,Ethel,R100000210P,575358325,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Ellerman,Ethel,R100000210P,575358325,7,7,Spelling,7,17.00,577.00,SA1:SD0:PB1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Ellerman,Ethel,R100000210P,575358325,7,7,Reading,7,32.00,575.00,A0:B1:E0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Ellerman,Ethel,R100000210P,575358325,7,7,Grammar and Punctuation,8,21.00,601.00,E1,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Kirkland,Lloyd,R100000004R,605628993,3,3,Grammar and Punctuation,0,0.00,0.00,B0,P
+21212,3,Reading,21212,Anticapital Primary College,Kirkland,Lloyd,R100000004R,605628993,3,3,Reading,5,29.00,426.54,A3:C0:B0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Kirkland,Lloyd,R100000004R,605628993,3,3,Numeracy,5,27.00,418.85,NC1:B0:F0,P
+21212,3,Spelling,21212,Anticapital Primary College,Kirkland,Lloyd,R100000004R,605628993,3,3,Spelling,5,16.00,411.00,SA0:SB1:PD0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Ventimiglia,Miriam,R100000069P,209737245,3,3,Grammar and Punctuation,5,17.00,417.00,C0,P
+21214,3,Reading,21214,Iliac Primary College,Ventimiglia,Miriam,R100000069P,209737245,3,3,Reading,6,33.00,441.92,A2:D0:C0,P
+21214,3,Numeracy,21214,Iliac Primary College,Ventimiglia,Miriam,R100000069P,209737245,3,3,Numeracy,5,28.00,422.69,A0:D0:F0,P
+21214,3,Spelling,21214,Iliac Primary College,Ventimiglia,Miriam,R100000069P,209737245,3,3,Spelling,6,21.00,441.00,SA0:SD0:PB1,P
+21221,3,GrammarAndPunctuation,21221,Wishram Combined College,Lopez,Elvis,R100000238D,947420789,3,3,Grammar and Punctuation,5,17.00,417.00,E1,P
+21221,3,Reading,21221,Wishram Combined College,Lopez,Elvis,R100000238D,947420789,3,3,Reading,,,,A2:B1:E0,S
+21221,3,Numeracy,21221,Wishram Combined College,Lopez,Elvis,R100000238D,947420789,3,3,Numeracy,5,28.00,422.69,NC0:D1:E1,P
+21221,3,Spelling,21221,Wishram Combined College,Lopez,Elvis,R100000238D,947420789,3,3,Spelling,5,16.00,411.00,SA0:SD0:PD1,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Pearson,Chrystal,R100000156K,696159850,9,9,Spelling,8,14.00,589.00,SA0:SD1:PD1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Pearson,Chrystal,R100000156K,696159850,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Pearson,Chrystal,R100000156K,696159850,9,9,Grammar and Punctuation,9,23.00,643.00,F0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Pearson,Chrystal,R100000156K,696159850,9,9,Reading,8,31.00,601.88,A1:B0:F0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Pearson,Chrystal,R100000156K,696159850,9,9,Numeracy,8,34.00,611.25,A3:B0:C0:F0,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Vickery,Trenton,R100000024K,842856266,3,3,Grammar and Punctuation,5,18.00,423.00,C0,P
+21212,3,Reading,21212,Anticapital Primary College,Vickery,Trenton,R100000024K,842856266,3,3,Reading,5,27.00,418.85,A2:B1:C0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Vickery,Trenton,R100000024K,842856266,3,3,Numeracy,5,23.00,403.46,CA0:B0:C0,P
+21212,3,Spelling,21212,Anticapital Primary College,Vickery,Trenton,R100000024K,842856266,3,3,Spelling,5,18.00,423.00,SA0:SB0:PB1,P
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Sloan,Sharonda,R100000089A,912369050,3,3,Grammar and Punctuation,6,19.00,429.00,E0,P
+21215,3,Reading,21215,Isovalerate Combined College,Sloan,Sharonda,R100000089A,912369050,3,3,Reading,5,25.00,411.15,A0:D1:E1,P
+21215,3,Numeracy,21215,Isovalerate Combined College,Sloan,Sharonda,R100000089A,912369050,3,3,Numeracy,5,27.00,418.85,CA0:B1:C0,P
+21215,3,Spelling,21215,Isovalerate Combined College,Sloan,Sharonda,R100000089A,912369050,3,3,Spelling,5,16.00,411.00,SA0:SD1:PD1,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Warrick,Jesse,R100000038K,366375982,3,3,Grammar and Punctuation,6,20.00,435.00,C0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Warrick,Jesse,R100000038K,366375982,3,3,Reading,5,28.00,422.69,A0:D0:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Warrick,Jesse,R100000038K,366375982,3,3,Numeracy,6,32.00,438.08,NC0:B0:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Warrick,Jesse,R100000038K,366375982,3,3,Spelling,5,18.00,423.00,SA0:SD0:PD0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Sherman,Kellie,R100000071M,766731912,3,3,Grammar and Punctuation,5,15.00,405.00,C0,P
+21214,3,Reading,21214,Iliac Primary College,Sherman,Kellie,R100000071M,766731912,3,3,Reading,6,33.00,441.92,A3:D0:C0,P
+21214,3,Numeracy,21214,Iliac Primary College,Sherman,Kellie,R100000071M,766731912,3,3,Numeracy,5,25.00,411.15,A0:B1:F0,P
+21214,3,Spelling,21214,Iliac Primary College,Sherman,Kellie,R100000071M,766731912,3,3,Spelling,6,19.00,429.00,SA1:SB0:PB0,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Huggins,Lucas,R100000114G,192409105,7,7,Numeracy,7,40.00,568.75,CA1:D0:C0:E0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Huggins,Lucas,R100000114G,192409105,7,7,Writing,9,1.00,625.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Huggins,Lucas,R100000114G,192409105,7,7,Spelling,7,15.00,565.00,SA0:SD1:PD1,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Huggins,Lucas,R100000114G,192409105,7,7,Reading,7,27.00,559.38,A2:B0:F0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Huggins,Lucas,R100000114G,192409105,7,7,Grammar and Punctuation,7,16.00,571.00,F1,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Miguel,Everett,R100000107A,491481562,9,9,Spelling,8,15.00,595.00,SA0:SD1:PD1,P
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Miguel,Everett,R100000107A,491481562,9,9,Writing,,,,,W
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Miguel,Everett,R100000107A,491481562,9,9,Grammar and Punctuation,8,16.00,601.00,C0,P
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Miguel,Everett,R100000107A,491481562,9,9,Reading,9,37.00,620.62,A3:B1:C0,P
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Miguel,Everett,R100000107A,491481562,9,9,Numeracy,8,44.00,608.12,NC0:B0:E1:F0,P
+21214,5,Spelling,21214,Iliac Primary College,Brawley,Pierre,R100000057K,478468366,5,5,Spelling,6,17.00,527.00,SA1:SD0:PB0,P
+21214,5,Writing,21214,Iliac Primary College,Brawley,Pierre,R100000057K,478468366,5,5,Writing,,,,,A
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Brawley,Pierre,R100000057K,478468366,5,5,Grammar and Punctuation,6,17.00,527.00,E1,P
+21214,5,Reading,21214,Iliac Primary College,Brawley,Pierre,R100000057K,478468366,5,5,Reading,6,32.00,531.67,A0:B0:E0,P
+21214,5,Numeracy,21214,Iliac Primary College,Brawley,Pierre,R100000057K,478468366,5,5,Numeracy,,,,A3:B0:C0,S
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Taylor,Mattie,R100000034G,996421153,3,3,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Taylor,Mattie,R100000034G,996421153,3,3,Reading,,,,,E
+21213,3,Numeracy,21213,Hippocentaur Primary College,Taylor,Mattie,R100000034G,996421153,3,3,Numeracy,5,25.00,411.15,A3:B1:E0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Taylor,Mattie,R100000034G,996421153,3,3,Spelling,6,22.00,447.00,SA1:SD1:PD1,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Hall,Antone,R100000108M,749836672,9,9,Spelling,9,20.00,625.00,SA1:SB1:PB0,P
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Hall,Antone,R100000108M,749836672,9,9,Writing,10,1.00,655.00,,P
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Hall,Antone,R100000108M,749836672,9,9,Grammar and Punctuation,,,,,E
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Hall,Antone,R100000108M,749836672,9,9,Reading,,,,,X
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Hall,Antone,R100000108M,749836672,9,9,Numeracy,8,33.00,608.12,A3:B1:C0:F0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Huggins,Mack,R100000179R,756107976,9,9,Spelling,9,21.00,631.00,SA0:SB1:PB0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Huggins,Mack,R100000179R,756107976,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Huggins,Mack,R100000179R,756107976,9,9,Grammar and Punctuation,8,17.00,607.00,F1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Huggins,Mack,R100000179R,756107976,9,9,Reading,0,0.0,0.0,A3:D0:F0,R
+21219,9,Numeracy,21219,Trotcozy Secondary College,Huggins,Mack,R100000179R,756107976,9,9,Numeracy,8,36.00,589.38,NC1:D1:C0:F0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Brown,Darren,R100000218E,891208554,7,7,Numeracy,7,45.00,580.47,CA0:B1:C0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Brown,Darren,R100000218E,891208554,7,7,Writing,5,0.00,475.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Brown,Darren,R100000218E,891208554,7,7,Spelling,,,,,C
+21220,7,Reading,21220,Unturpentined Secondary College,Brown,Darren,R100000218E,891208554,7,7,Reading,7,31.00,571.88,A1:B0:F0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Brown,Darren,R100000218E,891208554,7,7,Grammar and Punctuation,7,18.00,583.00,F0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Gist,Sara,R100000047M,772546884,3,3,Grammar and Punctuation,5,15.00,405.00,F0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Gist,Sara,R100000047M,772546884,3,3,Reading,6,31.00,434.23,A0:D1:F0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Gist,Sara,R100000047M,772546884,3,3,Numeracy,,,,,W
+21213,3,Spelling,21213,Hippocentaur Primary College,Gist,Sara,R100000047M,772546884,3,3,Spelling,5,18.00,423.00,SA0:SD1:PB0,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Baker,Kristin,R100000113M,198273077,5,5,Spelling,6,14.00,509.00,SA1:SD1:PB1,P
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Baker,Kristin,R100000113M,198273077,5,5,Writing,8,1.00,575.00,,P
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Baker,Kristin,R100000113M,198273077,5,5,Grammar and Punctuation,6,17.00,527.00,E1,P
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Baker,Kristin,R100000113M,198273077,5,5,Reading,6,27.00,515.00,A2:B0:E0,P
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Baker,Kristin,R100000113M,198273077,5,5,Numeracy,6,27.00,515.00,CA1:B1:C0,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Varela,Jared,R100000163D,213211247,7,7,Numeracy,0,0.0,0.0,CA1:B1:C0:E0,R
+21218,7,Writing,21218,Redistrainer Secondary College,Varela,Jared,R100000163D,213211247,7,7,Writing,5,0.00,475.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Varela,Jared,R100000163D,213211247,7,7,Spelling,7,16.00,571.00,SA0:SB0:PB0,P
+21218,7,Reading,21218,Redistrainer Secondary College,Varela,Jared,R100000163D,213211247,7,7,Reading,8,37.00,590.62,A3:D1:E0,P
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Varela,Jared,R100000163D,213211247,7,7,Grammar and Punctuation,8,19.00,589.00,E1,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Foster,Marc,R100000197S,465705203,9,9,Spelling,8,18.00,613.00,SA1:SB0:PD1,P
+21219,9,Writing,21219,Trotcozy Secondary College,Foster,Marc,R100000197S,465705203,9,9,Writing,0,0.0,0.0,,R
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Foster,Marc,R100000197S,465705203,9,9,Grammar and Punctuation,8,18.00,613.00,C1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Foster,Marc,R100000197S,465705203,9,9,Reading,8,32.00,605.00,A3:B1:C0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Foster,Marc,R100000197S,465705203,9,9,Numeracy,,,,,C
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Romano,Salvador,R100000072G,540268370,3,3,Grammar and Punctuation,5,17.00,417.00,F0,P
+21214,3,Reading,21214,Iliac Primary College,Romano,Salvador,R100000072G,540268370,3,3,Reading,5,22.00,399.62,A0:B0:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Romano,Salvador,R100000072G,540268370,3,3,Numeracy,,,,,A
+21214,3,Spelling,21214,Iliac Primary College,Romano,Salvador,R100000072G,540268370,3,3,Spelling,6,19.00,429.00,SA0:SD1:PD1,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Smith,Brock,R100000132M,969220439,3,3,Grammar and Punctuation,6,19.00,429.00,C0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Smith,Brock,R100000132M,969220439,3,3,Reading,5,27.00,418.85,A2:D0:C0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Smith,Brock,R100000132M,969220439,3,3,Numeracy,6,30.00,430.38,CA0:B0:C0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Smith,Brock,R100000132M,969220439,3,3,Spelling,5,18.00,423.00,SA1:SD0:PD0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Bradley,Miranda,R100000052M,222625718,3,3,Grammar and Punctuation,5,18.00,423.00,F0,P
+21214,3,Reading,21214,Iliac Primary College,Bradley,Miranda,R100000052M,222625718,3,3,Reading,5,28.00,422.69,A0:B1:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Bradley,Miranda,R100000052M,222625718,3,3,Numeracy,6,30.00,430.38,CA1:D0:C0,P
+21214,3,Spelling,21214,Iliac Primary College,Bradley,Miranda,R100000052M,222625718,3,3,Spelling,6,20.00,435.00,SA0:SB0:PD0,P
+21221,7,Numeracy,21221,Wishram Combined College,Raap,Adan,R100000236K,933260619,7,7,Numeracy,7,42.00,573.44,CA0:B0:C0:E0,P
+21221,7,Writing,21221,Wishram Combined College,Raap,Adan,R100000236K,933260619,7,7,Writing,,,,,X
+21221,7,Spelling,21221,Wishram Combined College,Raap,Adan,R100000236K,933260619,7,7,Spelling,7,17.00,577.00,SA1:SD0:PB0,P
+21221,7,Reading,21221,Wishram Combined College,Raap,Adan,R100000236K,933260619,7,7,Reading,7,32.00,575.00,A0:B0:E0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Raap,Adan,R100000236K,933260619,7,7,Grammar and Punctuation,7,14.00,559.00,E1,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Davis,Pattie,R100000008A,402023619,3,3,Grammar and Punctuation,6,21.00,441.00,C0,P
+21212,3,Reading,21212,Anticapital Primary College,Davis,Pattie,R100000008A,402023619,3,3,Reading,6,30.00,430.38,A1:D1:C0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Davis,Pattie,R100000008A,402023619,3,3,Numeracy,,,,A2:D1:E1,S
+21212,3,Spelling,21212,Anticapital Primary College,Davis,Pattie,R100000008A,402023619,3,3,Spelling,6,19.00,429.00,SA1:SB0:PB1,P
+21215,5,Spelling,21215,Isovalerate Combined College,Mcdaniel,Carlos,R100000094A,188250194,5,5,Spelling,6,15.00,515.00,SA0:SB0:PD1,P
+21215,5,Writing,21215,Isovalerate Combined College,Mcdaniel,Carlos,R100000094A,188250194,5,5,Writing,8,1.00,575.00,,P
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Mcdaniel,Carlos,R100000094A,188250194,5,5,Grammar and Punctuation,6,17.00,527.00,C0,P
+21215,5,Reading,21215,Isovalerate Combined College,Mcdaniel,Carlos,R100000094A,188250194,5,5,Reading,6,30.00,525.00,A0:B0:C0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Mcdaniel,Carlos,R100000094A,188250194,5,5,Numeracy,6,33.00,535.00,A2:B0:F0,P
+21214,5,Spelling,21214,Iliac Primary College,Lachance,Kevin,R100000059D,774111723,5,5,Spelling,6,18.00,533.00,SA0:SD0:PB0,P
+21214,5,Writing,21214,Iliac Primary College,Lachance,Kevin,R100000059D,774111723,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Lachance,Kevin,R100000059D,774111723,5,5,Grammar and Punctuation,7,19.00,539.00,C1,P
+21214,5,Reading,21214,Iliac Primary College,Lachance,Kevin,R100000059D,774111723,5,5,Reading,6,31.00,528.33,A2:D1:C0,P
+21214,5,Numeracy,21214,Iliac Primary College,Lachance,Kevin,R100000059D,774111723,5,5,Numeracy,6,30.00,525.00,A3:D0:C0,P
+21221,7,Numeracy,21221,Wishram Combined College,Rudder,Kelsey,R100000249A,951895034,7,7,Numeracy,7,46.00,582.81,CA1:D1:C0:E0,P
+21221,7,Writing,21221,Wishram Combined College,Rudder,Kelsey,R100000249A,951895034,7,7,Writing,5,0.00,475.00,,P
+21221,7,Spelling,21221,Wishram Combined College,Rudder,Kelsey,R100000249A,951895034,7,7,Spelling,7,18.00,583.00,SA1:SD0:PD0,P
+21221,7,Reading,21221,Wishram Combined College,Rudder,Kelsey,R100000249A,951895034,7,7,Reading,8,36.00,587.50,A1:B0:F0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Rudder,Kelsey,R100000249A,951895034,7,7,Grammar and Punctuation,7,17.00,577.00,F1,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Tillman,Angel,R100000201S,520369196,7,7,Numeracy,8,48.00,587.50,NC1:D0:E0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Tillman,Angel,R100000201S,520369196,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Tillman,Angel,R100000201S,520369196,7,7,Spelling,7,14.00,559.00,SA0:SB0:PB1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Tillman,Angel,R100000201S,520369196,7,7,Reading,7,30.00,568.75,A3:B0:E1,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Tillman,Angel,R100000201S,520369196,7,7,Grammar and Punctuation,7,16.00,571.00,E1,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Holmes,Wayne,R100000126A,937352317,3,3,Grammar and Punctuation,6,19.00,429.00,F0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Holmes,Wayne,R100000126A,937352317,3,3,Reading,5,29.00,426.54,A3:D0:F0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Holmes,Wayne,R100000126A,937352317,3,3,Numeracy,5,28.00,422.69,A1:B0:F0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Holmes,Wayne,R100000126A,937352317,3,3,Spelling,,,,,A
+21217,5,Spelling,21217,Phyllostoma Combined College,Smith,Annabelle,R100000144D,954748572,5,5,Spelling,7,22.00,557.00,SA0:SB1:PB1,P
+21217,5,Writing,21217,Phyllostoma Combined College,Smith,Annabelle,R100000144D,954748572,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Smith,Annabelle,R100000144D,954748572,5,5,Grammar and Punctuation,6,18.00,533.00,C1,P
+21217,5,Reading,21217,Phyllostoma Combined College,Smith,Annabelle,R100000144D,954748572,5,5,Reading,0,0.0,0.0,A3:D1:C0,R
+21217,5,Numeracy,21217,Phyllostoma Combined College,Smith,Annabelle,R100000144D,954748572,5,5,Numeracy,7,35.00,541.67,CA0:B1:C0,P
+21217,7,Numeracy,21217,Phyllostoma Combined College,Hatchett,Susana,R100000134H,419563912,7,7,Numeracy,,,,,A
+21217,7,Writing,21217,Phyllostoma Combined College,Hatchett,Susana,R100000134H,419563912,7,7,Writing,5,0.00,475.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Hatchett,Susana,R100000134H,419563912,7,7,Spelling,,,,,E
+21217,7,Reading,21217,Phyllostoma Combined College,Hatchett,Susana,R100000134H,419563912,7,7,Reading,7,32.00,575.00,A3:D0:F0,P
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Hatchett,Susana,R100000134H,419563912,7,7,Grammar and Punctuation,7,18.00,583.00,F1,P
+21217,5,Spelling,21217,Phyllostoma Combined College,Park,Gay,R100000133G,910440016,5,5,Spelling,7,19.00,539.00,SA0:SB1:PD0,P
+21217,5,Writing,21217,Phyllostoma Combined College,Park,Gay,R100000133G,910440016,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Park,Gay,R100000133G,910440016,5,5,Grammar and Punctuation,6,13.00,503.00,F0,P
+21217,5,Reading,21217,Phyllostoma Combined College,Park,Gay,R100000133G,910440016,5,5,Reading,7,35.00,541.67,A0:B0:F0,P
+21217,5,Numeracy,21217,Phyllostoma Combined College,Park,Gay,R100000133G,910440016,5,5,Numeracy,6,33.00,535.00,A3:D1:C0,P
+21214,5,Spelling,21214,Iliac Primary College,Mitten,Belinda,R100000064D,384397284,5,5,Spelling,6,13.00,503.00,SA1:SB1:PD1,P
+21214,5,Writing,21214,Iliac Primary College,Mitten,Belinda,R100000064D,384397284,5,5,Writing,,,,,E
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Mitten,Belinda,R100000064D,384397284,5,5,Grammar and Punctuation,6,17.00,527.00,F1,P
+21214,5,Reading,21214,Iliac Primary College,Mitten,Belinda,R100000064D,384397284,5,5,Reading,6,27.00,515.00,A2:B1:F0,P
+21214,5,Numeracy,21214,Iliac Primary College,Mitten,Belinda,R100000064D,384397284,5,5,Numeracy,7,35.00,541.67,CA0:B0:C0,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Thompson,Eduardo,R100000117R,73385408,7,7,Numeracy,7,42.00,573.44,CA0:D1:C0:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Thompson,Eduardo,R100000117R,73385408,7,7,Writing,5,0.00,475.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Thompson,Eduardo,R100000117R,73385408,7,7,Spelling,8,19.00,589.00,SA1:SB1:PD0,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Thompson,Eduardo,R100000117R,73385408,7,7,Reading,7,32.00,575.00,A2:D1:F0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Thompson,Eduardo,R100000117R,73385408,7,7,Grammar and Punctuation,,,,,E
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Scott,Briana,R100000041S,855487884,3,3,Grammar and Punctuation,5,18.00,423.00,C0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Scott,Briana,R100000041S,855487884,3,3,Reading,5,20.00,391.92,A0:B0:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Scott,Briana,R100000041S,855487884,3,3,Numeracy,5,28.00,422.69,CA0:D1:E0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Scott,Briana,R100000041S,855487884,3,3,Spelling,6,19.00,429.00,SA0:SD0:PD0,P
+21214,5,Spelling,21214,Iliac Primary College,Smith,Terrance,R100000070A,828739037,5,5,Spelling,6,18.00,533.00,SA0:SD0:PD0,P
+21214,5,Writing,21214,Iliac Primary College,Smith,Terrance,R100000070A,828739037,5,5,Writing,,,,,A
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Smith,Terrance,R100000070A,828739037,5,5,Grammar and Punctuation,,,,,X
+21214,5,Reading,21214,Iliac Primary College,Smith,Terrance,R100000070A,828739037,5,5,Reading,6,31.00,528.33,A1:D0:C0,P
+21214,5,Numeracy,21214,Iliac Primary College,Smith,Terrance,R100000070A,828739037,5,5,Numeracy,6,31.00,528.33,NC1:B0:F0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Mccaffrey,Jody,R100000208G,554661825,7,7,Numeracy,,,,A3:B1:C0:F0,S
+21220,7,Writing,21220,Unturpentined Secondary College,Mccaffrey,Jody,R100000208G,554661825,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Mccaffrey,Jody,R100000208G,554661825,7,7,Spelling,7,17.00,577.00,SA1:SB1:PB0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Mccaffrey,Jody,R100000208G,554661825,7,7,Reading,8,40.00,600.00,A3:B1:F0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Mccaffrey,Jody,R100000208G,554661825,7,7,Grammar and Punctuation,6,11.00,541.00,F1,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Pulliam,Pearl,R100000110H,557824343,7,7,Numeracy,7,29.00,565.62,A2:D1:E0:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Pulliam,Pearl,R100000110H,557824343,7,7,Writing,9,1.00,625.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Pulliam,Pearl,R100000110H,557824343,7,7,Spelling,8,22.00,607.00,SA1:SD0:PB0,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Pulliam,Pearl,R100000110H,557824343,7,7,Reading,7,33.00,578.12,A1:C0:B0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Pulliam,Pearl,R100000110H,557824343,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21212,5,Spelling,21212,Anticapital Primary College,Hill,Susana,R100000000K,812451070,5,5,Spelling,,,,,X
+21212,5,Writing,21212,Anticapital Primary College,Hill,Susana,R100000000K,812451070,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Hill,Susana,R100000000K,812451070,5,5,Grammar and Punctuation,6,15.00,515.00,E1,P
+21212,5,Reading,21212,Anticapital Primary College,Hill,Susana,R100000000K,812451070,5,5,Reading,7,34.00,538.33,A3:B0:E0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Hill,Susana,R100000000K,812451070,5,5,Numeracy,6,32.00,531.67,CA0:D1:C0,P
+21212,5,Spelling,21212,Anticapital Primary College,Williams,Jimmie,R100000012P,624650841,5,5,Spelling,7,19.00,539.00,SA1:SB1:PB1,P
+21212,5,Writing,21212,Anticapital Primary College,Williams,Jimmie,R100000012P,624650841,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Williams,Jimmie,R100000012P,624650841,5,5,Grammar and Punctuation,0,0.0,0.0,B0,R
+21212,5,Reading,21212,Anticapital Primary College,Williams,Jimmie,R100000012P,624650841,5,5,Reading,6,30.00,525.00,A2:C0:B0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Williams,Jimmie,R100000012P,624650841,5,5,Numeracy,6,28.00,518.33,CA0:B0:E0,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Trevino,Leonor,R100000020E,925430999,3,3,Grammar and Punctuation,0,0.00,0.00,B0,P
+21212,3,Reading,21212,Anticapital Primary College,Trevino,Leonor,R100000020E,925430999,3,3,Reading,6,31.00,434.23,A1:C0:B1,P
+21212,3,Numeracy,21212,Anticapital Primary College,Trevino,Leonor,R100000020E,925430999,3,3,Numeracy,5,23.00,403.46,A3:D1:C0,P
+21212,3,Spelling,21212,Anticapital Primary College,Trevino,Leonor,R100000020E,925430999,3,3,Spelling,5,16.00,411.00,SA0:SD0:PB1,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Jennings,Mathew,R100000176E,14040244,9,9,Spelling,8,17.00,607.00,SA1:SB0:PD0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Jennings,Mathew,R100000176E,14040244,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Jennings,Mathew,R100000176E,14040244,9,9,Grammar and Punctuation,0,0.00,0.00,B0,P
+21219,9,Reading,21219,Trotcozy Secondary College,Jennings,Mathew,R100000176E,14040244,9,9,Reading,8,28.00,592.50,A2:C0:B1,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Jennings,Mathew,R100000176E,14040244,9,9,Numeracy,,,,,X
+21214,5,Spelling,21214,Iliac Primary College,Stewart,Latasha,R100000061R,455745192,5,5,Spelling,6,18.00,533.00,SA0:SB0:PB1,P
+21214,5,Writing,21214,Iliac Primary College,Stewart,Latasha,R100000061R,455745192,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Stewart,Latasha,R100000061R,455745192,5,5,Grammar and Punctuation,6,17.00,527.00,E1,P
+21214,5,Reading,21214,Iliac Primary College,Stewart,Latasha,R100000061R,455745192,5,5,Reading,6,33.00,535.00,A0:B0:E1,P
+21214,5,Numeracy,21214,Iliac Primary College,Stewart,Latasha,R100000061R,455745192,5,5,Numeracy,7,35.00,541.67,CA1:D0:E1,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Phillips,Willian,R100000219D,820681232,7,7,Numeracy,7,43.00,575.78,CA1:B1:C0:E1,P
+21220,7,Writing,21220,Unturpentined Secondary College,Phillips,Willian,R100000219D,820681232,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Phillips,Willian,R100000219D,820681232,7,7,Spelling,7,16.00,571.00,SA0:SB1:PD1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Phillips,Willian,R100000219D,820681232,7,7,Reading,7,33.00,578.12,A3:B1:E0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Phillips,Willian,R100000219D,820681232,7,7,Grammar and Punctuation,7,16.00,571.00,E1,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Carr,Sally,R100000017S,684855136,3,3,Grammar and Punctuation,,,,,E
+21212,3,Reading,21212,Anticapital Primary College,Carr,Sally,R100000017S,684855136,3,3,Reading,6,33.00,441.92,A1:B0:E1,P
+21212,3,Numeracy,21212,Anticapital Primary College,Carr,Sally,R100000017S,684855136,3,3,Numeracy,5,27.00,418.85,CA0:B0:C0,P
+21212,3,Spelling,21212,Anticapital Primary College,Carr,Sally,R100000017S,684855136,3,3,Spelling,5,17.00,417.00,SA1:SD0:PD1,P
+21221,7,Numeracy,21221,Wishram Combined College,Smith,Mickie,R100000247H,360685193,7,7,Numeracy,7,47.00,585.16,CA1:B1:C0:E1,P
+21221,7,Writing,21221,Wishram Combined College,Smith,Mickie,R100000247H,360685193,7,7,Writing,,,,,E
+21221,7,Spelling,21221,Wishram Combined College,Smith,Mickie,R100000247H,360685193,7,7,Spelling,,,,,A
+21221,7,Reading,21221,Wishram Combined College,Smith,Mickie,R100000247H,360685193,7,7,Reading,7,35.00,584.38,A2:D1:C0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Smith,Mickie,R100000247H,360685193,7,7,Grammar and Punctuation,8,19.00,589.00,C1,P
+21221,5,Spelling,21221,Wishram Combined College,Fuquay,Mark,R100000248P,963412185,5,5,Spelling,,,,,X
+21221,5,Writing,21221,Wishram Combined College,Fuquay,Mark,R100000248P,963412185,5,5,Writing,8,1.00,575.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Fuquay,Mark,R100000248P,963412185,5,5,Grammar and Punctuation,6,13.00,503.00,C0,P
+21221,5,Reading,21221,Wishram Combined College,Fuquay,Mark,R100000248P,963412185,5,5,Reading,6,33.00,535.00,A2:D0:C0,P
+21221,5,Numeracy,21221,Wishram Combined College,Fuquay,Mark,R100000248P,963412185,5,5,Numeracy,,,,,E
+21220,7,Numeracy,21220,Unturpentined Secondary College,Gratton,Anibal,R100000200D,385371423,7,7,Numeracy,8,40.00,600.00,A2:D0:E1:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Gratton,Anibal,R100000200D,385371423,7,7,Writing,,,,,X
+21220,7,Spelling,21220,Unturpentined Secondary College,Gratton,Anibal,R100000200D,385371423,7,7,Spelling,8,20.00,595.00,SA1:SD0:PB1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Gratton,Anibal,R100000200D,385371423,7,7,Reading,7,31.00,571.88,A1:B0:C0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Gratton,Anibal,R100000200D,385371423,7,7,Grammar and Punctuation,7,18.00,583.00,C1,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Pritchett,Tracy,R100000145A,723237700,3,3,Grammar and Punctuation,5,16.00,411.00,F1,P
+21217,3,Reading,21217,Phyllostoma Combined College,Pritchett,Tracy,R100000145A,723237700,3,3,Reading,5,29.00,426.54,A3:B1:F0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Pritchett,Tracy,R100000145A,723237700,3,3,Numeracy,5,23.00,403.46,NC0:B1:F0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Pritchett,Tracy,R100000145A,723237700,3,3,Spelling,,,,,C
+21214,5,Spelling,21214,Iliac Primary College,Davis,Bobby,R100000050P,72785717,5,5,Spelling,7,19.00,539.00,SA1:SB1:PB1,P
+21214,5,Writing,21214,Iliac Primary College,Davis,Bobby,R100000050P,72785717,5,5,Writing,4,0.00,425.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Davis,Bobby,R100000050P,72785717,5,5,Grammar and Punctuation,6,15.00,515.00,C1,P
+21214,5,Reading,21214,Iliac Primary College,Davis,Bobby,R100000050P,72785717,5,5,Reading,7,36.00,545.00,A2:D1:C0,P
+21214,5,Numeracy,21214,Iliac Primary College,Davis,Bobby,R100000050P,72785717,5,5,Numeracy,6,32.00,531.67,CA0:B0:F0,P
+21215,7,Numeracy,21215,Isovalerate Combined College,Welch,Bobbie,R100000084S,140397837,7,7,Numeracy,8,50.00,592.19,CA1:D0:E1:F0,P
+21215,7,Writing,21215,Isovalerate Combined College,Welch,Bobbie,R100000084S,140397837,7,7,Writing,9,1.00,625.00,,P
+21215,7,Spelling,21215,Isovalerate Combined College,Welch,Bobbie,R100000084S,140397837,7,7,Spelling,8,19.00,589.00,SA0:SD1:PB0,P
+21215,7,Reading,21215,Isovalerate Combined College,Welch,Bobbie,R100000084S,140397837,7,7,Reading,7,32.00,575.00,A2:D0:E1,P
+21215,7,GrammarAndPunctuation,21215,Isovalerate Combined College,Welch,Bobbie,R100000084S,140397837,7,7,Grammar and Punctuation,8,19.00,589.00,E1,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Burger,Vance,R100000180K,42576899,7,7,Numeracy,7,41.00,571.09,CA1:B1:C0:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Burger,Vance,R100000180K,42576899,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Burger,Vance,R100000180K,42576899,7,7,Spelling,8,20.00,595.00,SA1:SD0:PD1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Burger,Vance,R100000180K,42576899,7,7,Reading,7,28.00,562.50,A2:C0:B1,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Burger,Vance,R100000180K,42576899,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Silva,Tina,R100000186H,730559528,7,7,Numeracy,7,31.00,571.88,A3:D0:E1:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Silva,Tina,R100000186H,730559528,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Silva,Tina,R100000186H,730559528,7,7,Spelling,0,0.0,0.0,SA0:SB0:PB0,R
+21219,7,Reading,21219,Trotcozy Secondary College,Silva,Tina,R100000186H,730559528,7,7,Reading,8,37.00,590.62,A3:D1:C0,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Silva,Tina,R100000186H,730559528,7,7,Grammar and Punctuation,,,,C0,S
+21218,9,Spelling,21218,Redistrainer Secondary College,Greenbaum,Melonie,R100000155R,213949532,9,9,Spelling,8,18.00,613.00,SA0:SD0:PD0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Greenbaum,Melonie,R100000155R,213949532,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Greenbaum,Melonie,R100000155R,213949532,9,9,Grammar and Punctuation,8,18.00,613.00,F0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Greenbaum,Melonie,R100000155R,213949532,9,9,Reading,,,,A2:B1:F0,S
+21218,9,Numeracy,21218,Redistrainer Secondary College,Greenbaum,Melonie,R100000155R,213949532,9,9,Numeracy,9,48.00,617.50,CA0:B1:C0:F0,P
+21212,5,Spelling,21212,Anticapital Primary College,Martin,Nona,R100000023R,624504082,5,5,Spelling,6,18.00,533.00,SA0:SB1:PD1,P
+21212,5,Writing,21212,Anticapital Primary College,Martin,Nona,R100000023R,624504082,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Martin,Nona,R100000023R,624504082,5,5,Grammar and Punctuation,6,17.00,527.00,C1,P
+21212,5,Reading,21212,Anticapital Primary College,Martin,Nona,R100000023R,624504082,5,5,Reading,6,28.00,518.33,A1:B1:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Martin,Nona,R100000023R,624504082,5,5,Numeracy,6,30.00,525.00,A2:D0:E0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Harris,Melonie,R100000221R,422061162,7,7,Numeracy,7,32.00,575.00,A3:D1:E0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Harris,Melonie,R100000221R,422061162,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Harris,Melonie,R100000221R,422061162,7,7,Spelling,8,20.00,595.00,SA0:SD0:PB0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Harris,Melonie,R100000221R,422061162,7,7,Reading,8,40.00,600.00,A1:D1:E1,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Harris,Melonie,R100000221R,422061162,7,7,Grammar and Punctuation,,,,,C
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Casey,Brigitte,R100000025H,897587571,3,3,Grammar and Punctuation,5,14.00,399.00,F1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Casey,Brigitte,R100000025H,897587571,3,3,Reading,6,31.00,434.23,A3:D1:F0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Casey,Brigitte,R100000025H,897587571,3,3,Numeracy,5,27.00,418.85,A1:B0:E1,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Casey,Brigitte,R100000025H,897587571,3,3,Spelling,6,19.00,429.00,SA0:SD1:PB0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Cooley,Cora,R100000214H,153282012,7,7,Numeracy,7,44.00,578.12,CA0:D0:C0:E1,P
+21220,7,Writing,21220,Unturpentined Secondary College,Cooley,Cora,R100000214H,153282012,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Cooley,Cora,R100000214H,153282012,7,7,Spelling,7,15.00,565.00,SA0:SB1:PD0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Cooley,Cora,R100000214H,153282012,7,7,Reading,7,35.00,584.38,A2:C0:B0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Cooley,Cora,R100000214H,153282012,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Million,Laura,R100000029G,664875159,5,5,Spelling,6,18.00,533.00,SA0:SD1:PB0,P
+21213,5,Writing,21213,Hippocentaur Primary College,Million,Laura,R100000029G,664875159,5,5,Writing,8,1.00,575.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Million,Laura,R100000029G,664875159,5,5,Grammar and Punctuation,7,19.00,539.00,F1,P
+21213,5,Reading,21213,Hippocentaur Primary College,Million,Laura,R100000029G,664875159,5,5,Reading,7,34.00,538.33,A3:D0:F0,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Million,Laura,R100000029G,664875159,5,5,Numeracy,6,31.00,528.33,CA1:D1:E1,P
+21221,7,Numeracy,21221,Wishram Combined College,Brandl,Danna,R100000237E,824066061,7,7,Numeracy,7,42.00,573.44,NC0:D1:E0:F0,P
+21221,7,Writing,21221,Wishram Combined College,Brandl,Danna,R100000237E,824066061,7,7,Writing,5,0.00,475.00,,P
+21221,7,Spelling,21221,Wishram Combined College,Brandl,Danna,R100000237E,824066061,7,7,Spelling,7,18.00,583.00,SA1:SD1:PB1,P
+21221,7,Reading,21221,Wishram Combined College,Brandl,Danna,R100000237E,824066061,7,7,Reading,,,,,A
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Brandl,Danna,R100000237E,824066061,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Arroyo,Amelia,R100000032A,368200198,3,3,Grammar and Punctuation,,,,F0,S
+21213,3,Reading,21213,Hippocentaur Primary College,Arroyo,Amelia,R100000032A,368200198,3,3,Reading,,,,A0:B1:F0,S
+21213,3,Numeracy,21213,Hippocentaur Primary College,Arroyo,Amelia,R100000032A,368200198,3,3,Numeracy,6,31.00,434.23,A0:B1:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Arroyo,Amelia,R100000032A,368200198,3,3,Spelling,6,20.00,435.00,SA1:SD0:PB0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Browder,Bryan,R100000033M,118803037,3,3,Grammar and Punctuation,5,16.00,411.00,C1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Browder,Bryan,R100000033M,118803037,3,3,Reading,5,26.00,415.00,A0:B0:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Browder,Bryan,R100000033M,118803037,3,3,Numeracy,5,28.00,422.69,CA0:D0:E0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Browder,Bryan,R100000033M,118803037,3,3,Spelling,6,19.00,429.00,SA0:SD1:PB1,P
+21215,5,Spelling,21215,Isovalerate Combined College,Spangler,Glenn,R100000079S,117672957,5,5,Spelling,6,15.00,515.00,SA0:SD0:PD1,P
+21215,5,Writing,21215,Isovalerate Combined College,Spangler,Glenn,R100000079S,117672957,5,5,Writing,8,1.00,575.00,,P
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Spangler,Glenn,R100000079S,117672957,5,5,Grammar and Punctuation,6,18.00,533.00,F1,P
+21215,5,Reading,21215,Isovalerate Combined College,Spangler,Glenn,R100000079S,117672957,5,5,Reading,6,33.00,535.00,A3:B1:F0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Spangler,Glenn,R100000079S,117672957,5,5,Numeracy,6,28.00,518.33,CA0:D0:C0,P
+21217,7,Numeracy,21217,Phyllostoma Combined College,Hatchett,Adrian,R100000141R,443441432,7,7,Numeracy,7,44.00,578.12,CA0:B1:C0:E1,P
+21217,7,Writing,21217,Phyllostoma Combined College,Hatchett,Adrian,R100000141R,443441432,7,7,Writing,9,1.00,625.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Hatchett,Adrian,R100000141R,443441432,7,7,Spelling,7,18.00,583.00,SA1:SD0:PB1,P
+21217,7,Reading,21217,Phyllostoma Combined College,Hatchett,Adrian,R100000141R,443441432,7,7,Reading,7,35.00,584.38,A1:D0:C0,P
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Hatchett,Adrian,R100000141R,443441432,7,7,Grammar and Punctuation,7,16.00,571.00,C0,P
+21217,7,Numeracy,21217,Phyllostoma Combined College,Lloyd,Tisha,R100000130P,750413097,7,7,Numeracy,7,31.00,571.88,A3:D1:C0:F0,P
+21217,7,Writing,21217,Phyllostoma Combined College,Lloyd,Tisha,R100000130P,750413097,7,7,Writing,9,1.00,625.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Lloyd,Tisha,R100000130P,750413097,7,7,Spelling,8,19.00,589.00,SA0:SB0:PD0,P
+21217,7,Reading,21217,Phyllostoma Combined College,Lloyd,Tisha,R100000130P,750413097,7,7,Reading,8,38.00,593.75,A1:B0:E1,P
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Lloyd,Tisha,R100000130P,750413097,7,7,Grammar and Punctuation,0,0.0,0.0,E0,R
+21221,5,Spelling,21221,Wishram Combined College,Dallas,Johnathan,R100000244S,847017452,5,5,Spelling,,,,,E
+21221,5,Writing,21221,Wishram Combined College,Dallas,Johnathan,R100000244S,847017452,5,5,Writing,4,0.00,425.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Dallas,Johnathan,R100000244S,847017452,5,5,Grammar and Punctuation,0,0.00,0.00,B0,P
+21221,5,Reading,21221,Wishram Combined College,Dallas,Johnathan,R100000244S,847017452,5,5,Reading,7,34.00,538.33,A3:C0:B1,P
+21221,5,Numeracy,21221,Wishram Combined College,Dallas,Johnathan,R100000244S,847017452,5,5,Numeracy,6,32.00,531.67,CA1:D0:C0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Kummer,Audry,R100000152G,3596939,9,9,Spelling,8,16.00,601.00,SA1:SD0:PD0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Kummer,Audry,R100000152G,3596939,9,9,Writing,6,0.00,505.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Kummer,Audry,R100000152G,3596939,9,9,Grammar and Punctuation,8,16.00,601.00,C0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Kummer,Audry,R100000152G,3596939,9,9,Reading,8,35.00,614.38,A1:B0:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Kummer,Audry,R100000152G,3596939,9,9,Numeracy,8,33.00,608.12,A2:B1:E1:F0,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Countess,Nathan,R100000154P,838740156,7,7,Numeracy,7,33.00,578.12,A2:B0:E0:F0,P
+21218,7,Writing,21218,Redistrainer Secondary College,Countess,Nathan,R100000154P,838740156,7,7,Writing,9,1.00,625.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Countess,Nathan,R100000154P,838740156,7,7,Spelling,7,18.00,583.00,SA0:SB0:PD1,P
+21218,7,Reading,21218,Redistrainer Secondary College,Countess,Nathan,R100000154P,838740156,7,7,Reading,7,28.00,562.50,A1:B0:C0,P
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Countess,Nathan,R100000154P,838740156,7,7,Grammar and Punctuation,7,18.00,583.00,C1,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Fitts,Adam,R100000055S,502150920,3,3,Grammar and Punctuation,5,16.00,411.00,F0,P
+21214,3,Reading,21214,Iliac Primary College,Fitts,Adam,R100000055S,502150920,3,3,Reading,5,24.00,407.31,A1:B0:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Fitts,Adam,R100000055S,502150920,3,3,Numeracy,5,29.00,426.54,A0:B1:F0,P
+21214,3,Spelling,21214,Iliac Primary College,Fitts,Adam,R100000055S,502150920,3,3,Spelling,,,,,A
+21218,9,Spelling,21218,Redistrainer Secondary College,Howard,Annabelle,R100000165M,790764867,9,9,Spelling,9,19.00,619.00,SA1:SB0:PB0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Howard,Annabelle,R100000165M,790764867,9,9,Writing,,,,,S
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Howard,Annabelle,R100000165M,790764867,9,9,Grammar and Punctuation,0,0.00,0.00,B0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Howard,Annabelle,R100000165M,790764867,9,9,Reading,9,37.00,620.62,A1:C0:B0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Howard,Annabelle,R100000165M,790764867,9,9,Numeracy,8,44.00,608.12,CA0:B1:C0:E1,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Harrison,Luetta,R100000120D,405246056,5,5,Spelling,,,,,W
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Harrison,Luetta,R100000120D,405246056,5,5,Writing,,,,,X
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Harrison,Luetta,R100000120D,405246056,5,5,Grammar and Punctuation,6,16.00,521.00,F1,P
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Harrison,Luetta,R100000120D,405246056,5,5,Reading,,,,A2:B1:F0,S
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Harrison,Luetta,R100000120D,405246056,5,5,Numeracy,6,30.00,525.00,A1:B1:E0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Rayl,Kimberly,R100000223E,881111799,9,9,Spelling,8,17.00,607.00,SA1:SB1:PB1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Rayl,Kimberly,R100000223E,881111799,9,9,Writing,6,0.00,505.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Rayl,Kimberly,R100000223E,881111799,9,9,Grammar and Punctuation,8,15.00,595.00,E0,P
+21220,9,Reading,21220,Unturpentined Secondary College,Rayl,Kimberly,R100000223E,881111799,9,9,Reading,8,30.00,598.75,A0:B1:E0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Rayl,Kimberly,R100000223E,881111799,9,9,Numeracy,8,41.00,601.09,NC1:B1:E1:F0,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Harper,Courtney,R100000124E,332886320,7,7,Numeracy,8,37.00,590.62,A1:D0:C0:E0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Harper,Courtney,R100000124E,332886320,7,7,Writing,9,1.00,625.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Harper,Courtney,R100000124E,332886320,7,7,Spelling,8,20.00,595.00,SA1:SD1:PD0,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Harper,Courtney,R100000124E,332886320,7,7,Reading,7,30.00,568.75,A0:B0:E0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Harper,Courtney,R100000124E,332886320,7,7,Grammar and Punctuation,7,18.00,583.00,E1,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Manders,Jasper,R100000181E,123271330,9,9,Spelling,,,,SA1:SD0:PB0,S
+21219,9,Writing,21219,Trotcozy Secondary College,Manders,Jasper,R100000181E,123271330,9,9,Writing,,,,,W
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Manders,Jasper,R100000181E,123271330,9,9,Grammar and Punctuation,9,21.00,631.00,E1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Manders,Jasper,R100000181E,123271330,9,9,Reading,9,38.00,623.75,A1:B0:E1,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Manders,Jasper,R100000181E,123271330,9,9,Numeracy,9,50.00,622.19,CA0:D1:C0:F0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Condon,Reiko,R100000039E,693417314,3,3,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Condon,Reiko,R100000039E,693417314,3,3,Reading,,,,,X
+21213,3,Numeracy,21213,Hippocentaur Primary College,Condon,Reiko,R100000039E,693417314,3,3,Numeracy,5,20.00,391.92,NC1:D1:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Condon,Reiko,R100000039E,693417314,3,3,Spelling,5,15.00,405.00,SA0:SD0:PD0,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Roderick,Gilbert,R100000104K,173885081,9,9,Spelling,8,16.00,601.00,SA0:SB1:PD0,P
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Roderick,Gilbert,R100000104K,173885081,9,9,Writing,10,1.00,655.00,,P
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Roderick,Gilbert,R100000104K,173885081,9,9,Grammar and Punctuation,9,19.00,619.00,C1,P
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Roderick,Gilbert,R100000104K,173885081,9,9,Reading,9,37.00,620.62,A0:B0:C0,P
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Roderick,Gilbert,R100000104K,173885081,9,9,Numeracy,8,46.00,612.81,NC0:D0:E0:F0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Hedstrom,Clay,R100000164S,215533833,9,9,Spelling,9,19.00,619.00,SA0:SD1:PD0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Hedstrom,Clay,R100000164S,215533833,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Hedstrom,Clay,R100000164S,215533833,9,9,Grammar and Punctuation,8,17.00,607.00,E0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Hedstrom,Clay,R100000164S,215533833,9,9,Reading,8,33.00,608.12,A1:D1:E0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Hedstrom,Clay,R100000164S,215533833,9,9,Numeracy,8,34.00,611.25,A3:D1:E1:F0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Mcbride,Wilton,R100000189M,639404255,9,9,Spelling,8,15.00,595.00,SA1:SB0:PB1,P
+21219,9,Writing,21219,Trotcozy Secondary College,Mcbride,Wilton,R100000189M,639404255,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Mcbride,Wilton,R100000189M,639404255,9,9,Grammar and Punctuation,9,21.00,631.00,E1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Mcbride,Wilton,R100000189M,639404255,9,9,Reading,8,33.00,608.12,A2:B1:E0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Mcbride,Wilton,R100000189M,639404255,9,9,Numeracy,8,33.00,608.12,A2:D1:C0:E0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Messer,Ryan,R100000159S,519386903,9,9,Spelling,9,19.00,619.00,SA0:SD1:PD0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Messer,Ryan,R100000159S,519386903,9,9,Writing,6,0.00,505.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Messer,Ryan,R100000159S,519386903,9,9,Grammar and Punctuation,9,19.00,619.00,C0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Messer,Ryan,R100000159S,519386903,9,9,Reading,8,31.00,601.88,A3:D1:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Messer,Ryan,R100000159S,519386903,9,9,Numeracy,8,33.00,608.12,A2:D1:C0:E0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Yamada,Ervin,R100000196D,191846225,9,9,Spelling,,,,,W
+21219,9,Writing,21219,Trotcozy Secondary College,Yamada,Ervin,R100000196D,191846225,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Yamada,Ervin,R100000196D,191846225,9,9,Grammar and Punctuation,9,19.00,619.00,F0,P
+21219,9,Reading,21219,Trotcozy Secondary College,Yamada,Ervin,R100000196D,191846225,9,9,Reading,8,33.00,608.12,A0:B0:F0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Yamada,Ervin,R100000196D,191846225,9,9,Numeracy,8,45.00,610.47,NC1:D1:C0:E1,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Willett,Geralyn,R100000103R,938696651,5,5,Spelling,6,17.00,527.00,SA0:SB0:PB0,P
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Willett,Geralyn,R100000103R,938696651,5,5,Writing,4,0.00,425.00,,P
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Willett,Geralyn,R100000103R,938696651,5,5,Grammar and Punctuation,6,18.00,533.00,C1,P
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Willett,Geralyn,R100000103R,938696651,5,5,Reading,6,31.00,528.33,A1:D1:C0,P
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Willett,Geralyn,R100000103R,938696651,5,5,Numeracy,6,33.00,535.00,CA0:D0:E0,P
+21212,5,Spelling,21212,Anticapital Primary College,Cooper,Beth,R100000022S,636164925,5,5,Spelling,6,17.00,527.00,SA0:SD1:PB1,P
+21212,5,Writing,21212,Anticapital Primary College,Cooper,Beth,R100000022S,636164925,5,5,Writing,4,0.00,425.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Cooper,Beth,R100000022S,636164925,5,5,Grammar and Punctuation,7,20.00,545.00,C1,P
+21212,5,Reading,21212,Anticapital Primary College,Cooper,Beth,R100000022S,636164925,5,5,Reading,6,31.00,528.33,A2:D1:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Cooper,Beth,R100000022S,636164925,5,5,Numeracy,,,,,E
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Raap,Roosevelt,R100000118K,61996937,7,7,Numeracy,7,33.00,578.12,A1:B0:E0:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Raap,Roosevelt,R100000118K,61996937,7,7,Writing,5,0.00,475.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Raap,Roosevelt,R100000118K,61996937,7,7,Spelling,8,20.00,595.00,SA1:SB1:PD1,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Raap,Roosevelt,R100000118K,61996937,7,7,Reading,,,,,X
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Raap,Roosevelt,R100000118K,61996937,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Richardson,Marge,R100000182D,208115536,7,7,Numeracy,,,,,E
+21219,7,Writing,21219,Trotcozy Secondary College,Richardson,Marge,R100000182D,208115536,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Richardson,Marge,R100000182D,208115536,7,7,Spelling,7,18.00,583.00,SA1:SD1:PD1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Richardson,Marge,R100000182D,208115536,7,7,Reading,,,,,E
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Richardson,Marge,R100000182D,208115536,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Williams,Felipe,R100000046A,442186590,5,5,Spelling,6,18.00,533.00,SA0:SD0:PD0,P
+21213,5,Writing,21213,Hippocentaur Primary College,Williams,Felipe,R100000046A,442186590,5,5,Writing,4,0.00,425.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Williams,Felipe,R100000046A,442186590,5,5,Grammar and Punctuation,,,,,W
+21213,5,Reading,21213,Hippocentaur Primary College,Williams,Felipe,R100000046A,442186590,5,5,Reading,6,32.00,531.67,A3:C0:B1,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Williams,Felipe,R100000046A,442186590,5,5,Numeracy,6,31.00,528.33,NC0:B0:F0,P
+21215,7,Numeracy,21215,Isovalerate Combined College,Carpenter,Samuel,R100000097D,98968203,7,7,Numeracy,,,,,X
+21215,7,Writing,21215,Isovalerate Combined College,Carpenter,Samuel,R100000097D,98968203,7,7,Writing,9,1.00,625.00,,P
+21215,7,Spelling,21215,Isovalerate Combined College,Carpenter,Samuel,R100000097D,98968203,7,7,Spelling,7,17.00,577.00,SA0:SD1:PB0,P
+21215,7,Reading,21215,Isovalerate Combined College,Carpenter,Samuel,R100000097D,98968203,7,7,Reading,7,34.00,581.25,A2:B1:C0,P
+21215,7,GrammarAndPunctuation,21215,Isovalerate Combined College,Carpenter,Samuel,R100000097D,98968203,7,7,Grammar and Punctuation,7,15.00,565.00,C0,P
+21212,5,Spelling,21212,Anticapital Primary College,Ferguson,Boyce,R100000003S,480454001,5,5,Spelling,7,21.00,551.00,SA0:SD0:PD0,P
+21212,5,Writing,21212,Anticapital Primary College,Ferguson,Boyce,R100000003S,480454001,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Ferguson,Boyce,R100000003S,480454001,5,5,Grammar and Punctuation,6,16.00,521.00,F0,P
+21212,5,Reading,21212,Anticapital Primary College,Ferguson,Boyce,R100000003S,480454001,5,5,Reading,6,32.00,531.67,A3:D1:F0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Ferguson,Boyce,R100000003S,480454001,5,5,Numeracy,,,,,E
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Whitaker,Geraldine,R100000149P,451780512,3,3,Grammar and Punctuation,0,0.00,0.00,B0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Whitaker,Geraldine,R100000149P,451780512,3,3,Reading,5,27.00,418.85,A2:C0:B0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Whitaker,Geraldine,R100000149P,451780512,3,3,Numeracy,5,26.00,415.00,NC0:D1:E1,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Whitaker,Geraldine,R100000149P,451780512,3,3,Spelling,5,18.00,423.00,SA1:SD1:PB1,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Lee,Jess,R100000101D,280606363,9,9,Spelling,8,17.00,607.00,SA1:SB0:PB1,P
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Lee,Jess,R100000101D,280606363,9,9,Writing,6,0.00,505.00,,P
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Lee,Jess,R100000101D,280606363,9,9,Grammar and Punctuation,,,,,X
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Lee,Jess,R100000101D,280606363,9,9,Reading,9,37.00,620.62,A1:B0:E1,P
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Lee,Jess,R100000101D,280606363,9,9,Numeracy,8,29.00,595.62,A0:D1:C0:E0,P
+21216,9,Spelling,21216,Ophthalmoplegia Combined College,Terrell,Mack,R100000100E,913745090,9,9,Spelling,,,,,A
+21216,9,Writing,21216,Ophthalmoplegia Combined College,Terrell,Mack,R100000100E,913745090,9,9,Writing,10,1.00,655.00,,P
+21216,9,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Terrell,Mack,R100000100E,913745090,9,9,Grammar and Punctuation,,,,,A
+21216,9,Reading,21216,Ophthalmoplegia Combined College,Terrell,Mack,R100000100E,913745090,9,9,Reading,8,34.00,611.25,A1:D0:F0,P
+21216,9,Numeracy,21216,Ophthalmoplegia Combined College,Terrell,Mack,R100000100E,913745090,9,9,Numeracy,8,35.00,614.38,A1:D1:C0:E1,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Gross,Roy,R100000043K,588674056,3,3,Grammar and Punctuation,5,17.00,417.00,E1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Gross,Roy,R100000043K,588674056,3,3,Reading,5,28.00,422.69,A3:B1:E1,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Gross,Roy,R100000043K,588674056,3,3,Numeracy,0,0.0,0.0,CA1:D1:C0,R
+21213,3,Spelling,21213,Hippocentaur Primary College,Gross,Roy,R100000043K,588674056,3,3,Spelling,6,20.00,435.00,SA1:SD1:PD1,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Alvarez,Shannon,R100000063E,816387482,3,3,Grammar and Punctuation,5,18.00,423.00,F1,P
+21214,3,Reading,21214,Iliac Primary College,Alvarez,Shannon,R100000063E,816387482,3,3,Reading,5,25.00,411.15,A1:D1:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Alvarez,Shannon,R100000063E,816387482,3,3,Numeracy,,,,,C
+21214,3,Spelling,21214,Iliac Primary College,Alvarez,Shannon,R100000063E,816387482,3,3,Spelling,5,17.00,417.00,SA0:SB0:PD1,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Leblanc,Ronnie,R100000102S,596726414,5,5,Spelling,7,19.00,539.00,SA0:SD0:PB0,P
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Leblanc,Ronnie,R100000102S,596726414,5,5,Writing,4,0.00,425.00,,P
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Leblanc,Ronnie,R100000102S,596726414,5,5,Grammar and Punctuation,7,19.00,539.00,F0,P
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Leblanc,Ronnie,R100000102S,596726414,5,5,Reading,6,33.00,535.00,A1:B1:F0,P
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Leblanc,Ronnie,R100000102S,596726414,5,5,Numeracy,6,32.00,531.67,A3:D0:C0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Ashby,James,R100000056R,677320433,3,3,Grammar and Punctuation,6,19.00,429.00,E1,P
+21214,3,Reading,21214,Iliac Primary College,Ashby,James,R100000056R,677320433,3,3,Reading,5,26.00,415.00,A2:D0:E0,P
+21214,3,Numeracy,21214,Iliac Primary College,Ashby,James,R100000056R,677320433,3,3,Numeracy,,,,,E
+21214,3,Spelling,21214,Iliac Primary College,Ashby,James,R100000056R,677320433,3,3,Spelling,,,,,E
+21219,7,Numeracy,21219,Trotcozy Secondary College,Patton,Rudy,R100000177D,19038510,7,7,Numeracy,7,45.00,580.47,CA1:D1:C0:E0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Patton,Rudy,R100000177D,19038510,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Patton,Rudy,R100000177D,19038510,7,7,Spelling,7,17.00,577.00,SA0:SD0:PB1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Patton,Rudy,R100000177D,19038510,7,7,Reading,7,34.00,581.25,A0:B0:F0,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Patton,Rudy,R100000177D,19038510,7,7,Grammar and Punctuation,7,17.00,577.00,F0,P
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Harder,Laurie,R100000093P,456292396,3,3,Grammar and Punctuation,0,0.00,0.00,G0,P
+21215,3,Reading,21215,Isovalerate Combined College,Harder,Laurie,R100000093P,456292396,3,3,Reading,,,,,E
+21215,3,Numeracy,21215,Isovalerate Combined College,Harder,Laurie,R100000093P,456292396,3,3,Numeracy,5,24.00,407.31,A0:B1:E0,P
+21215,3,Spelling,21215,Isovalerate Combined College,Harder,Laurie,R100000093P,456292396,3,3,Spelling,6,20.00,435.00,SA1:SD0:PB1,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Guardado,Anita,R100000188A,739477588,9,9,Spelling,9,20.00,625.00,SA0:SD1:PB1,P
+21219,9,Writing,21219,Trotcozy Secondary College,Guardado,Anita,R100000188A,739477588,9,9,Writing,6,0.00,505.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Guardado,Anita,R100000188A,739477588,9,9,Grammar and Punctuation,9,19.00,619.00,F0,P
+21219,9,Reading,21219,Trotcozy Secondary College,Guardado,Anita,R100000188A,739477588,9,9,Reading,8,30.00,598.75,A3:B0:F0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Guardado,Anita,R100000188A,739477588,9,9,Numeracy,8,46.00,612.81,NC1:B1:C0:F0,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Gallagher,Roger,R100000170M,827601145,7,7,Numeracy,7,32.00,575.00,A2:D1:E1:F0,P
+21218,7,Writing,21218,Redistrainer Secondary College,Gallagher,Roger,R100000170M,827601145,7,7,Writing,5,0.00,475.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Gallagher,Roger,R100000170M,827601145,7,7,Spelling,7,15.00,565.00,SA0:SD0:PB0,P
+21218,7,Reading,21218,Redistrainer Secondary College,Gallagher,Roger,R100000170M,827601145,7,7,Reading,0,0.0,0.0,A3:D1:C0,R
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Gallagher,Roger,R100000170M,827601145,7,7,Grammar and Punctuation,7,16.00,571.00,C0,P
+21215,7,Numeracy,21215,Isovalerate Combined College,Cooper,Elsie,R100000090M,787768836,7,7,Numeracy,8,53.00,599.22,NC1:D0:C0:E1,P
+21215,7,Writing,21215,Isovalerate Combined College,Cooper,Elsie,R100000090M,787768836,7,7,Writing,,,,,A
+21215,7,Spelling,21215,Isovalerate Combined College,Cooper,Elsie,R100000090M,787768836,7,7,Spelling,,,,,X
+21215,7,Reading,21215,Isovalerate Combined College,Cooper,Elsie,R100000090M,787768836,7,7,Reading,8,36.00,587.50,A3:C0:B1,P
+21215,7,GrammarAndPunctuation,21215,Isovalerate Combined College,Cooper,Elsie,R100000090M,787768836,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21221,7,Numeracy,21221,Wishram Combined College,Hester,Damaris,R100000241K,311818401,7,7,Numeracy,7,45.00,580.47,NC1:D0:C0:F0,P
+21221,7,Writing,21221,Wishram Combined College,Hester,Damaris,R100000241K,311818401,7,7,Writing,,,,,X
+21221,7,Spelling,21221,Wishram Combined College,Hester,Damaris,R100000241K,311818401,7,7,Spelling,7,18.00,583.00,SA1:SB0:PB1,P
+21221,7,Reading,21221,Wishram Combined College,Hester,Damaris,R100000241K,311818401,7,7,Reading,7,32.00,575.00,A0:D1:C0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Hester,Damaris,R100000241K,311818401,7,7,Grammar and Punctuation,8,20.00,595.00,C0,P
+21221,9,Spelling,21221,Wishram Combined College,Harder,Mathew,R100000230A,674837975,9,9,Spelling,8,18.00,613.00,SA1:SD1:PD0,P
+21221,9,Writing,21221,Wishram Combined College,Harder,Mathew,R100000230A,674837975,9,9,Writing,10,1.00,655.00,,P
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Harder,Mathew,R100000230A,674837975,9,9,Grammar and Punctuation,9,20.00,625.00,F1,P
+21221,9,Reading,21221,Wishram Combined College,Harder,Mathew,R100000230A,674837975,9,9,Reading,9,41.00,633.12,A2:D1:F0,P
+21221,9,Numeracy,21221,Wishram Combined College,Harder,Mathew,R100000230A,674837975,9,9,Numeracy,8,47.00,615.16,NC0:B0:E0:F0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Garcia,Damaris,R100000184R,914850904,7,7,Numeracy,8,50.00,592.19,CA0:D0:E1:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Garcia,Damaris,R100000184R,914850904,7,7,Writing,5,0.00,475.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Garcia,Damaris,R100000184R,914850904,7,7,Spelling,7,18.00,583.00,SA0:SB0:PB1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Garcia,Damaris,R100000184R,914850904,7,7,Reading,7,31.00,571.88,A2:D0:E1,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Garcia,Damaris,R100000184R,914850904,7,7,Grammar and Punctuation,7,13.00,553.00,E0,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Ramey,Megan,R100000007P,6376495,3,3,Grammar and Punctuation,0,0.00,0.00,G0,P
+21212,3,Reading,21212,Anticapital Primary College,Ramey,Megan,R100000007P,6376495,3,3,Reading,,,,,E
+21212,3,Numeracy,21212,Anticapital Primary College,Ramey,Megan,R100000007P,6376495,3,3,Numeracy,,,,CA0:D0:E1,S
+21212,3,Spelling,21212,Anticapital Primary College,Ramey,Megan,R100000007P,6376495,3,3,Spelling,5,18.00,423.00,SA0:SD0:PB0,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Freeman,Clark,R100000168P,800854531,7,7,Numeracy,7,33.00,578.12,A3:B1:E1:F0,P
+21218,7,Writing,21218,Redistrainer Secondary College,Freeman,Clark,R100000168P,800854531,7,7,Writing,9,1.00,625.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Freeman,Clark,R100000168P,800854531,7,7,Spelling,7,17.00,577.00,SA1:SB1:PD0,P
+21218,7,Reading,21218,Redistrainer Secondary College,Freeman,Clark,R100000168P,800854531,7,7,Reading,,,,,E
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Freeman,Clark,R100000168P,800854531,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Barnes,Felipe,R100000036S,476393126,5,5,Spelling,,,,,C
+21213,5,Writing,21213,Hippocentaur Primary College,Barnes,Felipe,R100000036S,476393126,5,5,Writing,8,1.00,575.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Barnes,Felipe,R100000036S,476393126,5,5,Grammar and Punctuation,0,0.00,0.00,B0,P
+21213,5,Reading,21213,Hippocentaur Primary College,Barnes,Felipe,R100000036S,476393126,5,5,Reading,7,35.00,541.67,A3:C0:B1,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Barnes,Felipe,R100000036S,476393126,5,5,Numeracy,7,40.00,558.33,A2:B1:F0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Rivera,Josefina,R100000153H,594802339,9,9,Spelling,,,,,C
+21218,9,Writing,21218,Redistrainer Secondary College,Rivera,Josefina,R100000153H,594802339,9,9,Writing,,,,,S
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Rivera,Josefina,R100000153H,594802339,9,9,Grammar and Punctuation,8,15.00,595.00,E1,P
+21218,9,Reading,21218,Redistrainer Secondary College,Rivera,Josefina,R100000153H,594802339,9,9,Reading,9,38.00,623.75,A1:B1:E0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Rivera,Josefina,R100000153H,594802339,9,9,Numeracy,8,46.00,612.81,NC0:B1:C0:F0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Ivey,Leo,R100000220S,76122982,7,7,Numeracy,,,,CA1:B0:C0:F0,S
+21220,7,Writing,21220,Unturpentined Secondary College,Ivey,Leo,R100000220S,76122982,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Ivey,Leo,R100000220S,76122982,7,7,Spelling,7,16.00,571.00,SA0:SB1:PD1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Ivey,Leo,R100000220S,76122982,7,7,Reading,,,,,W
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Ivey,Leo,R100000220S,76122982,7,7,Grammar and Punctuation,0,0.0,0.0,G0,R
+21217,9,Spelling,21217,Phyllostoma Combined College,Taylor,Harrison,R100000131A,933615096,9,9,Spelling,9,19.00,619.00,SA1:SD0:PB1,P
+21217,9,Writing,21217,Phyllostoma Combined College,Taylor,Harrison,R100000131A,933615096,9,9,Writing,10,1.00,655.00,,P
+21217,9,GrammarAndPunctuation,21217,Phyllostoma Combined College,Taylor,Harrison,R100000131A,933615096,9,9,Grammar and Punctuation,0,0.00,0.00,G0,P
+21217,9,Reading,21217,Phyllostoma Combined College,Taylor,Harrison,R100000131A,933615096,9,9,Reading,,,,,E
+21217,9,Numeracy,21217,Phyllostoma Combined College,Taylor,Harrison,R100000131A,933615096,9,9,Numeracy,8,47.00,615.16,CA1:D0:C0:E0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Lewis,Irma,R100000167H,635834741,9,9,Spelling,9,21.00,631.00,SA0:SB1:PB1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Lewis,Irma,R100000167H,635834741,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Lewis,Irma,R100000167H,635834741,9,9,Grammar and Punctuation,8,16.00,601.00,E1,P
+21218,9,Reading,21218,Redistrainer Secondary College,Lewis,Irma,R100000167H,635834741,9,9,Reading,8,34.00,611.25,A0:B1:E1,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Lewis,Irma,R100000167H,635834741,9,9,Numeracy,8,34.00,611.25,A3:B1:C0:E1,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Fitts,Louie,R100000158D,884015462,7,7,Numeracy,7,43.00,575.78,CA1:B0:C0:E0,P
+21218,7,Writing,21218,Redistrainer Secondary College,Fitts,Louie,R100000158D,884015462,7,7,Writing,5,0.00,475.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Fitts,Louie,R100000158D,884015462,7,7,Spelling,7,15.00,565.00,SA0:SD1:PB0,P
+21218,7,Reading,21218,Redistrainer Secondary College,Fitts,Louie,R100000158D,884015462,7,7,Reading,7,30.00,568.75,A3:D0:F0,P
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Fitts,Louie,R100000158D,884015462,7,7,Grammar and Punctuation,7,14.00,559.00,F1,P
+21217,7,Numeracy,21217,Phyllostoma Combined College,Warren,Allison,R100000139D,58516237,7,7,Numeracy,7,42.00,573.44,NC0:D1:C0:F0,P
+21217,7,Writing,21217,Phyllostoma Combined College,Warren,Allison,R100000139D,58516237,7,7,Writing,5,0.00,475.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Warren,Allison,R100000139D,58516237,7,7,Spelling,7,16.00,571.00,SA0:SB0:PD1,P
+21217,7,Reading,21217,Phyllostoma Combined College,Warren,Allison,R100000139D,58516237,7,7,Reading,7,28.00,562.50,A1:B0:F0,P
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Warren,Allison,R100000139D,58516237,7,7,Grammar and Punctuation,7,17.00,577.00,F1,P
+21221,5,Spelling,21221,Wishram Combined College,Collins,Randal,R100000246G,184642155,5,5,Spelling,6,18.00,533.00,SA0:SB0:PD0,P
+21221,5,Writing,21221,Wishram Combined College,Collins,Randal,R100000246G,184642155,5,5,Writing,4,0.00,425.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Collins,Randal,R100000246G,184642155,5,5,Grammar and Punctuation,6,17.00,527.00,F1,P
+21221,5,Reading,21221,Wishram Combined College,Collins,Randal,R100000246G,184642155,5,5,Reading,6,31.00,528.33,A0:D0:F0,P
+21221,5,Numeracy,21221,Wishram Combined College,Collins,Randal,R100000246G,184642155,5,5,Numeracy,6,31.00,528.33,CA0:B1:E1,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Wilcox,Delores,R100000143E,607167295,3,3,Grammar and Punctuation,,,,,A
+21217,3,Reading,21217,Phyllostoma Combined College,Wilcox,Delores,R100000143E,607167295,3,3,Reading,5,24.00,407.31,A2:D0:C0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Wilcox,Delores,R100000143E,607167295,3,3,Numeracy,5,28.00,422.69,A3:D0:E0,P
+21217,3,Spelling,21217,Phyllostoma Combined College,Wilcox,Delores,R100000143E,607167295,3,3,Spelling,5,18.00,423.00,SA1:SD1:PD0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Mork,Preston,R100000178S,921262205,7,7,Numeracy,8,40.00,600.00,A0:D0:C0:E1,P
+21219,7,Writing,21219,Trotcozy Secondary College,Mork,Preston,R100000178S,921262205,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Mork,Preston,R100000178S,921262205,7,7,Spelling,8,19.00,589.00,SA0:SB1:PB1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Mork,Preston,R100000178S,921262205,7,7,Reading,7,32.00,575.00,A1:D1:C0,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Mork,Preston,R100000178S,921262205,7,7,Grammar and Punctuation,7,18.00,583.00,C1,P
+21221,3,GrammarAndPunctuation,21221,Wishram Combined College,Brandl,Kate,R100000225A,954343075,3,3,Grammar and Punctuation,5,18.00,423.00,F1,P
+21221,3,Reading,21221,Wishram Combined College,Brandl,Kate,R100000225A,954343075,3,3,Reading,5,25.00,411.15,A3:D0:F0,P
+21221,3,Numeracy,21221,Wishram Combined College,Brandl,Kate,R100000225A,954343075,3,3,Numeracy,6,30.00,430.38,CA1:D0:E1,P
+21221,3,Spelling,21221,Wishram Combined College,Brandl,Kate,R100000225A,954343075,3,3,Spelling,5,18.00,423.00,SA0:SD0:PD0,P
+21216,3,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Frederick,Jamie,R100000112A,874961867,3,3,Grammar and Punctuation,6,19.00,429.00,E0,P
+21216,3,Reading,21216,Ophthalmoplegia Combined College,Frederick,Jamie,R100000112A,874961867,3,3,Reading,5,23.00,403.46,A2:D1:E1,P
+21216,3,Numeracy,21216,Ophthalmoplegia Combined College,Frederick,Jamie,R100000112A,874961867,3,3,Numeracy,5,25.00,411.15,NC0:D1:F0,P
+21216,3,Spelling,21216,Ophthalmoplegia Combined College,Frederick,Jamie,R100000112A,874961867,3,3,Spelling,,,,,W
+21217,7,Numeracy,21217,Phyllostoma Combined College,Valverde,Phyllis,R100000137K,747785155,7,7,Numeracy,7,45.00,580.47,CA1:B1:C0:E1,P
+21217,7,Writing,21217,Phyllostoma Combined College,Valverde,Phyllis,R100000137K,747785155,7,7,Writing,5,0.00,475.00,,P
+21217,7,Spelling,21217,Phyllostoma Combined College,Valverde,Phyllis,R100000137K,747785155,7,7,Spelling,8,20.00,595.00,SA0:SB1:PB0,P
+21217,7,Reading,21217,Phyllostoma Combined College,Valverde,Phyllis,R100000137K,747785155,7,7,Reading,7,33.00,578.12,A0:D1:E1,P
+21217,7,GrammarAndPunctuation,21217,Phyllostoma Combined College,Valverde,Phyllis,R100000137K,747785155,7,7,Grammar and Punctuation,8,21.00,601.00,E1,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Taylor,Miranda,R100000026P,997556953,3,3,Grammar and Punctuation,0,0.00,0.00,B0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Taylor,Miranda,R100000026P,997556953,3,3,Reading,5,28.00,422.69,A2:C0:B1,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Taylor,Miranda,R100000026P,997556953,3,3,Numeracy,5,25.00,411.15,A0:B1:C0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Taylor,Miranda,R100000026P,997556953,3,3,Spelling,6,20.00,435.00,SA1:SB1:PB1,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Williams,Eunice,R100000173P,234302325,9,9,Spelling,8,17.00,607.00,SA0:SD1:PD1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Williams,Eunice,R100000173P,234302325,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Williams,Eunice,R100000173P,234302325,9,9,Grammar and Punctuation,8,18.00,613.00,E0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Williams,Eunice,R100000173P,234302325,9,9,Reading,8,32.00,605.00,A2:D1:E1,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Williams,Eunice,R100000173P,234302325,9,9,Numeracy,,,,A0:B1:C0:F0,S
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Bailey,Charlie,R100000119E,107747224,7,7,Numeracy,7,43.00,575.78,CA1:D0:E1:F0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Bailey,Charlie,R100000119E,107747224,7,7,Writing,5,0.00,475.00,,P
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Bailey,Charlie,R100000119E,107747224,7,7,Spelling,8,21.00,601.00,SA1:SB0:PD0,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Bailey,Charlie,R100000119E,107747224,7,7,Reading,7,30.00,568.75,A3:D1:C0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Bailey,Charlie,R100000119E,107747224,7,7,Grammar and Punctuation,6,11.00,541.00,C0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Ventimiglia,Karl,R100000085M,208130465,9,9,Spelling,9,20.00,625.00,SA0:SD1:PB0,P
+21215,9,Writing,21215,Isovalerate Combined College,Ventimiglia,Karl,R100000085M,208130465,9,9,Writing,6,0.00,505.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Ventimiglia,Karl,R100000085M,208130465,9,9,Grammar and Punctuation,9,21.00,631.00,C0,P
+21215,9,Reading,21215,Isovalerate Combined College,Ventimiglia,Karl,R100000085M,208130465,9,9,Reading,8,35.00,614.38,A2:B1:C0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Ventimiglia,Karl,R100000085M,208130465,9,9,Numeracy,8,45.00,610.47,CA1:B0:E0:F0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Perkins,Louie,R100000049H,745864299,5,5,Spelling,6,14.00,509.00,SA0:SB0:PD1,P
+21213,5,Writing,21213,Hippocentaur Primary College,Perkins,Louie,R100000049H,745864299,5,5,Writing,8,1.00,575.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Perkins,Louie,R100000049H,745864299,5,5,Grammar and Punctuation,0,0.00,0.00,B0,P
+21213,5,Reading,21213,Hippocentaur Primary College,Perkins,Louie,R100000049H,745864299,5,5,Reading,6,32.00,531.67,A0:C0:B1,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Perkins,Louie,R100000049H,745864299,5,5,Numeracy,,,,,E
+21214,5,Spelling,21214,Iliac Primary College,Gordon,Ashley,R100000065A,971054274,5,5,Spelling,,,,,X
+21214,5,Writing,21214,Iliac Primary College,Gordon,Ashley,R100000065A,971054274,5,5,Writing,,,,,X
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Gordon,Ashley,R100000065A,971054274,5,5,Grammar and Punctuation,6,13.00,503.00,E0,P
+21214,5,Reading,21214,Iliac Primary College,Gordon,Ashley,R100000065A,971054274,5,5,Reading,6,31.00,528.33,A3:B0:E0,P
+21214,5,Numeracy,21214,Iliac Primary College,Gordon,Ashley,R100000065A,971054274,5,5,Numeracy,6,31.00,528.33,NC0:B1:E1,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Dye,Rex,R100000161K,964692628,9,9,Spelling,8,16.00,601.00,SA0:SD0:PB1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Dye,Rex,R100000161K,964692628,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Dye,Rex,R100000161K,964692628,9,9,Grammar and Punctuation,8,16.00,601.00,C1,P
+21218,9,Reading,21218,Redistrainer Secondary College,Dye,Rex,R100000161K,964692628,9,9,Reading,8,31.00,601.88,A3:B0:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Dye,Rex,R100000161K,964692628,9,9,Numeracy,8,41.00,601.09,NC0:B1:E0:F0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Plyler,Charity,R100000213G,499366569,9,9,Spelling,9,20.00,625.00,SA1:SD1:PD1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Plyler,Charity,R100000213G,499366569,9,9,Writing,10,1.00,655.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Plyler,Charity,R100000213G,499366569,9,9,Grammar and Punctuation,8,15.00,595.00,E1,P
+21220,9,Reading,21220,Unturpentined Secondary College,Plyler,Charity,R100000213G,499366569,9,9,Reading,8,35.00,614.38,A1:D0:E0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Plyler,Charity,R100000213G,499366569,9,9,Numeracy,8,40.00,598.75,CA0:B1:C0:E0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Cooley,Tony,R100000204E,207247806,9,9,Spelling,9,21.00,631.00,SA1:SD1:PB1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Cooley,Tony,R100000204E,207247806,9,9,Writing,10,1.00,655.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Cooley,Tony,R100000204E,207247806,9,9,Grammar and Punctuation,9,19.00,619.00,C1,P
+21220,9,Reading,21220,Unturpentined Secondary College,Cooley,Tony,R100000204E,207247806,9,9,Reading,9,39.00,626.88,A3:D0:C0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Cooley,Tony,R100000204E,207247806,9,9,Numeracy,9,50.00,622.19,NC0:B1:C0:F0,P
+21216,5,Spelling,21216,Ophthalmoplegia Combined College,Story,Julia,R100000122R,192085491,5,5,Spelling,,,,SA0:SB1:PB0,S
+21216,5,Writing,21216,Ophthalmoplegia Combined College,Story,Julia,R100000122R,192085491,5,5,Writing,4,0.00,425.00,,P
+21216,5,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Story,Julia,R100000122R,192085491,5,5,Grammar and Punctuation,0,0.0,0.0,C0,R
+21216,5,Reading,21216,Ophthalmoplegia Combined College,Story,Julia,R100000122R,192085491,5,5,Reading,7,36.00,545.00,A1:B1:C0,P
+21216,5,Numeracy,21216,Ophthalmoplegia Combined College,Story,Julia,R100000122R,192085491,5,5,Numeracy,7,36.00,545.00,NC0:D1:E0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Israel,Geri,R100000031P,936770252,3,3,Grammar and Punctuation,6,20.00,435.00,C1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Israel,Geri,R100000031P,936770252,3,3,Reading,5,25.00,411.15,A3:B0:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Israel,Geri,R100000031P,936770252,3,3,Numeracy,5,29.00,426.54,A3:B0:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Israel,Geri,R100000031P,936770252,3,3,Spelling,,,,,X
+21215,3,GrammarAndPunctuation,21215,Isovalerate Combined College,Buchanan,Su,R100000091G,184725944,3,3,Grammar and Punctuation,,,,,C
+21215,3,Reading,21215,Isovalerate Combined College,Buchanan,Su,R100000091G,184725944,3,3,Reading,5,27.00,418.85,A3:D0:F0,P
+21215,3,Numeracy,21215,Isovalerate Combined College,Buchanan,Su,R100000091G,184725944,3,3,Numeracy,5,23.00,403.46,A2:D0:E0,P
+21215,3,Spelling,21215,Isovalerate Combined College,Buchanan,Su,R100000091G,184725944,3,3,Spelling,6,21.00,441.00,SA0:SB1:PD0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Guzman,Richard,R100000212M,154543294,7,7,Numeracy,7,45.00,580.47,NC0:D1:C0:E0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Guzman,Richard,R100000212M,154543294,7,7,Writing,5,0.00,475.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Guzman,Richard,R100000212M,154543294,7,7,Spelling,7,17.00,577.00,SA1:SD1:PD1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Guzman,Richard,R100000212M,154543294,7,7,Reading,7,33.00,578.12,A3:D0:C0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Guzman,Richard,R100000212M,154543294,7,7,Grammar and Punctuation,7,17.00,577.00,C0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Coward,John,R100000095K,798199675,9,9,Spelling,0,0.0,0.0,SA1:SB1:PD1,R
+21215,9,Writing,21215,Isovalerate Combined College,Coward,John,R100000095K,798199675,9,9,Writing,10,1.00,655.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Coward,John,R100000095K,798199675,9,9,Grammar and Punctuation,9,19.00,619.00,F1,P
+21215,9,Reading,21215,Isovalerate Combined College,Coward,John,R100000095K,798199675,9,9,Reading,9,37.00,620.62,A1:B1:F0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Coward,John,R100000095K,798199675,9,9,Numeracy,,,,,E
+21219,7,Numeracy,21219,Trotcozy Secondary College,Cooper,Eleanor,R100000187P,588637840,7,7,Numeracy,7,45.00,580.47,CA1:B0:E1:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Cooper,Eleanor,R100000187P,588637840,7,7,Writing,,,,,A
+21219,7,Spelling,21219,Trotcozy Secondary College,Cooper,Eleanor,R100000187P,588637840,7,7,Spelling,7,17.00,577.00,SA1:SD1:PB0,P
+21219,7,Reading,21219,Trotcozy Secondary College,Cooper,Eleanor,R100000187P,588637840,7,7,Reading,7,32.00,575.00,A0:D1:C0,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Cooper,Eleanor,R100000187P,588637840,7,7,Grammar and Punctuation,7,18.00,583.00,C0,P
+21214,5,Spelling,21214,Iliac Primary College,Ebner,Rita,R100000073H,901431343,5,5,Spelling,7,20.00,545.00,SA1:SB0:PB1,P
+21214,5,Writing,21214,Iliac Primary College,Ebner,Rita,R100000073H,901431343,5,5,Writing,4,0.00,425.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Ebner,Rita,R100000073H,901431343,5,5,Grammar and Punctuation,6,18.00,533.00,F0,P
+21214,5,Reading,21214,Iliac Primary College,Ebner,Rita,R100000073H,901431343,5,5,Reading,6,31.00,528.33,A0:D0:F0,P
+21214,5,Numeracy,21214,Iliac Primary College,Ebner,Rita,R100000073H,901431343,5,5,Numeracy,7,35.00,541.67,NC1:D1:C0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Howton,Kym,R100000045P,297620849,3,3,Grammar and Punctuation,5,17.00,417.00,C0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Howton,Kym,R100000045P,297620849,3,3,Reading,6,32.00,438.08,A3:B1:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Howton,Kym,R100000045P,297620849,3,3,Numeracy,5,28.00,422.69,A2:B1:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Howton,Kym,R100000045P,297620849,3,3,Spelling,5,17.00,417.00,SA1:SD1:PB1,P
+21212,5,Spelling,21212,Anticapital Primary College,Howell,Dominique,R100000014M,439073665,5,5,Spelling,6,18.00,533.00,SA0:SD1:PB0,P
+21212,5,Writing,21212,Anticapital Primary College,Howell,Dominique,R100000014M,439073665,5,5,Writing,,,,,S
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Howell,Dominique,R100000014M,439073665,5,5,Grammar and Punctuation,0,0.00,0.00,B0,P
+21212,5,Reading,21212,Anticapital Primary College,Howell,Dominique,R100000014M,439073665,5,5,Reading,6,29.00,521.67,A1:C0:B0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Howell,Dominique,R100000014M,439073665,5,5,Numeracy,,,,,E
+21221,7,Numeracy,21221,Wishram Combined College,Christiansen,Alonzo,R100000242E,863957213,7,7,Numeracy,7,43.00,575.78,NC1:B1:C0:F0,P
+21221,7,Writing,21221,Wishram Combined College,Christiansen,Alonzo,R100000242E,863957213,7,7,Writing,,,,,E
+21221,7,Spelling,21221,Wishram Combined College,Christiansen,Alonzo,R100000242E,863957213,7,7,Spelling,7,15.00,565.00,SA1:SD1:PD1,P
+21221,7,Reading,21221,Wishram Combined College,Christiansen,Alonzo,R100000242E,863957213,7,7,Reading,7,29.00,565.62,A2:B0:C0,P
+21221,7,GrammarAndPunctuation,21221,Wishram Combined College,Christiansen,Alonzo,R100000242E,863957213,7,7,Grammar and Punctuation,,,,,A
+21221,3,GrammarAndPunctuation,21221,Wishram Combined College,Nagel,Shellie,R100000239S,319048887,3,3,Grammar and Punctuation,5,15.00,405.00,E1,P
+21221,3,Reading,21221,Wishram Combined College,Nagel,Shellie,R100000239S,319048887,3,3,Reading,5,27.00,418.85,A1:D0:E0,P
+21221,3,Numeracy,21221,Wishram Combined College,Nagel,Shellie,R100000239S,319048887,3,3,Numeracy,5,25.00,411.15,CA1:B0:E0,P
+21221,3,Spelling,21221,Wishram Combined College,Nagel,Shellie,R100000239S,319048887,3,3,Spelling,6,21.00,441.00,SA0:SB0:PB0,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Ventimiglia,Laurene,R100000067G,70232588,3,3,Grammar and Punctuation,0,0.00,0.00,B0,P
+21214,3,Reading,21214,Iliac Primary College,Ventimiglia,Laurene,R100000067G,70232588,3,3,Reading,5,27.00,418.85,A1:C0:B0,P
+21214,3,Numeracy,21214,Iliac Primary College,Ventimiglia,Laurene,R100000067G,70232588,3,3,Numeracy,5,26.00,415.00,NC1:D1:F0,P
+21214,3,Spelling,21214,Iliac Primary College,Ventimiglia,Laurene,R100000067G,70232588,3,3,Spelling,,,,,W
+21215,5,Spelling,21215,Isovalerate Combined College,Connelly,Beatrice,R100000082E,747044761,5,5,Spelling,6,13.00,503.00,SA1:SD1:PB1,P
+21215,5,Writing,21215,Isovalerate Combined College,Connelly,Beatrice,R100000082E,747044761,5,5,Writing,0,0.0,0.0,,R
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Connelly,Beatrice,R100000082E,747044761,5,5,Grammar and Punctuation,6,16.00,521.00,C1,P
+21215,5,Reading,21215,Isovalerate Combined College,Connelly,Beatrice,R100000082E,747044761,5,5,Reading,6,30.00,525.00,A3:D0:C0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Connelly,Beatrice,R100000082E,747044761,5,5,Numeracy,7,35.00,541.67,A1:D1:C0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Horton,Rex,R100000216R,668085738,7,7,Numeracy,7,35.00,584.38,A2:B0:C0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Horton,Rex,R100000216R,668085738,7,7,Writing,9,1.00,625.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Horton,Rex,R100000216R,668085738,7,7,Spelling,7,17.00,577.00,SA0:SB0:PB1,P
+21220,7,Reading,21220,Unturpentined Secondary College,Horton,Rex,R100000216R,668085738,7,7,Reading,7,32.00,575.00,A2:D1:E1,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Horton,Rex,R100000216R,668085738,7,7,Grammar and Punctuation,7,15.00,565.00,E0,P
+21218,7,Numeracy,21218,Redistrainer Secondary College,Allen,Claude,R100000169A,297514420,7,7,Numeracy,7,41.00,571.09,NC1:D0:C0:E1,P
+21218,7,Writing,21218,Redistrainer Secondary College,Allen,Claude,R100000169A,297514420,7,7,Writing,9,1.00,625.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Allen,Claude,R100000169A,297514420,7,7,Spelling,,,,,X
+21218,7,Reading,21218,Redistrainer Secondary College,Allen,Claude,R100000169A,297514420,7,7,Reading,,,,,W
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Allen,Claude,R100000169A,297514420,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Lloyd,Judi,R100000151M,549297543,9,9,Spelling,,,,,X
+21218,9,Writing,21218,Redistrainer Secondary College,Lloyd,Judi,R100000151M,549297543,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Lloyd,Judi,R100000151M,549297543,9,9,Grammar and Punctuation,8,13.00,583.00,C0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Lloyd,Judi,R100000151M,549297543,9,9,Reading,9,37.00,620.62,A2:B1:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Lloyd,Judi,R100000151M,549297543,9,9,Numeracy,,,,CA0:D0:C0:F0,S
+21218,9,Spelling,21218,Redistrainer Secondary College,Hadley,Manuel,R100000174A,804320309,9,9,Spelling,9,19.00,619.00,SA0:SB1:PB0,P
+21218,9,Writing,21218,Redistrainer Secondary College,Hadley,Manuel,R100000174A,804320309,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Hadley,Manuel,R100000174A,804320309,9,9,Grammar and Punctuation,8,17.00,607.00,C0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Hadley,Manuel,R100000174A,804320309,9,9,Reading,9,36.00,617.50,A3:D0:C0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Hadley,Manuel,R100000174A,804320309,9,9,Numeracy,8,33.00,608.12,A1:B1:E1:F0,P
+21212,5,Spelling,21212,Anticapital Primary College,Buck,Wilton,R100000015E,600949416,5,5,Spelling,7,21.00,551.00,SA1:SD0:PB0,P
+21212,5,Writing,21212,Anticapital Primary College,Buck,Wilton,R100000015E,600949416,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Buck,Wilton,R100000015E,600949416,5,5,Grammar and Punctuation,0,0.00,0.00,G0,P
+21212,5,Reading,21212,Anticapital Primary College,Buck,Wilton,R100000015E,600949416,5,5,Reading,,,,,X
+21212,5,Numeracy,21212,Anticapital Primary College,Buck,Wilton,R100000015E,600949416,5,5,Numeracy,6,33.00,535.00,A0:B1:E0,P
+21221,5,Spelling,21221,Wishram Combined College,Taylor,Sheree,R100000243D,749764543,5,5,Spelling,6,18.00,533.00,SA0:SD1:PB0,P
+21221,5,Writing,21221,Wishram Combined College,Taylor,Sheree,R100000243D,749764543,5,5,Writing,,,,,S
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Taylor,Sheree,R100000243D,749764543,5,5,Grammar and Punctuation,6,18.00,533.00,C1,P
+21221,5,Reading,21221,Wishram Combined College,Taylor,Sheree,R100000243D,749764543,5,5,Reading,6,32.00,531.67,A2:B1:C0,P
+21221,5,Numeracy,21221,Wishram Combined College,Taylor,Sheree,R100000243D,749764543,5,5,Numeracy,7,34.00,538.33,A3:D0:E0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Webb,Alvin,R100000183S,685952291,9,9,Spelling,9,20.00,625.00,SA1:SD0:PB0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Webb,Alvin,R100000183S,685952291,9,9,Writing,6,0.00,505.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Webb,Alvin,R100000183S,685952291,9,9,Grammar and Punctuation,8,16.00,601.00,F1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Webb,Alvin,R100000183S,685952291,9,9,Reading,9,36.00,617.50,A3:D0:F0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Webb,Alvin,R100000183S,685952291,9,9,Numeracy,9,48.00,617.50,CA0:B1:E0:F0,P
+21215,7,Numeracy,21215,Isovalerate Combined College,Abbott,Normand,R100000078D,500224274,7,7,Numeracy,7,41.00,571.09,CA1:D0:C0:E0,P
+21215,7,Writing,21215,Isovalerate Combined College,Abbott,Normand,R100000078D,500224274,7,7,Writing,,,,,S
+21215,7,Spelling,21215,Isovalerate Combined College,Abbott,Normand,R100000078D,500224274,7,7,Spelling,7,17.00,577.00,SA0:SB0:PB1,P
+21215,7,Reading,21215,Isovalerate Combined College,Abbott,Normand,R100000078D,500224274,7,7,Reading,8,38.00,593.75,A0:B1:F0,P
+21215,7,GrammarAndPunctuation,21215,Isovalerate Combined College,Abbott,Normand,R100000078D,500224274,7,7,Grammar and Punctuation,8,20.00,595.00,F1,P
+21221,9,Spelling,21221,Wishram Combined College,Robertson,Jeanine,R100000229P,17572599,9,9,Spelling,8,16.00,601.00,SA0:SB0:PB1,P
+21221,9,Writing,21221,Wishram Combined College,Robertson,Jeanine,R100000229P,17572599,9,9,Writing,10,1.00,655.00,,P
+21221,9,GrammarAndPunctuation,21221,Wishram Combined College,Robertson,Jeanine,R100000229P,17572599,9,9,Grammar and Punctuation,9,21.00,631.00,E0,P
+21221,9,Reading,21221,Wishram Combined College,Robertson,Jeanine,R100000229P,17572599,9,9,Reading,8,31.00,601.88,A3:B0:E0,P
+21221,9,Numeracy,21221,Wishram Combined College,Robertson,Jeanine,R100000229P,17572599,9,9,Numeracy,8,29.00,595.62,A0:B1:E1:F0,P
+21212,5,Spelling,21212,Anticapital Primary College,Beiler,Leroy,R100000001E,872347538,5,5,Spelling,6,17.00,527.00,SA0:SB1:PD1,P
+21212,5,Writing,21212,Anticapital Primary College,Beiler,Leroy,R100000001E,872347538,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Beiler,Leroy,R100000001E,872347538,5,5,Grammar and Punctuation,7,20.00,545.00,C1,P
+21212,5,Reading,21212,Anticapital Primary College,Beiler,Leroy,R100000001E,872347538,5,5,Reading,6,26.00,511.67,A1:B0:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Beiler,Leroy,R100000001E,872347538,5,5,Numeracy,6,26.00,511.67,A2:B0:E1,P
+21215,7,Numeracy,21215,Isovalerate Combined College,Keeton,Daniel,R100000076K,796511436,7,7,Numeracy,7,42.00,573.44,NC0:D1:E0:F0,P
+21215,7,Writing,21215,Isovalerate Combined College,Keeton,Daniel,R100000076K,796511436,7,7,Writing,5,0.00,475.00,,P
+21215,7,Spelling,21215,Isovalerate Combined College,Keeton,Daniel,R100000076K,796511436,7,7,Spelling,,,,,X
+21215,7,Reading,21215,Isovalerate Combined College,Keeton,Daniel,R100000076K,796511436,7,7,Reading,8,39.00,596.88,A2:D0:E1,P
+21215,7,GrammarAndPunctuation,21215,Isovalerate Combined College,Keeton,Daniel,R100000076K,796511436,7,7,Grammar and Punctuation,7,16.00,571.00,E0,P
+21217,3,GrammarAndPunctuation,21217,Phyllostoma Combined College,Spradley,Fannie,R100000136R,912219902,3,3,Grammar and Punctuation,5,18.00,423.00,C0,P
+21217,3,Reading,21217,Phyllostoma Combined College,Spradley,Fannie,R100000136R,912219902,3,3,Reading,5,24.00,407.31,A2:B1:C0,P
+21217,3,Numeracy,21217,Phyllostoma Combined College,Spradley,Fannie,R100000136R,912219902,3,3,Numeracy,,,,,A
+21217,3,Spelling,21217,Phyllostoma Combined College,Spradley,Fannie,R100000136R,912219902,3,3,Spelling,5,17.00,417.00,SA1:SB0:PB1,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Pharris,Tiesha,R100000016D,799288106,3,3,Grammar and Punctuation,6,19.00,429.00,F0,P
+21212,3,Reading,21212,Anticapital Primary College,Pharris,Tiesha,R100000016D,799288106,3,3,Reading,5,26.00,415.00,A1:D1:F0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Pharris,Tiesha,R100000016D,799288106,3,3,Numeracy,5,26.00,415.00,NC0:D1:F0,P
+21212,3,Spelling,21212,Anticapital Primary College,Pharris,Tiesha,R100000016D,799288106,3,3,Spelling,5,17.00,417.00,SA0:SB1:PD1,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Motley,Juanita,R100000162E,899750212,9,9,Spelling,8,14.00,589.00,SA1:SD0:PD1,P
+21218,9,Writing,21218,Redistrainer Secondary College,Motley,Juanita,R100000162E,899750212,9,9,Writing,6,0.00,505.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Motley,Juanita,R100000162E,899750212,9,9,Grammar and Punctuation,0,0.00,0.00,B0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Motley,Juanita,R100000162E,899750212,9,9,Reading,8,33.00,608.12,A1:C0:B0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Motley,Juanita,R100000162E,899750212,9,9,Numeracy,0,0.0,0.0,A0:B1:C0:F0,R
+21221,5,Spelling,21221,Wishram Combined College,Pursley,Gerda,R100000245M,880056195,5,5,Spelling,5,12.00,497.00,SA0:SD1:PD1,P
+21221,5,Writing,21221,Wishram Combined College,Pursley,Gerda,R100000245M,880056195,5,5,Writing,8,1.00,575.00,,P
+21221,5,GrammarAndPunctuation,21221,Wishram Combined College,Pursley,Gerda,R100000245M,880056195,5,5,Grammar and Punctuation,,,,,C
+21221,5,Reading,21221,Wishram Combined College,Pursley,Gerda,R100000245M,880056195,5,5,Reading,6,30.00,525.00,A0:D0:C0,P
+21221,5,Numeracy,21221,Wishram Combined College,Pursley,Gerda,R100000245M,880056195,5,5,Numeracy,,,,,C
+21215,9,Spelling,21215,Isovalerate Combined College,Wood,Tracey,R100000077E,691066350,9,9,Spelling,8,16.00,601.00,SA0:SB0:PB0,P
+21215,9,Writing,21215,Isovalerate Combined College,Wood,Tracey,R100000077E,691066350,9,9,Writing,10,1.00,655.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Wood,Tracey,R100000077E,691066350,9,9,Grammar and Punctuation,9,20.00,625.00,C0,P
+21215,9,Reading,21215,Isovalerate Combined College,Wood,Tracey,R100000077E,691066350,9,9,Reading,8,35.00,614.38,A1:B1:C0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Wood,Tracey,R100000077E,691066350,9,9,Numeracy,,,,,X
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Dison,Emmett,R100000066M,503927230,3,3,Grammar and Punctuation,6,20.00,435.00,F1,P
+21214,3,Reading,21214,Iliac Primary College,Dison,Emmett,R100000066M,503927230,3,3,Reading,5,27.00,418.85,A1:B1:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Dison,Emmett,R100000066M,503927230,3,3,Numeracy,6,32.00,438.08,CA1:D1:C0,P
+21214,3,Spelling,21214,Iliac Primary College,Dison,Emmett,R100000066M,503927230,3,3,Spelling,5,16.00,411.00,SA0:SB0:PB0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Hendricks,Valentina,R100000191H,744221821,7,7,Numeracy,7,39.00,566.41,CA1:D1:C0:E0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Hendricks,Valentina,R100000191H,744221821,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Hendricks,Valentina,R100000191H,744221821,7,7,Spelling,7,14.00,559.00,SA1:SB1:PD1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Hendricks,Valentina,R100000191H,744221821,7,7,Reading,7,33.00,578.12,A3:D0:E1,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Hendricks,Valentina,R100000191H,744221821,7,7,Grammar and Punctuation,8,20.00,595.00,E0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Pierce,Santa,R100000202R,23518540,7,7,Numeracy,7,42.00,573.44,CA0:B0:E1:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Pierce,Santa,R100000202R,23518540,7,7,Writing,,,,,A
+21220,7,Spelling,21220,Unturpentined Secondary College,Pierce,Santa,R100000202R,23518540,7,7,Spelling,7,15.00,565.00,SA0:SB0:PD0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Pierce,Santa,R100000202R,23518540,7,7,Reading,7,32.00,575.00,A0:B0:F0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Pierce,Santa,R100000202R,23518540,7,7,Grammar and Punctuation,7,17.00,577.00,F1,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Palm,Dora,R100000068H,867232991,3,3,Grammar and Punctuation,5,13.00,393.00,E1,P
+21214,3,Reading,21214,Iliac Primary College,Palm,Dora,R100000068H,867232991,3,3,Reading,6,30.00,430.38,A0:B1:E0,P
+21214,3,Numeracy,21214,Iliac Primary College,Palm,Dora,R100000068H,867232991,3,3,Numeracy,5,28.00,422.69,NC0:D0:E1,P
+21214,3,Spelling,21214,Iliac Primary College,Palm,Dora,R100000068H,867232991,3,3,Spelling,0,0.0,0.0,SA0:SB1:PB0,R
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Kent,Juli,R100000013A,165911230,3,3,Grammar and Punctuation,5,18.00,423.00,C1,P
+21212,3,Reading,21212,Anticapital Primary College,Kent,Juli,R100000013A,165911230,3,3,Reading,5,25.00,411.15,A3:B1:C0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Kent,Juli,R100000013A,165911230,3,3,Numeracy,5,26.00,415.00,A0:D0:F0,P
+21212,3,Spelling,21212,Anticapital Primary College,Kent,Juli,R100000013A,165911230,3,3,Spelling,6,20.00,435.00,SA0:SD1:PB0,P
+21214,5,Spelling,21214,Iliac Primary College,Allred,Orville,R100000058E,31407761,5,5,Spelling,7,19.00,539.00,SA0:SD0:PB0,P
+21214,5,Writing,21214,Iliac Primary College,Allred,Orville,R100000058E,31407761,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Allred,Orville,R100000058E,31407761,5,5,Grammar and Punctuation,,,,,W
+21214,5,Reading,21214,Iliac Primary College,Allred,Orville,R100000058E,31407761,5,5,Reading,6,32.00,531.67,A0:B1:C0,P
+21214,5,Numeracy,21214,Iliac Primary College,Allred,Orville,R100000058E,31407761,5,5,Numeracy,6,27.00,515.00,CA1:D0:E0,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Echols,Bobby,R100000194M,348983856,9,9,Spelling,9,19.00,619.00,SA1:SB1:PB0,P
+21219,9,Writing,21219,Trotcozy Secondary College,Echols,Bobby,R100000194M,348983856,9,9,Writing,10,1.00,655.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Echols,Bobby,R100000194M,348983856,9,9,Grammar and Punctuation,8,16.00,601.00,E0,P
+21219,9,Reading,21219,Trotcozy Secondary College,Echols,Bobby,R100000194M,348983856,9,9,Reading,8,32.00,605.00,A3:B1:E1,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Echols,Bobby,R100000194M,348983856,9,9,Numeracy,8,43.00,605.78,NC1:B0:C0:F0,P
+21215,5,Spelling,21215,Isovalerate Combined College,Luis,Elda,R100000075R,133472063,5,5,Spelling,,,,,C
+21215,5,Writing,21215,Isovalerate Combined College,Luis,Elda,R100000075R,133472063,5,5,Writing,8,1.00,575.00,,P
+21215,5,GrammarAndPunctuation,21215,Isovalerate Combined College,Luis,Elda,R100000075R,133472063,5,5,Grammar and Punctuation,6,13.00,503.00,F0,P
+21215,5,Reading,21215,Isovalerate Combined College,Luis,Elda,R100000075R,133472063,5,5,Reading,6,33.00,535.00,A1:B0:F0,P
+21215,5,Numeracy,21215,Isovalerate Combined College,Luis,Elda,R100000075R,133472063,5,5,Numeracy,7,34.00,538.33,CA0:D0:C0,P
+21216,3,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Hopper,Travis,R100000116S,850988822,3,3,Grammar and Punctuation,5,17.00,417.00,E1,P
+21216,3,Reading,21216,Ophthalmoplegia Combined College,Hopper,Travis,R100000116S,850988822,3,3,Reading,6,30.00,430.38,A0:B0:E1,P
+21216,3,Numeracy,21216,Ophthalmoplegia Combined College,Hopper,Travis,R100000116S,850988822,3,3,Numeracy,,,,,A
+21216,3,Spelling,21216,Ophthalmoplegia Combined College,Hopper,Travis,R100000116S,850988822,3,3,Spelling,5,17.00,417.00,SA0:SD0:PB0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Floyd,Jeffery,R100000040D,438794451,3,3,Grammar and Punctuation,0,0.0,0.0,F1,R
+21213,3,Reading,21213,Hippocentaur Primary College,Floyd,Jeffery,R100000040D,438794451,3,3,Reading,6,32.00,438.08,A1:B0:F0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Floyd,Jeffery,R100000040D,438794451,3,3,Numeracy,5,25.00,411.15,A1:D0:C0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Floyd,Jeffery,R100000040D,438794451,3,3,Spelling,5,16.00,411.00,SA0:SD0:PB0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Garcia,Beulah,R100000205P,343362773,9,9,Spelling,8,17.00,607.00,SA0:SB0:PB1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Garcia,Beulah,R100000205P,343362773,9,9,Writing,6,0.00,505.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Garcia,Beulah,R100000205P,343362773,9,9,Grammar and Punctuation,8,18.00,613.00,C0,P
+21220,9,Reading,21220,Unturpentined Secondary College,Garcia,Beulah,R100000205P,343362773,9,9,Reading,,,,A2:D0:C0,S
+21220,9,Numeracy,21220,Unturpentined Secondary College,Garcia,Beulah,R100000205P,343362773,9,9,Numeracy,8,44.00,608.12,CA1:D0:C0:F0,P
+21212,5,Spelling,21212,Anticapital Primary College,Finch,Genaro,R100000009M,951674161,5,5,Spelling,,,,,A
+21212,5,Writing,21212,Anticapital Primary College,Finch,Genaro,R100000009M,951674161,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Finch,Genaro,R100000009M,951674161,5,5,Grammar and Punctuation,7,20.00,545.00,E0,P
+21212,5,Reading,21212,Anticapital Primary College,Finch,Genaro,R100000009M,951674161,5,5,Reading,6,29.00,521.67,A3:B0:E0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Finch,Genaro,R100000009M,951674161,5,5,Numeracy,6,24.00,505.00,NC1:D1:C0,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Maurer,Phyllis,R100000224D,237840113,7,7,Numeracy,8,48.00,587.50,NC1:D0:E1:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Maurer,Phyllis,R100000224D,237840113,7,7,Writing,5,0.00,475.00,,P
+21220,7,Spelling,21220,Unturpentined Secondary College,Maurer,Phyllis,R100000224D,237840113,7,7,Spelling,7,17.00,577.00,SA1:SB1:PB0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Maurer,Phyllis,R100000224D,237840113,7,7,Reading,,,,,C
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Maurer,Phyllis,R100000224D,237840113,7,7,Grammar and Punctuation,0,0.00,0.00,G0,P
+21218,9,Spelling,21218,Redistrainer Secondary College,Lane,Ruben,R100000172H,648654892,9,9,Spelling,,,,,W
+21218,9,Writing,21218,Redistrainer Secondary College,Lane,Ruben,R100000172H,648654892,9,9,Writing,10,1.00,655.00,,P
+21218,9,GrammarAndPunctuation,21218,Redistrainer Secondary College,Lane,Ruben,R100000172H,648654892,9,9,Grammar and Punctuation,0,0.00,0.00,B0,P
+21218,9,Reading,21218,Redistrainer Secondary College,Lane,Ruben,R100000172H,648654892,9,9,Reading,9,37.00,620.62,A3:C0:B0,P
+21218,9,Numeracy,21218,Redistrainer Secondary College,Lane,Ruben,R100000172H,648654892,9,9,Numeracy,8,34.00,611.25,A3:B1:C0:F0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Lieberman,Armando,R100000092H,948766497,9,9,Spelling,8,18.00,613.00,SA1:SB0:PD0,P
+21215,9,Writing,21215,Isovalerate Combined College,Lieberman,Armando,R100000092H,948766497,9,9,Writing,6,0.00,505.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Lieberman,Armando,R100000092H,948766497,9,9,Grammar and Punctuation,8,16.00,601.00,F1,P
+21215,9,Reading,21215,Isovalerate Combined College,Lieberman,Armando,R100000092H,948766497,9,9,Reading,8,35.00,614.38,A3:D1:F0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Lieberman,Armando,R100000092H,948766497,9,9,Numeracy,9,48.00,617.50,CA1:B1:C0:E0,P
+21216,7,Numeracy,21216,Ophthalmoplegia Combined College,Robertson,Seth,R100000123K,60555998,7,7,Numeracy,8,48.00,587.50,NC1:D0:C0:E0,P
+21216,7,Writing,21216,Ophthalmoplegia Combined College,Robertson,Seth,R100000123K,60555998,7,7,Writing,,,,,A
+21216,7,Spelling,21216,Ophthalmoplegia Combined College,Robertson,Seth,R100000123K,60555998,7,7,Spelling,6,11.00,541.00,SA0:SB1:PB1,P
+21216,7,Reading,21216,Ophthalmoplegia Combined College,Robertson,Seth,R100000123K,60555998,7,7,Reading,7,32.00,575.00,A2:C0:B0,P
+21216,7,GrammarAndPunctuation,21216,Ophthalmoplegia Combined College,Robertson,Seth,R100000123K,60555998,7,7,Grammar and Punctuation,,,,B0,S
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Dixon,Maribel,R100000027A,938798662,3,3,Grammar and Punctuation,,,,E1,S
+21213,3,Reading,21213,Hippocentaur Primary College,Dixon,Maribel,R100000027A,938798662,3,3,Reading,5,26.00,415.00,A2:B0:E1,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Dixon,Maribel,R100000027A,938798662,3,3,Numeracy,5,29.00,426.54,CA1:D1:E0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Dixon,Maribel,R100000027A,938798662,3,3,Spelling,5,15.00,405.00,SA1:SD0:PB0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Johnson,Benedict,R100000195E,843681862,7,7,Numeracy,7,43.00,575.78,NC0:B0:C0:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Johnson,Benedict,R100000195E,843681862,7,7,Writing,9,1.00,625.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Johnson,Benedict,R100000195E,843681862,7,7,Spelling,,,,,A
+21219,7,Reading,21219,Trotcozy Secondary College,Johnson,Benedict,R100000195E,843681862,7,7,Reading,8,38.00,593.75,A2:C0:B1,P
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Johnson,Benedict,R100000195E,843681862,7,7,Grammar and Punctuation,0,0.00,0.00,B0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Young,Sharon,R100000044E,470222285,3,3,Grammar and Punctuation,5,14.00,399.00,C0,P
+21213,3,Reading,21213,Hippocentaur Primary College,Young,Sharon,R100000044E,470222285,3,3,Reading,5,26.00,415.00,A3:D0:C0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Young,Sharon,R100000044E,470222285,3,3,Numeracy,5,27.00,418.85,CA0:D1:F0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Young,Sharon,R100000044E,470222285,3,3,Spelling,0,0.0,0.0,SA1:SB1:PD1,R
+21217,5,Spelling,21217,Phyllostoma Combined College,Sims,Diane,R100000138E,327244049,5,5,Spelling,6,17.00,527.00,SA1:SB1:PB1,P
+21217,5,Writing,21217,Phyllostoma Combined College,Sims,Diane,R100000138E,327244049,5,5,Writing,8,1.00,575.00,,P
+21217,5,GrammarAndPunctuation,21217,Phyllostoma Combined College,Sims,Diane,R100000138E,327244049,5,5,Grammar and Punctuation,6,15.00,515.00,F0,P
+21217,5,Reading,21217,Phyllostoma Combined College,Sims,Diane,R100000138E,327244049,5,5,Reading,6,25.00,508.33,A2:B0:F0,P
+21217,5,Numeracy,21217,Phyllostoma Combined College,Sims,Diane,R100000138E,327244049,5,5,Numeracy,6,31.00,528.33,CA1:B0:F0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Lee,Jannie,R100000030H,200021907,3,3,Grammar and Punctuation,6,20.00,435.00,F1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Lee,Jannie,R100000030H,200021907,3,3,Reading,5,29.00,426.54,A3:B1:F0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Lee,Jannie,R100000030H,200021907,3,3,Numeracy,6,30.00,430.38,A3:B1:E0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Lee,Jannie,R100000030H,200021907,3,3,Spelling,6,19.00,429.00,SA0:SD1:PD1,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Akbar,Alfredo,R100000215S,619028703,9,9,Spelling,8,18.00,613.00,SA0:SB1:PD1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Akbar,Alfredo,R100000215S,619028703,9,9,Writing,6,0.00,505.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Akbar,Alfredo,R100000215S,619028703,9,9,Grammar and Punctuation,8,15.00,595.00,F0,P
+21220,9,Reading,21220,Unturpentined Secondary College,Akbar,Alfredo,R100000215S,619028703,9,9,Reading,9,38.00,623.75,A1:B1:F0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Akbar,Alfredo,R100000215S,619028703,9,9,Numeracy,9,48.00,617.50,CA0:B1:C0:E1,P
+21220,7,Numeracy,21220,Unturpentined Secondary College,Bloom,Mitchell,R100000211A,105664271,7,7,Numeracy,7,31.00,571.88,A0:D0:C0:F0,P
+21220,7,Writing,21220,Unturpentined Secondary College,Bloom,Mitchell,R100000211A,105664271,7,7,Writing,0,0.0,0.0,,R
+21220,7,Spelling,21220,Unturpentined Secondary College,Bloom,Mitchell,R100000211A,105664271,7,7,Spelling,7,16.00,571.00,SA0:SD0:PB0,P
+21220,7,Reading,21220,Unturpentined Secondary College,Bloom,Mitchell,R100000211A,105664271,7,7,Reading,7,33.00,578.12,A1:D1:C0,P
+21220,7,GrammarAndPunctuation,21220,Unturpentined Secondary College,Bloom,Mitchell,R100000211A,105664271,7,7,Grammar and Punctuation,7,16.00,571.00,C1,P
+21212,5,Spelling,21212,Anticapital Primary College,Alvarado,Cordelia,R100000010G,282611052,5,5,Spelling,6,17.00,527.00,SA0:SB0:PB1,P
+21212,5,Writing,21212,Anticapital Primary College,Alvarado,Cordelia,R100000010G,282611052,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Alvarado,Cordelia,R100000010G,282611052,5,5,Grammar and Punctuation,6,15.00,515.00,F0,P
+21212,5,Reading,21212,Anticapital Primary College,Alvarado,Cordelia,R100000010G,282611052,5,5,Reading,7,34.00,538.33,A3:D0:F0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Alvarado,Cordelia,R100000010G,282611052,5,5,Numeracy,6,28.00,518.33,CA0:D0:E0,P
+21217,9,Spelling,21217,Phyllostoma Combined College,Johnson,Donte,R100000127M,443154971,9,9,Spelling,,,,,A
+21217,9,Writing,21217,Phyllostoma Combined College,Johnson,Donte,R100000127M,443154971,9,9,Writing,10,1.00,655.00,,P
+21217,9,GrammarAndPunctuation,21217,Phyllostoma Combined College,Johnson,Donte,R100000127M,443154971,9,9,Grammar and Punctuation,8,13.00,583.00,E1,P
+21217,9,Reading,21217,Phyllostoma Combined College,Johnson,Donte,R100000127M,443154971,9,9,Reading,8,34.00,611.25,A1:D1:E1,P
+21217,9,Numeracy,21217,Phyllostoma Combined College,Johnson,Donte,R100000127M,443154971,9,9,Numeracy,8,45.00,610.47,NC1:D1:C0:F0,P
+21212,3,GrammarAndPunctuation,21212,Anticapital Primary College,Clemmer,Gladis,R100000002D,912208774,3,3,Grammar and Punctuation,,,,,E
+21212,3,Reading,21212,Anticapital Primary College,Clemmer,Gladis,R100000002D,912208774,3,3,Reading,5,28.00,422.69,A0:D0:C0,P
+21212,3,Numeracy,21212,Anticapital Primary College,Clemmer,Gladis,R100000002D,912208774,3,3,Numeracy,5,29.00,426.54,A1:B0:E0,P
+21212,3,Spelling,21212,Anticapital Primary College,Clemmer,Gladis,R100000002D,912208774,3,3,Spelling,5,18.00,423.00,SA1:SB1:PB0,P
+21214,5,Spelling,21214,Iliac Primary College,Templeton,Tomeka,R100000074P,821927062,5,5,Spelling,6,17.00,527.00,SA0:SB1:PD1,P
+21214,5,Writing,21214,Iliac Primary College,Templeton,Tomeka,R100000074P,821927062,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Templeton,Tomeka,R100000074P,821927062,5,5,Grammar and Punctuation,7,21.00,551.00,F1,P
+21214,5,Reading,21214,Iliac Primary College,Templeton,Tomeka,R100000074P,821927062,5,5,Reading,7,39.00,555.00,A2:B1:F0,P
+21214,5,Numeracy,21214,Iliac Primary College,Templeton,Tomeka,R100000074P,821927062,5,5,Numeracy,6,31.00,528.33,CA1:B1:E1,P
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Mah,Ruth,R100000054H,539010323,3,3,Grammar and Punctuation,,,,E0,S
+21214,3,Reading,21214,Iliac Primary College,Mah,Ruth,R100000054H,539010323,3,3,Reading,5,23.00,403.46,A2:B1:E0,P
+21214,3,Numeracy,21214,Iliac Primary College,Mah,Ruth,R100000054H,539010323,3,3,Numeracy,5,26.00,415.00,CA1:B1:E0,P
+21214,3,Spelling,21214,Iliac Primary College,Mah,Ruth,R100000054H,539010323,3,3,Spelling,5,18.00,423.00,SA0:SD0:PD0,P
+21219,7,Numeracy,21219,Trotcozy Secondary College,Webb,Adriana,R100000175K,621711852,7,7,Numeracy,7,44.00,578.12,CA1:B1:C0:F0,P
+21219,7,Writing,21219,Trotcozy Secondary College,Webb,Adriana,R100000175K,621711852,7,7,Writing,5,0.00,475.00,,P
+21219,7,Spelling,21219,Trotcozy Secondary College,Webb,Adriana,R100000175K,621711852,7,7,Spelling,8,21.00,601.00,SA1:SD1:PB1,P
+21219,7,Reading,21219,Trotcozy Secondary College,Webb,Adriana,R100000175K,621711852,7,7,Reading,0,0.0,0.0,A1:D1:C0,R
+21219,7,GrammarAndPunctuation,21219,Trotcozy Secondary College,Webb,Adriana,R100000175K,621711852,7,7,Grammar and Punctuation,7,16.00,571.00,C1,P
+21212,5,Spelling,21212,Anticapital Primary College,Akbar,Hilda,R100000005G,457520822,5,5,Spelling,6,13.00,503.00,SA0:SB0:PB0,P
+21212,5,Writing,21212,Anticapital Primary College,Akbar,Hilda,R100000005G,457520822,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Akbar,Hilda,R100000005G,457520822,5,5,Grammar and Punctuation,7,19.00,539.00,C0,P
+21212,5,Reading,21212,Anticapital Primary College,Akbar,Hilda,R100000005G,457520822,5,5,Reading,6,30.00,525.00,A0:B0:C0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Akbar,Hilda,R100000005G,457520822,5,5,Numeracy,6,32.00,531.67,NC0:D0:C0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Oates,Wilson,R100000099R,439271349,9,9,Spelling,9,19.00,619.00,SA1:SB1:PB1,P
+21215,9,Writing,21215,Isovalerate Combined College,Oates,Wilson,R100000099R,439271349,9,9,Writing,6,0.00,505.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Oates,Wilson,R100000099R,439271349,9,9,Grammar and Punctuation,0,0.00,0.00,G0,P
+21215,9,Reading,21215,Isovalerate Combined College,Oates,Wilson,R100000099R,439271349,9,9,Reading,,,,,W
+21215,9,Numeracy,21215,Isovalerate Combined College,Oates,Wilson,R100000099R,439271349,9,9,Numeracy,8,47.00,615.16,CA1:D1:C0:F0,P
+21215,9,Spelling,21215,Isovalerate Combined College,Dallas,Carolyn,R100000083D,823126537,9,9,Spelling,8,18.00,613.00,SA0:SD1:PD1,P
+21215,9,Writing,21215,Isovalerate Combined College,Dallas,Carolyn,R100000083D,823126537,9,9,Writing,6,0.00,505.00,,P
+21215,9,GrammarAndPunctuation,21215,Isovalerate Combined College,Dallas,Carolyn,R100000083D,823126537,9,9,Grammar and Punctuation,9,20.00,625.00,F0,P
+21215,9,Reading,21215,Isovalerate Combined College,Dallas,Carolyn,R100000083D,823126537,9,9,Reading,8,29.00,595.62,A1:D0:F0,P
+21215,9,Numeracy,21215,Isovalerate Combined College,Dallas,Carolyn,R100000083D,823126537,9,9,Numeracy,8,42.00,603.44,CA1:D0:E0:F0,P
+21214,5,Spelling,21214,Iliac Primary College,Vasquez,Tracey,R100000060S,521388793,5,5,Spelling,7,19.00,539.00,SA1:SD0:PB1,P
+21214,5,Writing,21214,Iliac Primary College,Vasquez,Tracey,R100000060S,521388793,5,5,Writing,8,1.00,575.00,,P
+21214,5,GrammarAndPunctuation,21214,Iliac Primary College,Vasquez,Tracey,R100000060S,521388793,5,5,Grammar and Punctuation,7,22.00,557.00,F0,P
+21214,5,Reading,21214,Iliac Primary College,Vasquez,Tracey,R100000060S,521388793,5,5,Reading,7,35.00,541.67,A1:B1:F0,P
+21214,5,Numeracy,21214,Iliac Primary College,Vasquez,Tracey,R100000060S,521388793,5,5,Numeracy,6,32.00,531.67,CA0:D1:E1,P
+21212,5,Spelling,21212,Anticapital Primary College,Clevenger,Jonathon,R100000006H,343044931,5,5,Spelling,7,21.00,551.00,SA0:SD1:PD1,P
+21212,5,Writing,21212,Anticapital Primary College,Clevenger,Jonathon,R100000006H,343044931,5,5,Writing,8,1.00,575.00,,P
+21212,5,GrammarAndPunctuation,21212,Anticapital Primary College,Clevenger,Jonathon,R100000006H,343044931,5,5,Grammar and Punctuation,6,16.00,521.00,E0,P
+21212,5,Reading,21212,Anticapital Primary College,Clevenger,Jonathon,R100000006H,343044931,5,5,Reading,6,28.00,518.33,A1:D0:E0,P
+21212,5,Numeracy,21212,Anticapital Primary College,Clevenger,Jonathon,R100000006H,343044931,5,5,Numeracy,7,35.00,541.67,CA0:B0:C0,P
+21213,3,GrammarAndPunctuation,21213,Hippocentaur Primary College,Copeland,Camelia,R100000037R,493598277,3,3,Grammar and Punctuation,5,16.00,411.00,E1,P
+21213,3,Reading,21213,Hippocentaur Primary College,Copeland,Camelia,R100000037R,493598277,3,3,Reading,5,28.00,422.69,A3:B0:E0,P
+21213,3,Numeracy,21213,Hippocentaur Primary College,Copeland,Camelia,R100000037R,493598277,3,3,Numeracy,6,30.00,430.38,A0:B0:C0,P
+21213,3,Spelling,21213,Hippocentaur Primary College,Copeland,Camelia,R100000037R,493598277,3,3,Spelling,6,20.00,435.00,SA0:SB0:PB0,P
+21213,5,Spelling,21213,Hippocentaur Primary College,Staats,Grady,R100000028M,746926784,5,5,Spelling,6,16.00,521.00,SA0:SD0:PD1,P
+21213,5,Writing,21213,Hippocentaur Primary College,Staats,Grady,R100000028M,746926784,5,5,Writing,8,1.00,575.00,,P
+21213,5,GrammarAndPunctuation,21213,Hippocentaur Primary College,Staats,Grady,R100000028M,746926784,5,5,Grammar and Punctuation,7,21.00,551.00,E1,P
+21213,5,Reading,21213,Hippocentaur Primary College,Staats,Grady,R100000028M,746926784,5,5,Reading,6,32.00,531.67,A2:D1:E0,P
+21213,5,Numeracy,21213,Hippocentaur Primary College,Staats,Grady,R100000028M,746926784,5,5,Numeracy,,,,,C
+21214,3,GrammarAndPunctuation,21214,Iliac Primary College,Crain,Marian,R100000062K,62853932,3,3,Grammar and Punctuation,6,20.00,435.00,F0,P
+21214,3,Reading,21214,Iliac Primary College,Crain,Marian,R100000062K,62853932,3,3,Reading,5,27.00,418.85,A2:B1:F0,P
+21214,3,Numeracy,21214,Iliac Primary College,Crain,Marian,R100000062K,62853932,3,3,Numeracy,,,,CA0:B1:E1,S
+21214,3,Spelling,21214,Iliac Primary College,Crain,Marian,R100000062K,62853932,3,3,Spelling,5,17.00,417.00,SA1:SD1:PD1,P
+21219,9,Spelling,21219,Trotcozy Secondary College,Hawkins,Lettie,R100000190G,20896464,9,9,Spelling,8,14.00,589.00,SA1:SD1:PD1,P
+21219,9,Writing,21219,Trotcozy Secondary College,Hawkins,Lettie,R100000190G,20896464,9,9,Writing,6,0.00,505.00,,P
+21219,9,GrammarAndPunctuation,21219,Trotcozy Secondary College,Hawkins,Lettie,R100000190G,20896464,9,9,Grammar and Punctuation,9,19.00,619.00,C1,P
+21219,9,Reading,21219,Trotcozy Secondary College,Hawkins,Lettie,R100000190G,20896464,9,9,Reading,9,39.00,626.88,A2:D1:C0,P
+21219,9,Numeracy,21219,Trotcozy Secondary College,Hawkins,Lettie,R100000190G,20896464,9,9,Numeracy,8,31.00,601.88,A2:D0:C0:E0,P
+21220,9,Spelling,21220,Unturpentined Secondary College,Bowles,Bruce,R100000209H,105780998,9,9,Spelling,8,15.00,595.00,SA1:SD1:PD1,P
+21220,9,Writing,21220,Unturpentined Secondary College,Bowles,Bruce,R100000209H,105780998,9,9,Writing,10,1.00,655.00,,P
+21220,9,GrammarAndPunctuation,21220,Unturpentined Secondary College,Bowles,Bruce,R100000209H,105780998,9,9,Grammar and Punctuation,8,17.00,607.00,F0,P
+21220,9,Reading,21220,Unturpentined Secondary College,Bowles,Bruce,R100000209H,105780998,9,9,Reading,8,31.00,601.88,A0:D1:F0,P
+21220,9,Numeracy,21220,Unturpentined Secondary College,Bowles,Bruce,R100000209H,105780998,9,9,Numeracy,,,,,A
+21218,7,Numeracy,21218,Redistrainer Secondary College,Lake,Elda,R100000160R,565645348,7,7,Numeracy,8,37.00,590.62,A0:B0:C0:F0,P
+21218,7,Writing,21218,Redistrainer Secondary College,Lake,Elda,R100000160R,565645348,7,7,Writing,9,1.00,625.00,,P
+21218,7,Spelling,21218,Redistrainer Secondary College,Lake,Elda,R100000160R,565645348,7,7,Spelling,7,13.00,553.00,SA1:SB1:PB1,P
+21218,7,Reading,21218,Redistrainer Secondary College,Lake,Elda,R100000160R,565645348,7,7,Reading,8,38.00,593.75,A1:B1:C0,P
+21218,7,GrammarAndPunctuation,21218,Redistrainer Secondary College,Lake,Elda,R100000160R,565645348,7,7,Grammar and Punctuation,7,16.00,571.00,C1,P

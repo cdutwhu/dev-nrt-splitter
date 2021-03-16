@@ -1,0 +1,1188 @@
+School,YrLevel,Domain,Student ID,Strand,Test Level,Year,Raw Score,Scaled Score,Band,Participation Code
+21221,9,Spelling,491169629,Spelling,9,2017,15.00,595.00,8,P
+21221,9,Writing,491169629,Writing,9,2017,,,,E
+21221,9,GrammarAndPunctuation,491169629,Grammar and Punctuation,9,2017,14.00,589.00,8,P
+21221,9,Reading,491169629,Reading,9,2017,35.00,614.38,8,P
+21221,9,Numeracy,491169629,Numeracy,9,2017,42.00,603.44,8,P
+21215,5,Spelling,853010112,Spelling,5,2017,19.00,539.00,7,P
+21215,5,Writing,853010112,Writing,5,2017,1.00,575.00,8,P
+21215,5,GrammarAndPunctuation,853010112,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21215,5,Reading,853010112,Reading,5,2017,33.00,535.00,6,P
+21215,5,Numeracy,853010112,Numeracy,5,2017,30.00,525.00,6,P
+21213,5,Spelling,819020519,Spelling,5,2017,16.00,521.00,6,P
+21213,5,Writing,819020519,Writing,5,2017,1.00,575.00,8,P
+21213,5,GrammarAndPunctuation,819020519,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21213,5,Reading,819020519,Reading,5,2017,,,,S
+21213,5,Numeracy,819020519,Numeracy,5,2017,25.00,508.33,6,P
+21214,3,GrammarAndPunctuation,675659121,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21214,3,Reading,675659121,Reading,3,2017,0.0,0.0,0,R
+21214,3,Numeracy,675659121,Numeracy,3,2017,,,,A
+21214,3,Spelling,675659121,Spelling,3,2017,0.0,0.0,0,R
+21221,9,Spelling,556791652,Spelling,9,2017,19.00,619.00,9,P
+21221,9,Writing,556791652,Writing,9,2017,1.00,655.00,10,P
+21221,9,GrammarAndPunctuation,556791652,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21221,9,Reading,556791652,Reading,9,2017,0.0,0.0,0,R
+21221,9,Numeracy,556791652,Numeracy,9,2017,44.00,608.12,8,P
+21220,7,Numeracy,631734365,Numeracy,7,2017,36.00,559.38,7,P
+21220,7,Writing,631734365,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,631734365,Spelling,7,2017,,,,A
+21220,7,Reading,631734365,Reading,7,2017,33.00,578.12,7,P
+21220,7,GrammarAndPunctuation,631734365,Grammar and Punctuation,7,2017,24.00,619.00,8,P
+21217,5,Spelling,755299767,Spelling,5,2017,17.00,527.00,6,P
+21217,5,Writing,755299767,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,755299767,Grammar and Punctuation,5,2017,20.00,545.00,7,P
+21217,5,Reading,755299767,Reading,5,2017,32.00,531.67,6,P
+21217,5,Numeracy,755299767,Numeracy,5,2017,0.0,0.0,0,R
+21215,3,GrammarAndPunctuation,674310219,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21215,3,Reading,674310219,Reading,3,2017,34.00,445.77,6,P
+21215,3,Numeracy,674310219,Numeracy,3,2017,28.00,422.69,5,P
+21215,3,Spelling,674310219,Spelling,3,2017,21.00,441.00,6,P
+21215,9,Spelling,396082924,Spelling,9,2017,18.00,613.00,8,P
+21215,9,Writing,396082924,Writing,9,2017,0.00,505.00,6,P
+21215,9,GrammarAndPunctuation,396082924,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21215,9,Reading,396082924,Reading,9,2017,31.00,601.88,8,P
+21215,9,Numeracy,396082924,Numeracy,9,2017,45.00,610.47,8,P
+21221,9,Spelling,203867073,Spelling,9,2017,15.00,595.00,8,P
+21221,9,Writing,203867073,Writing,9,2017,1.00,655.00,10,P
+21221,9,GrammarAndPunctuation,203867073,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21221,9,Reading,203867073,Reading,9,2017,31.00,601.88,8,P
+21221,9,Numeracy,203867073,Numeracy,9,2017,43.00,605.78,8,P
+21215,9,Spelling,885381996,Spelling,9,2017,21.00,631.00,9,P
+21215,9,Writing,885381996,Writing,9,2017,1.00,655.00,10,P
+21215,9,GrammarAndPunctuation,885381996,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21215,9,Reading,885381996,Reading,9,2017,30.00,598.75,8,P
+21215,9,Numeracy,885381996,Numeracy,9,2017,45.00,610.47,8,P
+21221,5,Spelling,271624309,Spelling,5,2017,13.00,503.00,6,P
+21221,5,Writing,271624309,Writing,5,2017,1.00,575.00,8,P
+21221,5,GrammarAndPunctuation,271624309,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21221,5,Reading,271624309,Reading,5,2017,,,,W
+21221,5,Numeracy,271624309,Numeracy,5,2017,32.00,531.67,6,P
+21220,9,Spelling,634017946,Spelling,9,2017,17.00,607.00,8,P
+21220,9,Writing,634017946,Writing,9,2017,0.00,505.00,6,P
+21220,9,GrammarAndPunctuation,634017946,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21220,9,Reading,634017946,Reading,9,2017,37.00,620.62,9,P
+21220,9,Numeracy,634017946,Numeracy,9,2017,43.00,605.78,8,P
+21214,5,Spelling,680948416,Spelling,5,2017,17.00,527.00,6,P
+21214,5,Writing,680948416,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,680948416,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21214,5,Reading,680948416,Reading,5,2017,32.00,531.67,6,P
+21214,5,Numeracy,680948416,Numeracy,5,2017,36.00,545.00,7,P
+21212,3,GrammarAndPunctuation,396107093,Grammar and Punctuation,3,2017,,,,E
+21212,3,Reading,396107093,Reading,3,2017,30.00,430.38,6,P
+21212,3,Numeracy,396107093,Numeracy,3,2017,29.00,426.54,5,P
+21212,3,Spelling,396107093,Spelling,3,2017,19.00,429.00,6,P
+21221,9,Spelling,900848255,Spelling,9,2017,,,,E
+21221,9,Writing,900848255,Writing,9,2017,0.00,505.00,6,P
+21221,9,GrammarAndPunctuation,900848255,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21221,9,Reading,900848255,Reading,9,2017,31.00,601.88,8,P
+21221,9,Numeracy,900848255,Numeracy,9,2017,,,,X
+21217,5,Spelling,266211914,Spelling,5,2017,17.00,527.00,6,P
+21217,5,Writing,266211914,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,266211914,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21217,5,Reading,266211914,Reading,5,2017,,,,A
+21217,5,Numeracy,266211914,Numeracy,5,2017,,,,E
+21218,9,Spelling,574013097,Spelling,9,2017,21.00,631.00,9,P
+21218,9,Writing,574013097,Writing,9,2017,0.00,505.00,6,P
+21218,9,GrammarAndPunctuation,574013097,Grammar and Punctuation,9,2017,,,,C
+21218,9,Reading,574013097,Reading,9,2017,37.00,620.62,9,P
+21218,9,Numeracy,574013097,Numeracy,9,2017,45.00,610.47,8,P
+21215,3,GrammarAndPunctuation,439970865,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21215,3,Reading,439970865,Reading,3,2017,31.00,434.23,6,P
+21215,3,Numeracy,439970865,Numeracy,3,2017,30.00,430.38,6,P
+21215,3,Spelling,439970865,Spelling,3,2017,20.00,435.00,6,P
+21217,5,Spelling,802538749,Spelling,5,2017,18.00,533.00,6,P
+21217,5,Writing,802538749,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,802538749,Grammar and Punctuation,5,2017,,,,C
+21217,5,Reading,802538749,Reading,5,2017,34.00,538.33,7,P
+21217,5,Numeracy,802538749,Numeracy,5,2017,27.00,515.00,6,P
+21218,9,Spelling,133061145,Spelling,9,2017,17.00,607.00,8,P
+21218,9,Writing,133061145,Writing,9,2017,0.00,505.00,6,P
+21218,9,GrammarAndPunctuation,133061145,Grammar and Punctuation,9,2017,,,,A
+21218,9,Reading,133061145,Reading,9,2017,0.0,0.0,0,R
+21218,9,Numeracy,133061145,Numeracy,9,2017,47.00,615.16,8,P
+21217,3,GrammarAndPunctuation,335776714,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21217,3,Reading,335776714,Reading,3,2017,28.00,422.69,5,P
+21217,3,Numeracy,335776714,Numeracy,3,2017,29.00,426.54,5,P
+21217,3,Spelling,335776714,Spelling,3,2017,12.00,387.00,4,P
+21216,9,Spelling,888211114,Spelling,9,2017,,,,W
+21216,9,Writing,888211114,Writing,9,2017,,,,S
+21216,9,GrammarAndPunctuation,888211114,Grammar and Punctuation,9,2017,,,,C
+21216,9,Reading,888211114,Reading,9,2017,31.00,601.88,8,P
+21216,9,Numeracy,888211114,Numeracy,9,2017,,,,W
+21220,7,Numeracy,211703575,Numeracy,7,2017,44.00,578.12,7,P
+21220,7,Writing,211703575,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,211703575,Spelling,7,2017,18.00,583.00,7,P
+21220,7,Reading,211703575,Reading,7,2017,,,,X
+21220,7,GrammarAndPunctuation,211703575,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21217,7,Numeracy,425987780,Numeracy,7,2017,0.0,0.0,0,R
+21217,7,Writing,425987780,Writing,7,2017,1.00,625.00,9,P
+21217,7,Spelling,425987780,Spelling,7,2017,17.00,577.00,7,P
+21217,7,Reading,425987780,Reading,7,2017,,,,X
+21217,7,GrammarAndPunctuation,425987780,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21219,9,Spelling,619018444,Spelling,9,2017,18.00,613.00,8,P
+21219,9,Writing,619018444,Writing,9,2017,0.00,505.00,6,P
+21219,9,GrammarAndPunctuation,619018444,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21219,9,Reading,619018444,Reading,9,2017,31.00,601.88,8,P
+21219,9,Numeracy,619018444,Numeracy,9,2017,,,,X
+21220,7,Numeracy,627653130,Numeracy,7,2017,34.00,581.25,7,P
+21220,7,Writing,627653130,Writing,7,2017,0.00,475.00,5,P
+21220,7,Spelling,627653130,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,627653130,Reading,7,2017,32.00,575.00,7,P
+21220,7,GrammarAndPunctuation,627653130,Grammar and Punctuation,7,2017,21.00,601.00,8,P
+21216,7,Numeracy,450912812,Numeracy,7,2017,48.00,587.50,8,P
+21216,7,Writing,450912812,Writing,7,2017,1.00,625.00,9,P
+21216,7,Spelling,450912812,Spelling,7,2017,18.00,583.00,7,P
+21216,7,Reading,450912812,Reading,7,2017,35.00,584.38,7,P
+21216,7,GrammarAndPunctuation,450912812,Grammar and Punctuation,7,2017,14.00,559.00,7,P
+21219,7,Numeracy,6933898,Numeracy,7,2017,52.00,596.88,8,P
+21219,7,Writing,6933898,Writing,7,2017,0.00,475.00,5,P
+21219,7,Spelling,6933898,Spelling,7,2017,18.00,583.00,7,P
+21219,7,Reading,6933898,Reading,7,2017,,,,W
+21219,7,GrammarAndPunctuation,6933898,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,5,Spelling,382707688,Spelling,5,2017,19.00,539.00,7,P
+21213,5,Writing,382707688,Writing,5,2017,,,,E
+21213,5,GrammarAndPunctuation,382707688,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21213,5,Reading,382707688,Reading,5,2017,,,,A
+21213,5,Numeracy,382707688,Numeracy,5,2017,33.00,535.00,6,P
+21212,5,Spelling,990752961,Spelling,5,2017,18.00,533.00,6,P
+21212,5,Writing,990752961,Writing,5,2017,0.00,425.00,4,P
+21212,5,GrammarAndPunctuation,990752961,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21212,5,Reading,990752961,Reading,5,2017,35.00,541.67,7,P
+21212,5,Numeracy,990752961,Numeracy,5,2017,31.00,528.33,6,P
+21216,3,GrammarAndPunctuation,282643161,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21216,3,Reading,282643161,Reading,3,2017,0.0,0.0,0,R
+21216,3,Numeracy,282643161,Numeracy,3,2017,28.00,422.69,5,P
+21216,3,Spelling,282643161,Spelling,3,2017,19.00,429.00,6,P
+21221,5,Spelling,451351971,Spelling,5,2017,17.00,527.00,6,P
+21221,5,Writing,451351971,Writing,5,2017,0.00,425.00,4,P
+21221,5,GrammarAndPunctuation,451351971,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21221,5,Reading,451351971,Reading,5,2017,,,,X
+21221,5,Numeracy,451351971,Numeracy,5,2017,33.00,535.00,6,P
+21212,5,Spelling,383655377,Spelling,5,2017,,,,C
+21212,5,Writing,383655377,Writing,5,2017,,,,A
+21212,5,GrammarAndPunctuation,383655377,Grammar and Punctuation,5,2017,15.00,515.00,6,P
+21212,5,Reading,383655377,Reading,5,2017,28.00,518.33,6,P
+21212,5,Numeracy,383655377,Numeracy,5,2017,35.00,541.67,7,P
+21216,5,Spelling,192512270,Spelling,5,2017,18.00,533.00,6,P
+21216,5,Writing,192512270,Writing,5,2017,1.00,575.00,8,P
+21216,5,GrammarAndPunctuation,192512270,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21216,5,Reading,192512270,Reading,5,2017,39.00,555.00,7,P
+21216,5,Numeracy,192512270,Numeracy,5,2017,0.0,0.0,0,R
+21219,7,Numeracy,444721933,Numeracy,7,2017,34.00,581.25,7,P
+21219,7,Writing,444721933,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,444721933,Spelling,7,2017,21.00,601.00,8,P
+21219,7,Reading,444721933,Reading,7,2017,29.00,565.62,7,P
+21219,7,GrammarAndPunctuation,444721933,Grammar and Punctuation,7,2017,0.0,0.0,0,R
+21217,7,Numeracy,641342585,Numeracy,7,2017,30.00,568.75,7,P
+21217,7,Writing,641342585,Writing,7,2017,0.00,475.00,5,P
+21217,7,Spelling,641342585,Spelling,7,2017,17.00,577.00,7,P
+21217,7,Reading,641342585,Reading,7,2017,,,,W
+21217,7,GrammarAndPunctuation,641342585,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21218,9,Spelling,943780521,Spelling,9,2017,,,,A
+21218,9,Writing,943780521,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,943780521,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21218,9,Reading,943780521,Reading,9,2017,29.00,595.62,8,P
+21218,9,Numeracy,943780521,Numeracy,9,2017,25.00,583.12,8,P
+21219,9,Spelling,434117401,Spelling,9,2017,18.00,613.00,8,P
+21219,9,Writing,434117401,Writing,9,2017,,,,A
+21219,9,GrammarAndPunctuation,434117401,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21219,9,Reading,434117401,Reading,9,2017,0.0,0.0,0,R
+21219,9,Numeracy,434117401,Numeracy,9,2017,43.00,605.78,8,P
+21215,5,Spelling,822404131,Spelling,5,2017,17.00,527.00,6,P
+21215,5,Writing,822404131,Writing,5,2017,1.00,575.00,8,P
+21215,5,GrammarAndPunctuation,822404131,Grammar and Punctuation,5,2017,20.00,545.00,7,P
+21215,5,Reading,822404131,Reading,5,2017,35.00,541.67,7,P
+21215,5,Numeracy,822404131,Numeracy,5,2017,31.00,528.33,6,P
+21220,9,Spelling,327855067,Spelling,9,2017,15.00,595.00,8,P
+21220,9,Writing,327855067,Writing,9,2017,1.00,655.00,10,P
+21220,9,GrammarAndPunctuation,327855067,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21220,9,Reading,327855067,Reading,9,2017,36.00,617.50,9,P
+21220,9,Numeracy,327855067,Numeracy,9,2017,41.00,601.09,8,P
+21221,5,Spelling,685311639,Spelling,5,2017,17.00,527.00,6,P
+21221,5,Writing,685311639,Writing,5,2017,1.00,575.00,8,P
+21221,5,GrammarAndPunctuation,685311639,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21221,5,Reading,685311639,Reading,5,2017,34.00,538.33,7,P
+21221,5,Numeracy,685311639,Numeracy,5,2017,0.0,0.0,0,R
+21215,3,GrammarAndPunctuation,340433409,Grammar and Punctuation,3,2017,14.00,399.00,5,P
+21215,3,Reading,340433409,Reading,3,2017,26.00,415.00,5,P
+21215,3,Numeracy,340433409,Numeracy,3,2017,,,,E
+21215,3,Spelling,340433409,Spelling,3,2017,17.00,417.00,5,P
+21217,3,GrammarAndPunctuation,402173859,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21217,3,Reading,402173859,Reading,3,2017,,,,E
+21217,3,Numeracy,402173859,Numeracy,3,2017,28.00,422.69,5,P
+21217,3,Spelling,402173859,Spelling,3,2017,17.00,417.00,5,P
+21216,9,Spelling,10837212,Spelling,9,2017,16.00,601.00,8,P
+21216,9,Writing,10837212,Writing,9,2017,0.00,505.00,6,P
+21216,9,GrammarAndPunctuation,10837212,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21216,9,Reading,10837212,Reading,9,2017,,,,S
+21216,9,Numeracy,10837212,Numeracy,9,2017,49.00,619.84,9,P
+21221,3,GrammarAndPunctuation,430438093,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21221,3,Reading,430438093,Reading,3,2017,28.00,422.69,5,P
+21221,3,Numeracy,430438093,Numeracy,3,2017,25.00,411.15,5,P
+21221,3,Spelling,430438093,Spelling,3,2017,16.00,411.00,5,P
+21212,5,Spelling,61184023,Spelling,5,2017,,,,S
+21212,5,Writing,61184023,Writing,5,2017,0.00,425.00,4,P
+21212,5,GrammarAndPunctuation,61184023,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21212,5,Reading,61184023,Reading,5,2017,32.00,531.67,6,P
+21212,5,Numeracy,61184023,Numeracy,5,2017,29.00,521.67,6,P
+21218,9,Spelling,564353838,Spelling,9,2017,19.00,619.00,9,P
+21218,9,Writing,564353838,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,564353838,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21218,9,Reading,564353838,Reading,9,2017,32.00,605.00,8,P
+21218,9,Numeracy,564353838,Numeracy,9,2017,44.00,608.12,8,P
+21216,7,Numeracy,477249064,Numeracy,7,2017,44.00,578.12,7,P
+21216,7,Writing,477249064,Writing,7,2017,,,,E
+21216,7,Spelling,477249064,Spelling,7,2017,,,,S
+21216,7,Reading,477249064,Reading,7,2017,,,,S
+21216,7,GrammarAndPunctuation,477249064,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21219,9,Spelling,788534120,Spelling,9,2017,17.00,607.00,8,P
+21219,9,Writing,788534120,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,788534120,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21219,9,Reading,788534120,Reading,9,2017,35.00,614.38,8,P
+21219,9,Numeracy,788534120,Numeracy,9,2017,48.00,617.50,9,P
+21213,5,Spelling,417330656,Spelling,5,2017,18.00,533.00,6,P
+21213,5,Writing,417330656,Writing,5,2017,,,,S
+21213,5,GrammarAndPunctuation,417330656,Grammar and Punctuation,5,2017,,,,A
+21213,5,Reading,417330656,Reading,5,2017,31.00,528.33,6,P
+21213,5,Numeracy,417330656,Numeracy,5,2017,32.00,531.67,6,P
+21221,7,Numeracy,25072537,Numeracy,7,2017,36.00,587.50,8,P
+21221,7,Writing,25072537,Writing,7,2017,0.00,475.00,5,P
+21221,7,Spelling,25072537,Spelling,7,2017,16.00,571.00,7,P
+21221,7,Reading,25072537,Reading,7,2017,33.00,578.12,7,P
+21221,7,GrammarAndPunctuation,25072537,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21217,3,GrammarAndPunctuation,496457483,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21217,3,Reading,496457483,Reading,3,2017,20.00,391.92,5,P
+21217,3,Numeracy,496457483,Numeracy,3,2017,27.00,418.85,5,P
+21217,3,Spelling,496457483,Spelling,3,2017,16.00,411.00,5,P
+21217,3,GrammarAndPunctuation,381224207,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21217,3,Reading,381224207,Reading,3,2017,23.00,403.46,5,P
+21217,3,Numeracy,381224207,Numeracy,3,2017,32.00,438.08,6,P
+21217,3,Spelling,381224207,Spelling,3,2017,20.00,435.00,6,P
+21220,7,Numeracy,575358325,Numeracy,7,2017,,,,X
+21220,7,Writing,575358325,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,575358325,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,575358325,Reading,7,2017,32.00,575.00,7,P
+21220,7,GrammarAndPunctuation,575358325,Grammar and Punctuation,7,2017,21.00,601.00,8,P
+21212,3,GrammarAndPunctuation,605628993,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21212,3,Reading,605628993,Reading,3,2017,29.00,426.54,5,P
+21212,3,Numeracy,605628993,Numeracy,3,2017,27.00,418.85,5,P
+21212,3,Spelling,605628993,Spelling,3,2017,16.00,411.00,5,P
+21214,3,GrammarAndPunctuation,209737245,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21214,3,Reading,209737245,Reading,3,2017,33.00,441.92,6,P
+21214,3,Numeracy,209737245,Numeracy,3,2017,28.00,422.69,5,P
+21214,3,Spelling,209737245,Spelling,3,2017,21.00,441.00,6,P
+21221,3,GrammarAndPunctuation,947420789,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21221,3,Reading,947420789,Reading,3,2017,,,,S
+21221,3,Numeracy,947420789,Numeracy,3,2017,28.00,422.69,5,P
+21221,3,Spelling,947420789,Spelling,3,2017,16.00,411.00,5,P
+21218,9,Spelling,696159850,Spelling,9,2017,14.00,589.00,8,P
+21218,9,Writing,696159850,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,696159850,Grammar and Punctuation,9,2017,23.00,643.00,9,P
+21218,9,Reading,696159850,Reading,9,2017,31.00,601.88,8,P
+21218,9,Numeracy,696159850,Numeracy,9,2017,34.00,611.25,8,P
+21212,3,GrammarAndPunctuation,842856266,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21212,3,Reading,842856266,Reading,3,2017,27.00,418.85,5,P
+21212,3,Numeracy,842856266,Numeracy,3,2017,23.00,403.46,5,P
+21212,3,Spelling,842856266,Spelling,3,2017,18.00,423.00,5,P
+21215,3,GrammarAndPunctuation,912369050,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21215,3,Reading,912369050,Reading,3,2017,25.00,411.15,5,P
+21215,3,Numeracy,912369050,Numeracy,3,2017,27.00,418.85,5,P
+21215,3,Spelling,912369050,Spelling,3,2017,16.00,411.00,5,P
+21213,3,GrammarAndPunctuation,366375982,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21213,3,Reading,366375982,Reading,3,2017,28.00,422.69,5,P
+21213,3,Numeracy,366375982,Numeracy,3,2017,32.00,438.08,6,P
+21213,3,Spelling,366375982,Spelling,3,2017,18.00,423.00,5,P
+21214,3,GrammarAndPunctuation,766731912,Grammar and Punctuation,3,2017,15.00,405.00,5,P
+21214,3,Reading,766731912,Reading,3,2017,33.00,441.92,6,P
+21214,3,Numeracy,766731912,Numeracy,3,2017,25.00,411.15,5,P
+21214,3,Spelling,766731912,Spelling,3,2017,19.00,429.00,6,P
+21216,7,Numeracy,192409105,Numeracy,7,2017,40.00,568.75,7,P
+21216,7,Writing,192409105,Writing,7,2017,1.00,625.00,9,P
+21216,7,Spelling,192409105,Spelling,7,2017,15.00,565.00,7,P
+21216,7,Reading,192409105,Reading,7,2017,27.00,559.38,7,P
+21216,7,GrammarAndPunctuation,192409105,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21216,9,Spelling,491481562,Spelling,9,2017,15.00,595.00,8,P
+21216,9,Writing,491481562,Writing,9,2017,,,,W
+21216,9,GrammarAndPunctuation,491481562,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21216,9,Reading,491481562,Reading,9,2017,37.00,620.62,9,P
+21216,9,Numeracy,491481562,Numeracy,9,2017,44.00,608.12,8,P
+21214,5,Spelling,478468366,Spelling,5,2017,17.00,527.00,6,P
+21214,5,Writing,478468366,Writing,5,2017,,,,A
+21214,5,GrammarAndPunctuation,478468366,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21214,5,Reading,478468366,Reading,5,2017,32.00,531.67,6,P
+21214,5,Numeracy,478468366,Numeracy,5,2017,,,,S
+21213,3,GrammarAndPunctuation,996421153,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21213,3,Reading,996421153,Reading,3,2017,,,,E
+21213,3,Numeracy,996421153,Numeracy,3,2017,25.00,411.15,5,P
+21213,3,Spelling,996421153,Spelling,3,2017,22.00,447.00,6,P
+21216,9,Spelling,749836672,Spelling,9,2017,20.00,625.00,9,P
+21216,9,Writing,749836672,Writing,9,2017,1.00,655.00,10,P
+21216,9,GrammarAndPunctuation,749836672,Grammar and Punctuation,9,2017,,,,E
+21216,9,Reading,749836672,Reading,9,2017,,,,X
+21216,9,Numeracy,749836672,Numeracy,9,2017,33.00,608.12,8,P
+21219,9,Spelling,756107976,Spelling,9,2017,21.00,631.00,9,P
+21219,9,Writing,756107976,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,756107976,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21219,9,Reading,756107976,Reading,9,2017,0.0,0.0,0,R
+21219,9,Numeracy,756107976,Numeracy,9,2017,36.00,589.38,8,P
+21220,7,Numeracy,891208554,Numeracy,7,2017,45.00,580.47,7,P
+21220,7,Writing,891208554,Writing,7,2017,0.00,475.00,5,P
+21220,7,Spelling,891208554,Spelling,7,2017,,,,C
+21220,7,Reading,891208554,Reading,7,2017,31.00,571.88,7,P
+21220,7,GrammarAndPunctuation,891208554,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21213,3,GrammarAndPunctuation,772546884,Grammar and Punctuation,3,2017,15.00,405.00,5,P
+21213,3,Reading,772546884,Reading,3,2017,31.00,434.23,6,P
+21213,3,Numeracy,772546884,Numeracy,3,2017,,,,W
+21213,3,Spelling,772546884,Spelling,3,2017,18.00,423.00,5,P
+21216,5,Spelling,198273077,Spelling,5,2017,14.00,509.00,6,P
+21216,5,Writing,198273077,Writing,5,2017,1.00,575.00,8,P
+21216,5,GrammarAndPunctuation,198273077,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21216,5,Reading,198273077,Reading,5,2017,27.00,515.00,6,P
+21216,5,Numeracy,198273077,Numeracy,5,2017,27.00,515.00,6,P
+21218,7,Numeracy,213211247,Numeracy,7,2017,0.0,0.0,0,R
+21218,7,Writing,213211247,Writing,7,2017,0.00,475.00,5,P
+21218,7,Spelling,213211247,Spelling,7,2017,16.00,571.00,7,P
+21218,7,Reading,213211247,Reading,7,2017,37.00,590.62,8,P
+21218,7,GrammarAndPunctuation,213211247,Grammar and Punctuation,7,2017,19.00,589.00,8,P
+21219,9,Spelling,465705203,Spelling,9,2017,18.00,613.00,8,P
+21219,9,Writing,465705203,Writing,9,2017,0.0,0.0,0,R
+21219,9,GrammarAndPunctuation,465705203,Grammar and Punctuation,9,2017,18.00,613.00,8,P
+21219,9,Reading,465705203,Reading,9,2017,32.00,605.00,8,P
+21219,9,Numeracy,465705203,Numeracy,9,2017,,,,C
+21214,3,GrammarAndPunctuation,540268370,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21214,3,Reading,540268370,Reading,3,2017,22.00,399.62,5,P
+21214,3,Numeracy,540268370,Numeracy,3,2017,,,,A
+21214,3,Spelling,540268370,Spelling,3,2017,19.00,429.00,6,P
+21217,3,GrammarAndPunctuation,969220439,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21217,3,Reading,969220439,Reading,3,2017,27.00,418.85,5,P
+21217,3,Numeracy,969220439,Numeracy,3,2017,30.00,430.38,6,P
+21217,3,Spelling,969220439,Spelling,3,2017,18.00,423.00,5,P
+21214,3,GrammarAndPunctuation,222625718,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21214,3,Reading,222625718,Reading,3,2017,28.00,422.69,5,P
+21214,3,Numeracy,222625718,Numeracy,3,2017,30.00,430.38,6,P
+21214,3,Spelling,222625718,Spelling,3,2017,20.00,435.00,6,P
+21221,7,Numeracy,933260619,Numeracy,7,2017,42.00,573.44,7,P
+21221,7,Writing,933260619,Writing,7,2017,,,,X
+21221,7,Spelling,933260619,Spelling,7,2017,17.00,577.00,7,P
+21221,7,Reading,933260619,Reading,7,2017,32.00,575.00,7,P
+21221,7,GrammarAndPunctuation,933260619,Grammar and Punctuation,7,2017,14.00,559.00,7,P
+21212,3,GrammarAndPunctuation,402023619,Grammar and Punctuation,3,2017,21.00,441.00,6,P
+21212,3,Reading,402023619,Reading,3,2017,30.00,430.38,6,P
+21212,3,Numeracy,402023619,Numeracy,3,2017,,,,S
+21212,3,Spelling,402023619,Spelling,3,2017,19.00,429.00,6,P
+21215,5,Spelling,188250194,Spelling,5,2017,15.00,515.00,6,P
+21215,5,Writing,188250194,Writing,5,2017,1.00,575.00,8,P
+21215,5,GrammarAndPunctuation,188250194,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21215,5,Reading,188250194,Reading,5,2017,30.00,525.00,6,P
+21215,5,Numeracy,188250194,Numeracy,5,2017,33.00,535.00,6,P
+21214,5,Spelling,774111723,Spelling,5,2017,18.00,533.00,6,P
+21214,5,Writing,774111723,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,774111723,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21214,5,Reading,774111723,Reading,5,2017,31.00,528.33,6,P
+21214,5,Numeracy,774111723,Numeracy,5,2017,30.00,525.00,6,P
+21221,7,Numeracy,951895034,Numeracy,7,2017,46.00,582.81,7,P
+21221,7,Writing,951895034,Writing,7,2017,0.00,475.00,5,P
+21221,7,Spelling,951895034,Spelling,7,2017,18.00,583.00,7,P
+21221,7,Reading,951895034,Reading,7,2017,36.00,587.50,8,P
+21221,7,GrammarAndPunctuation,951895034,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21220,7,Numeracy,520369196,Numeracy,7,2017,48.00,587.50,8,P
+21220,7,Writing,520369196,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,520369196,Spelling,7,2017,14.00,559.00,7,P
+21220,7,Reading,520369196,Reading,7,2017,30.00,568.75,7,P
+21220,7,GrammarAndPunctuation,520369196,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21217,3,GrammarAndPunctuation,937352317,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21217,3,Reading,937352317,Reading,3,2017,29.00,426.54,5,P
+21217,3,Numeracy,937352317,Numeracy,3,2017,28.00,422.69,5,P
+21217,3,Spelling,937352317,Spelling,3,2017,,,,A
+21217,5,Spelling,954748572,Spelling,5,2017,22.00,557.00,7,P
+21217,5,Writing,954748572,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,954748572,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21217,5,Reading,954748572,Reading,5,2017,0.0,0.0,0,R
+21217,5,Numeracy,954748572,Numeracy,5,2017,35.00,541.67,7,P
+21217,7,Numeracy,419563912,Numeracy,7,2017,,,,A
+21217,7,Writing,419563912,Writing,7,2017,0.00,475.00,5,P
+21217,7,Spelling,419563912,Spelling,7,2017,,,,E
+21217,7,Reading,419563912,Reading,7,2017,32.00,575.00,7,P
+21217,7,GrammarAndPunctuation,419563912,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21217,5,Spelling,910440016,Spelling,5,2017,19.00,539.00,7,P
+21217,5,Writing,910440016,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,910440016,Grammar and Punctuation,5,2017,13.00,503.00,6,P
+21217,5,Reading,910440016,Reading,5,2017,35.00,541.67,7,P
+21217,5,Numeracy,910440016,Numeracy,5,2017,33.00,535.00,6,P
+21214,5,Spelling,384397284,Spelling,5,2017,13.00,503.00,6,P
+21214,5,Writing,384397284,Writing,5,2017,,,,E
+21214,5,GrammarAndPunctuation,384397284,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21214,5,Reading,384397284,Reading,5,2017,27.00,515.00,6,P
+21214,5,Numeracy,384397284,Numeracy,5,2017,35.00,541.67,7,P
+21216,7,Numeracy,73385408,Numeracy,7,2017,42.00,573.44,7,P
+21216,7,Writing,73385408,Writing,7,2017,0.00,475.00,5,P
+21216,7,Spelling,73385408,Spelling,7,2017,19.00,589.00,8,P
+21216,7,Reading,73385408,Reading,7,2017,32.00,575.00,7,P
+21216,7,GrammarAndPunctuation,73385408,Grammar and Punctuation,7,2017,,,,E
+21213,3,GrammarAndPunctuation,855487884,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21213,3,Reading,855487884,Reading,3,2017,20.00,391.92,5,P
+21213,3,Numeracy,855487884,Numeracy,3,2017,28.00,422.69,5,P
+21213,3,Spelling,855487884,Spelling,3,2017,19.00,429.00,6,P
+21214,5,Spelling,828739037,Spelling,5,2017,18.00,533.00,6,P
+21214,5,Writing,828739037,Writing,5,2017,,,,A
+21214,5,GrammarAndPunctuation,828739037,Grammar and Punctuation,5,2017,,,,X
+21214,5,Reading,828739037,Reading,5,2017,31.00,528.33,6,P
+21214,5,Numeracy,828739037,Numeracy,5,2017,31.00,528.33,6,P
+21220,7,Numeracy,554661825,Numeracy,7,2017,,,,S
+21220,7,Writing,554661825,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,554661825,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,554661825,Reading,7,2017,40.00,600.00,8,P
+21220,7,GrammarAndPunctuation,554661825,Grammar and Punctuation,7,2017,11.00,541.00,6,P
+21216,7,Numeracy,557824343,Numeracy,7,2017,29.00,565.62,7,P
+21216,7,Writing,557824343,Writing,7,2017,1.00,625.00,9,P
+21216,7,Spelling,557824343,Spelling,7,2017,22.00,607.00,8,P
+21216,7,Reading,557824343,Reading,7,2017,33.00,578.12,7,P
+21216,7,GrammarAndPunctuation,557824343,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21212,5,Spelling,812451070,Spelling,5,2017,,,,X
+21212,5,Writing,812451070,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,812451070,Grammar and Punctuation,5,2017,15.00,515.00,6,P
+21212,5,Reading,812451070,Reading,5,2017,34.00,538.33,7,P
+21212,5,Numeracy,812451070,Numeracy,5,2017,32.00,531.67,6,P
+21212,5,Spelling,624650841,Spelling,5,2017,19.00,539.00,7,P
+21212,5,Writing,624650841,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,624650841,Grammar and Punctuation,5,2017,0.0,0.0,0,R
+21212,5,Reading,624650841,Reading,5,2017,30.00,525.00,6,P
+21212,5,Numeracy,624650841,Numeracy,5,2017,28.00,518.33,6,P
+21212,3,GrammarAndPunctuation,925430999,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21212,3,Reading,925430999,Reading,3,2017,31.00,434.23,6,P
+21212,3,Numeracy,925430999,Numeracy,3,2017,23.00,403.46,5,P
+21212,3,Spelling,925430999,Spelling,3,2017,16.00,411.00,5,P
+21219,9,Spelling,14040244,Spelling,9,2017,17.00,607.00,8,P
+21219,9,Writing,14040244,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,14040244,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21219,9,Reading,14040244,Reading,9,2017,28.00,592.50,8,P
+21219,9,Numeracy,14040244,Numeracy,9,2017,,,,X
+21214,5,Spelling,455745192,Spelling,5,2017,18.00,533.00,6,P
+21214,5,Writing,455745192,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,455745192,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21214,5,Reading,455745192,Reading,5,2017,33.00,535.00,6,P
+21214,5,Numeracy,455745192,Numeracy,5,2017,35.00,541.67,7,P
+21220,7,Numeracy,820681232,Numeracy,7,2017,43.00,575.78,7,P
+21220,7,Writing,820681232,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,820681232,Spelling,7,2017,16.00,571.00,7,P
+21220,7,Reading,820681232,Reading,7,2017,33.00,578.12,7,P
+21220,7,GrammarAndPunctuation,820681232,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21212,3,GrammarAndPunctuation,684855136,Grammar and Punctuation,3,2017,,,,E
+21212,3,Reading,684855136,Reading,3,2017,33.00,441.92,6,P
+21212,3,Numeracy,684855136,Numeracy,3,2017,27.00,418.85,5,P
+21212,3,Spelling,684855136,Spelling,3,2017,17.00,417.00,5,P
+21221,7,Numeracy,360685193,Numeracy,7,2017,47.00,585.16,7,P
+21221,7,Writing,360685193,Writing,7,2017,,,,E
+21221,7,Spelling,360685193,Spelling,7,2017,,,,A
+21221,7,Reading,360685193,Reading,7,2017,35.00,584.38,7,P
+21221,7,GrammarAndPunctuation,360685193,Grammar and Punctuation,7,2017,19.00,589.00,8,P
+21221,5,Spelling,963412185,Spelling,5,2017,,,,X
+21221,5,Writing,963412185,Writing,5,2017,1.00,575.00,8,P
+21221,5,GrammarAndPunctuation,963412185,Grammar and Punctuation,5,2017,13.00,503.00,6,P
+21221,5,Reading,963412185,Reading,5,2017,33.00,535.00,6,P
+21221,5,Numeracy,963412185,Numeracy,5,2017,,,,E
+21220,7,Numeracy,385371423,Numeracy,7,2017,40.00,600.00,8,P
+21220,7,Writing,385371423,Writing,7,2017,,,,X
+21220,7,Spelling,385371423,Spelling,7,2017,20.00,595.00,8,P
+21220,7,Reading,385371423,Reading,7,2017,31.00,571.88,7,P
+21220,7,GrammarAndPunctuation,385371423,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21217,3,GrammarAndPunctuation,723237700,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21217,3,Reading,723237700,Reading,3,2017,29.00,426.54,5,P
+21217,3,Numeracy,723237700,Numeracy,3,2017,23.00,403.46,5,P
+21217,3,Spelling,723237700,Spelling,3,2017,,,,C
+21214,5,Spelling,72785717,Spelling,5,2017,19.00,539.00,7,P
+21214,5,Writing,72785717,Writing,5,2017,0.00,425.00,4,P
+21214,5,GrammarAndPunctuation,72785717,Grammar and Punctuation,5,2017,15.00,515.00,6,P
+21214,5,Reading,72785717,Reading,5,2017,36.00,545.00,7,P
+21214,5,Numeracy,72785717,Numeracy,5,2017,32.00,531.67,6,P
+21215,7,Numeracy,140397837,Numeracy,7,2017,50.00,592.19,8,P
+21215,7,Writing,140397837,Writing,7,2017,1.00,625.00,9,P
+21215,7,Spelling,140397837,Spelling,7,2017,19.00,589.00,8,P
+21215,7,Reading,140397837,Reading,7,2017,32.00,575.00,7,P
+21215,7,GrammarAndPunctuation,140397837,Grammar and Punctuation,7,2017,19.00,589.00,8,P
+21219,7,Numeracy,42576899,Numeracy,7,2017,41.00,571.09,7,P
+21219,7,Writing,42576899,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,42576899,Spelling,7,2017,20.00,595.00,8,P
+21219,7,Reading,42576899,Reading,7,2017,28.00,562.50,7,P
+21219,7,GrammarAndPunctuation,42576899,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21219,7,Numeracy,730559528,Numeracy,7,2017,31.00,571.88,7,P
+21219,7,Writing,730559528,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,730559528,Spelling,7,2017,0.0,0.0,0,R
+21219,7,Reading,730559528,Reading,7,2017,37.00,590.62,8,P
+21219,7,GrammarAndPunctuation,730559528,Grammar and Punctuation,7,2017,,,,S
+21218,9,Spelling,213949532,Spelling,9,2017,18.00,613.00,8,P
+21218,9,Writing,213949532,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,213949532,Grammar and Punctuation,9,2017,18.00,613.00,8,P
+21218,9,Reading,213949532,Reading,9,2017,,,,S
+21218,9,Numeracy,213949532,Numeracy,9,2017,48.00,617.50,9,P
+21212,5,Spelling,624504082,Spelling,5,2017,18.00,533.00,6,P
+21212,5,Writing,624504082,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,624504082,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21212,5,Reading,624504082,Reading,5,2017,28.00,518.33,6,P
+21212,5,Numeracy,624504082,Numeracy,5,2017,30.00,525.00,6,P
+21220,7,Numeracy,422061162,Numeracy,7,2017,32.00,575.00,7,P
+21220,7,Writing,422061162,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,422061162,Spelling,7,2017,20.00,595.00,8,P
+21220,7,Reading,422061162,Reading,7,2017,40.00,600.00,8,P
+21220,7,GrammarAndPunctuation,422061162,Grammar and Punctuation,7,2017,,,,C
+21213,3,GrammarAndPunctuation,897587571,Grammar and Punctuation,3,2017,14.00,399.00,5,P
+21213,3,Reading,897587571,Reading,3,2017,31.00,434.23,6,P
+21213,3,Numeracy,897587571,Numeracy,3,2017,27.00,418.85,5,P
+21213,3,Spelling,897587571,Spelling,3,2017,19.00,429.00,6,P
+21220,7,Numeracy,153282012,Numeracy,7,2017,44.00,578.12,7,P
+21220,7,Writing,153282012,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,153282012,Spelling,7,2017,15.00,565.00,7,P
+21220,7,Reading,153282012,Reading,7,2017,35.00,584.38,7,P
+21220,7,GrammarAndPunctuation,153282012,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,5,Spelling,664875159,Spelling,5,2017,18.00,533.00,6,P
+21213,5,Writing,664875159,Writing,5,2017,1.00,575.00,8,P
+21213,5,GrammarAndPunctuation,664875159,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21213,5,Reading,664875159,Reading,5,2017,34.00,538.33,7,P
+21213,5,Numeracy,664875159,Numeracy,5,2017,31.00,528.33,6,P
+21221,7,Numeracy,824066061,Numeracy,7,2017,42.00,573.44,7,P
+21221,7,Writing,824066061,Writing,7,2017,0.00,475.00,5,P
+21221,7,Spelling,824066061,Spelling,7,2017,18.00,583.00,7,P
+21221,7,Reading,824066061,Reading,7,2017,,,,A
+21221,7,GrammarAndPunctuation,824066061,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,3,GrammarAndPunctuation,368200198,Grammar and Punctuation,3,2017,,,,S
+21213,3,Reading,368200198,Reading,3,2017,,,,S
+21213,3,Numeracy,368200198,Numeracy,3,2017,31.00,434.23,6,P
+21213,3,Spelling,368200198,Spelling,3,2017,20.00,435.00,6,P
+21213,3,GrammarAndPunctuation,118803037,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21213,3,Reading,118803037,Reading,3,2017,26.00,415.00,5,P
+21213,3,Numeracy,118803037,Numeracy,3,2017,28.00,422.69,5,P
+21213,3,Spelling,118803037,Spelling,3,2017,19.00,429.00,6,P
+21215,5,Spelling,117672957,Spelling,5,2017,15.00,515.00,6,P
+21215,5,Writing,117672957,Writing,5,2017,1.00,575.00,8,P
+21215,5,GrammarAndPunctuation,117672957,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21215,5,Reading,117672957,Reading,5,2017,33.00,535.00,6,P
+21215,5,Numeracy,117672957,Numeracy,5,2017,28.00,518.33,6,P
+21217,7,Numeracy,443441432,Numeracy,7,2017,44.00,578.12,7,P
+21217,7,Writing,443441432,Writing,7,2017,1.00,625.00,9,P
+21217,7,Spelling,443441432,Spelling,7,2017,18.00,583.00,7,P
+21217,7,Reading,443441432,Reading,7,2017,35.00,584.38,7,P
+21217,7,GrammarAndPunctuation,443441432,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21217,7,Numeracy,750413097,Numeracy,7,2017,31.00,571.88,7,P
+21217,7,Writing,750413097,Writing,7,2017,1.00,625.00,9,P
+21217,7,Spelling,750413097,Spelling,7,2017,19.00,589.00,8,P
+21217,7,Reading,750413097,Reading,7,2017,38.00,593.75,8,P
+21217,7,GrammarAndPunctuation,750413097,Grammar and Punctuation,7,2017,0.0,0.0,0,R
+21221,5,Spelling,847017452,Spelling,5,2017,,,,E
+21221,5,Writing,847017452,Writing,5,2017,0.00,425.00,4,P
+21221,5,GrammarAndPunctuation,847017452,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21221,5,Reading,847017452,Reading,5,2017,34.00,538.33,7,P
+21221,5,Numeracy,847017452,Numeracy,5,2017,32.00,531.67,6,P
+21218,9,Spelling,3596939,Spelling,9,2017,16.00,601.00,8,P
+21218,9,Writing,3596939,Writing,9,2017,0.00,505.00,6,P
+21218,9,GrammarAndPunctuation,3596939,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21218,9,Reading,3596939,Reading,9,2017,35.00,614.38,8,P
+21218,9,Numeracy,3596939,Numeracy,9,2017,33.00,608.12,8,P
+21218,7,Numeracy,838740156,Numeracy,7,2017,33.00,578.12,7,P
+21218,7,Writing,838740156,Writing,7,2017,1.00,625.00,9,P
+21218,7,Spelling,838740156,Spelling,7,2017,18.00,583.00,7,P
+21218,7,Reading,838740156,Reading,7,2017,28.00,562.50,7,P
+21218,7,GrammarAndPunctuation,838740156,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21214,3,GrammarAndPunctuation,502150920,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21214,3,Reading,502150920,Reading,3,2017,24.00,407.31,5,P
+21214,3,Numeracy,502150920,Numeracy,3,2017,29.00,426.54,5,P
+21214,3,Spelling,502150920,Spelling,3,2017,,,,A
+21218,9,Spelling,790764867,Spelling,9,2017,19.00,619.00,9,P
+21218,9,Writing,790764867,Writing,9,2017,,,,S
+21218,9,GrammarAndPunctuation,790764867,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21218,9,Reading,790764867,Reading,9,2017,37.00,620.62,9,P
+21218,9,Numeracy,790764867,Numeracy,9,2017,44.00,608.12,8,P
+21216,5,Spelling,405246056,Spelling,5,2017,,,,W
+21216,5,Writing,405246056,Writing,5,2017,,,,X
+21216,5,GrammarAndPunctuation,405246056,Grammar and Punctuation,5,2017,16.00,521.00,6,P
+21216,5,Reading,405246056,Reading,5,2017,,,,S
+21216,5,Numeracy,405246056,Numeracy,5,2017,30.00,525.00,6,P
+21220,9,Spelling,881111799,Spelling,9,2017,17.00,607.00,8,P
+21220,9,Writing,881111799,Writing,9,2017,0.00,505.00,6,P
+21220,9,GrammarAndPunctuation,881111799,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21220,9,Reading,881111799,Reading,9,2017,30.00,598.75,8,P
+21220,9,Numeracy,881111799,Numeracy,9,2017,41.00,601.09,8,P
+21216,7,Numeracy,332886320,Numeracy,7,2017,37.00,590.62,8,P
+21216,7,Writing,332886320,Writing,7,2017,1.00,625.00,9,P
+21216,7,Spelling,332886320,Spelling,7,2017,20.00,595.00,8,P
+21216,7,Reading,332886320,Reading,7,2017,30.00,568.75,7,P
+21216,7,GrammarAndPunctuation,332886320,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21219,9,Spelling,123271330,Spelling,9,2017,,,,S
+21219,9,Writing,123271330,Writing,9,2017,,,,W
+21219,9,GrammarAndPunctuation,123271330,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21219,9,Reading,123271330,Reading,9,2017,38.00,623.75,9,P
+21219,9,Numeracy,123271330,Numeracy,9,2017,50.00,622.19,9,P
+21213,3,GrammarAndPunctuation,693417314,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21213,3,Reading,693417314,Reading,3,2017,,,,X
+21213,3,Numeracy,693417314,Numeracy,3,2017,20.00,391.92,5,P
+21213,3,Spelling,693417314,Spelling,3,2017,15.00,405.00,5,P
+21216,9,Spelling,173885081,Spelling,9,2017,16.00,601.00,8,P
+21216,9,Writing,173885081,Writing,9,2017,1.00,655.00,10,P
+21216,9,GrammarAndPunctuation,173885081,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21216,9,Reading,173885081,Reading,9,2017,37.00,620.62,9,P
+21216,9,Numeracy,173885081,Numeracy,9,2017,46.00,612.81,8,P
+21218,9,Spelling,215533833,Spelling,9,2017,19.00,619.00,9,P
+21218,9,Writing,215533833,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,215533833,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21218,9,Reading,215533833,Reading,9,2017,33.00,608.12,8,P
+21218,9,Numeracy,215533833,Numeracy,9,2017,34.00,611.25,8,P
+21219,9,Spelling,639404255,Spelling,9,2017,15.00,595.00,8,P
+21219,9,Writing,639404255,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,639404255,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21219,9,Reading,639404255,Reading,9,2017,33.00,608.12,8,P
+21219,9,Numeracy,639404255,Numeracy,9,2017,33.00,608.12,8,P
+21218,9,Spelling,519386903,Spelling,9,2017,19.00,619.00,9,P
+21218,9,Writing,519386903,Writing,9,2017,0.00,505.00,6,P
+21218,9,GrammarAndPunctuation,519386903,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21218,9,Reading,519386903,Reading,9,2017,31.00,601.88,8,P
+21218,9,Numeracy,519386903,Numeracy,9,2017,33.00,608.12,8,P
+21219,9,Spelling,191846225,Spelling,9,2017,,,,W
+21219,9,Writing,191846225,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,191846225,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21219,9,Reading,191846225,Reading,9,2017,33.00,608.12,8,P
+21219,9,Numeracy,191846225,Numeracy,9,2017,45.00,610.47,8,P
+21216,5,Spelling,938696651,Spelling,5,2017,17.00,527.00,6,P
+21216,5,Writing,938696651,Writing,5,2017,0.00,425.00,4,P
+21216,5,GrammarAndPunctuation,938696651,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21216,5,Reading,938696651,Reading,5,2017,31.00,528.33,6,P
+21216,5,Numeracy,938696651,Numeracy,5,2017,33.00,535.00,6,P
+21212,5,Spelling,636164925,Spelling,5,2017,17.00,527.00,6,P
+21212,5,Writing,636164925,Writing,5,2017,0.00,425.00,4,P
+21212,5,GrammarAndPunctuation,636164925,Grammar and Punctuation,5,2017,20.00,545.00,7,P
+21212,5,Reading,636164925,Reading,5,2017,31.00,528.33,6,P
+21212,5,Numeracy,636164925,Numeracy,5,2017,,,,E
+21216,7,Numeracy,61996937,Numeracy,7,2017,33.00,578.12,7,P
+21216,7,Writing,61996937,Writing,7,2017,0.00,475.00,5,P
+21216,7,Spelling,61996937,Spelling,7,2017,20.00,595.00,8,P
+21216,7,Reading,61996937,Reading,7,2017,,,,X
+21216,7,GrammarAndPunctuation,61996937,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21219,7,Numeracy,208115536,Numeracy,7,2017,,,,E
+21219,7,Writing,208115536,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,208115536,Spelling,7,2017,18.00,583.00,7,P
+21219,7,Reading,208115536,Reading,7,2017,,,,E
+21219,7,GrammarAndPunctuation,208115536,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,5,Spelling,442186590,Spelling,5,2017,18.00,533.00,6,P
+21213,5,Writing,442186590,Writing,5,2017,0.00,425.00,4,P
+21213,5,GrammarAndPunctuation,442186590,Grammar and Punctuation,5,2017,,,,W
+21213,5,Reading,442186590,Reading,5,2017,32.00,531.67,6,P
+21213,5,Numeracy,442186590,Numeracy,5,2017,31.00,528.33,6,P
+21215,7,Numeracy,98968203,Numeracy,7,2017,,,,X
+21215,7,Writing,98968203,Writing,7,2017,1.00,625.00,9,P
+21215,7,Spelling,98968203,Spelling,7,2017,17.00,577.00,7,P
+21215,7,Reading,98968203,Reading,7,2017,34.00,581.25,7,P
+21215,7,GrammarAndPunctuation,98968203,Grammar and Punctuation,7,2017,15.00,565.00,7,P
+21212,5,Spelling,480454001,Spelling,5,2017,21.00,551.00,7,P
+21212,5,Writing,480454001,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,480454001,Grammar and Punctuation,5,2017,16.00,521.00,6,P
+21212,5,Reading,480454001,Reading,5,2017,32.00,531.67,6,P
+21212,5,Numeracy,480454001,Numeracy,5,2017,,,,E
+21217,3,GrammarAndPunctuation,451780512,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21217,3,Reading,451780512,Reading,3,2017,27.00,418.85,5,P
+21217,3,Numeracy,451780512,Numeracy,3,2017,26.00,415.00,5,P
+21217,3,Spelling,451780512,Spelling,3,2017,18.00,423.00,5,P
+21216,9,Spelling,280606363,Spelling,9,2017,17.00,607.00,8,P
+21216,9,Writing,280606363,Writing,9,2017,0.00,505.00,6,P
+21216,9,GrammarAndPunctuation,280606363,Grammar and Punctuation,9,2017,,,,X
+21216,9,Reading,280606363,Reading,9,2017,37.00,620.62,9,P
+21216,9,Numeracy,280606363,Numeracy,9,2017,29.00,595.62,8,P
+21216,9,Spelling,913745090,Spelling,9,2017,,,,A
+21216,9,Writing,913745090,Writing,9,2017,1.00,655.00,10,P
+21216,9,GrammarAndPunctuation,913745090,Grammar and Punctuation,9,2017,,,,A
+21216,9,Reading,913745090,Reading,9,2017,34.00,611.25,8,P
+21216,9,Numeracy,913745090,Numeracy,9,2017,35.00,614.38,8,P
+21213,3,GrammarAndPunctuation,588674056,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21213,3,Reading,588674056,Reading,3,2017,28.00,422.69,5,P
+21213,3,Numeracy,588674056,Numeracy,3,2017,0.0,0.0,0,R
+21213,3,Spelling,588674056,Spelling,3,2017,20.00,435.00,6,P
+21214,3,GrammarAndPunctuation,816387482,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21214,3,Reading,816387482,Reading,3,2017,25.00,411.15,5,P
+21214,3,Numeracy,816387482,Numeracy,3,2017,,,,C
+21214,3,Spelling,816387482,Spelling,3,2017,17.00,417.00,5,P
+21216,5,Spelling,596726414,Spelling,5,2017,19.00,539.00,7,P
+21216,5,Writing,596726414,Writing,5,2017,0.00,425.00,4,P
+21216,5,GrammarAndPunctuation,596726414,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21216,5,Reading,596726414,Reading,5,2017,33.00,535.00,6,P
+21216,5,Numeracy,596726414,Numeracy,5,2017,32.00,531.67,6,P
+21214,3,GrammarAndPunctuation,677320433,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21214,3,Reading,677320433,Reading,3,2017,26.00,415.00,5,P
+21214,3,Numeracy,677320433,Numeracy,3,2017,,,,E
+21214,3,Spelling,677320433,Spelling,3,2017,,,,E
+21219,7,Numeracy,19038510,Numeracy,7,2017,45.00,580.47,7,P
+21219,7,Writing,19038510,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,19038510,Spelling,7,2017,17.00,577.00,7,P
+21219,7,Reading,19038510,Reading,7,2017,34.00,581.25,7,P
+21219,7,GrammarAndPunctuation,19038510,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21215,3,GrammarAndPunctuation,456292396,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21215,3,Reading,456292396,Reading,3,2017,,,,E
+21215,3,Numeracy,456292396,Numeracy,3,2017,24.00,407.31,5,P
+21215,3,Spelling,456292396,Spelling,3,2017,20.00,435.00,6,P
+21219,9,Spelling,739477588,Spelling,9,2017,20.00,625.00,9,P
+21219,9,Writing,739477588,Writing,9,2017,0.00,505.00,6,P
+21219,9,GrammarAndPunctuation,739477588,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21219,9,Reading,739477588,Reading,9,2017,30.00,598.75,8,P
+21219,9,Numeracy,739477588,Numeracy,9,2017,46.00,612.81,8,P
+21218,7,Numeracy,827601145,Numeracy,7,2017,32.00,575.00,7,P
+21218,7,Writing,827601145,Writing,7,2017,0.00,475.00,5,P
+21218,7,Spelling,827601145,Spelling,7,2017,15.00,565.00,7,P
+21218,7,Reading,827601145,Reading,7,2017,0.0,0.0,0,R
+21218,7,GrammarAndPunctuation,827601145,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21215,7,Numeracy,787768836,Numeracy,7,2017,53.00,599.22,8,P
+21215,7,Writing,787768836,Writing,7,2017,,,,A
+21215,7,Spelling,787768836,Spelling,7,2017,,,,X
+21215,7,Reading,787768836,Reading,7,2017,36.00,587.50,8,P
+21215,7,GrammarAndPunctuation,787768836,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21221,7,Numeracy,311818401,Numeracy,7,2017,45.00,580.47,7,P
+21221,7,Writing,311818401,Writing,7,2017,,,,X
+21221,7,Spelling,311818401,Spelling,7,2017,18.00,583.00,7,P
+21221,7,Reading,311818401,Reading,7,2017,32.00,575.00,7,P
+21221,7,GrammarAndPunctuation,311818401,Grammar and Punctuation,7,2017,20.00,595.00,8,P
+21221,9,Spelling,674837975,Spelling,9,2017,18.00,613.00,8,P
+21221,9,Writing,674837975,Writing,9,2017,1.00,655.00,10,P
+21221,9,GrammarAndPunctuation,674837975,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21221,9,Reading,674837975,Reading,9,2017,41.00,633.12,9,P
+21221,9,Numeracy,674837975,Numeracy,9,2017,47.00,615.16,8,P
+21219,7,Numeracy,914850904,Numeracy,7,2017,50.00,592.19,8,P
+21219,7,Writing,914850904,Writing,7,2017,0.00,475.00,5,P
+21219,7,Spelling,914850904,Spelling,7,2017,18.00,583.00,7,P
+21219,7,Reading,914850904,Reading,7,2017,31.00,571.88,7,P
+21219,7,GrammarAndPunctuation,914850904,Grammar and Punctuation,7,2017,13.00,553.00,7,P
+21212,3,GrammarAndPunctuation,6376495,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21212,3,Reading,6376495,Reading,3,2017,,,,E
+21212,3,Numeracy,6376495,Numeracy,3,2017,,,,S
+21212,3,Spelling,6376495,Spelling,3,2017,18.00,423.00,5,P
+21218,7,Numeracy,800854531,Numeracy,7,2017,33.00,578.12,7,P
+21218,7,Writing,800854531,Writing,7,2017,1.00,625.00,9,P
+21218,7,Spelling,800854531,Spelling,7,2017,17.00,577.00,7,P
+21218,7,Reading,800854531,Reading,7,2017,,,,E
+21218,7,GrammarAndPunctuation,800854531,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,5,Spelling,476393126,Spelling,5,2017,,,,C
+21213,5,Writing,476393126,Writing,5,2017,1.00,575.00,8,P
+21213,5,GrammarAndPunctuation,476393126,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21213,5,Reading,476393126,Reading,5,2017,35.00,541.67,7,P
+21213,5,Numeracy,476393126,Numeracy,5,2017,40.00,558.33,7,P
+21218,9,Spelling,594802339,Spelling,9,2017,,,,C
+21218,9,Writing,594802339,Writing,9,2017,,,,S
+21218,9,GrammarAndPunctuation,594802339,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21218,9,Reading,594802339,Reading,9,2017,38.00,623.75,9,P
+21218,9,Numeracy,594802339,Numeracy,9,2017,46.00,612.81,8,P
+21220,7,Numeracy,76122982,Numeracy,7,2017,,,,S
+21220,7,Writing,76122982,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,76122982,Spelling,7,2017,16.00,571.00,7,P
+21220,7,Reading,76122982,Reading,7,2017,,,,W
+21220,7,GrammarAndPunctuation,76122982,Grammar and Punctuation,7,2017,0.0,0.0,0,R
+21217,9,Spelling,933615096,Spelling,9,2017,19.00,619.00,9,P
+21217,9,Writing,933615096,Writing,9,2017,1.00,655.00,10,P
+21217,9,GrammarAndPunctuation,933615096,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21217,9,Reading,933615096,Reading,9,2017,,,,E
+21217,9,Numeracy,933615096,Numeracy,9,2017,47.00,615.16,8,P
+21218,9,Spelling,635834741,Spelling,9,2017,21.00,631.00,9,P
+21218,9,Writing,635834741,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,635834741,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21218,9,Reading,635834741,Reading,9,2017,34.00,611.25,8,P
+21218,9,Numeracy,635834741,Numeracy,9,2017,34.00,611.25,8,P
+21218,7,Numeracy,884015462,Numeracy,7,2017,43.00,575.78,7,P
+21218,7,Writing,884015462,Writing,7,2017,0.00,475.00,5,P
+21218,7,Spelling,884015462,Spelling,7,2017,15.00,565.00,7,P
+21218,7,Reading,884015462,Reading,7,2017,30.00,568.75,7,P
+21218,7,GrammarAndPunctuation,884015462,Grammar and Punctuation,7,2017,14.00,559.00,7,P
+21217,7,Numeracy,58516237,Numeracy,7,2017,42.00,573.44,7,P
+21217,7,Writing,58516237,Writing,7,2017,0.00,475.00,5,P
+21217,7,Spelling,58516237,Spelling,7,2017,16.00,571.00,7,P
+21217,7,Reading,58516237,Reading,7,2017,28.00,562.50,7,P
+21217,7,GrammarAndPunctuation,58516237,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21221,5,Spelling,184642155,Spelling,5,2017,18.00,533.00,6,P
+21221,5,Writing,184642155,Writing,5,2017,0.00,425.00,4,P
+21221,5,GrammarAndPunctuation,184642155,Grammar and Punctuation,5,2017,17.00,527.00,6,P
+21221,5,Reading,184642155,Reading,5,2017,31.00,528.33,6,P
+21221,5,Numeracy,184642155,Numeracy,5,2017,31.00,528.33,6,P
+21217,3,GrammarAndPunctuation,607167295,Grammar and Punctuation,3,2017,,,,A
+21217,3,Reading,607167295,Reading,3,2017,24.00,407.31,5,P
+21217,3,Numeracy,607167295,Numeracy,3,2017,28.00,422.69,5,P
+21217,3,Spelling,607167295,Spelling,3,2017,18.00,423.00,5,P
+21219,7,Numeracy,921262205,Numeracy,7,2017,40.00,600.00,8,P
+21219,7,Writing,921262205,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,921262205,Spelling,7,2017,19.00,589.00,8,P
+21219,7,Reading,921262205,Reading,7,2017,32.00,575.00,7,P
+21219,7,GrammarAndPunctuation,921262205,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21221,3,GrammarAndPunctuation,954343075,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21221,3,Reading,954343075,Reading,3,2017,25.00,411.15,5,P
+21221,3,Numeracy,954343075,Numeracy,3,2017,30.00,430.38,6,P
+21221,3,Spelling,954343075,Spelling,3,2017,18.00,423.00,5,P
+21216,3,GrammarAndPunctuation,874961867,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21216,3,Reading,874961867,Reading,3,2017,23.00,403.46,5,P
+21216,3,Numeracy,874961867,Numeracy,3,2017,25.00,411.15,5,P
+21216,3,Spelling,874961867,Spelling,3,2017,,,,W
+21217,7,Numeracy,747785155,Numeracy,7,2017,45.00,580.47,7,P
+21217,7,Writing,747785155,Writing,7,2017,0.00,475.00,5,P
+21217,7,Spelling,747785155,Spelling,7,2017,20.00,595.00,8,P
+21217,7,Reading,747785155,Reading,7,2017,33.00,578.12,7,P
+21217,7,GrammarAndPunctuation,747785155,Grammar and Punctuation,7,2017,21.00,601.00,8,P
+21213,3,GrammarAndPunctuation,997556953,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21213,3,Reading,997556953,Reading,3,2017,28.00,422.69,5,P
+21213,3,Numeracy,997556953,Numeracy,3,2017,25.00,411.15,5,P
+21213,3,Spelling,997556953,Spelling,3,2017,20.00,435.00,6,P
+21218,9,Spelling,234302325,Spelling,9,2017,17.00,607.00,8,P
+21218,9,Writing,234302325,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,234302325,Grammar and Punctuation,9,2017,18.00,613.00,8,P
+21218,9,Reading,234302325,Reading,9,2017,32.00,605.00,8,P
+21218,9,Numeracy,234302325,Numeracy,9,2017,,,,S
+21216,7,Numeracy,107747224,Numeracy,7,2017,43.00,575.78,7,P
+21216,7,Writing,107747224,Writing,7,2017,0.00,475.00,5,P
+21216,7,Spelling,107747224,Spelling,7,2017,21.00,601.00,8,P
+21216,7,Reading,107747224,Reading,7,2017,30.00,568.75,7,P
+21216,7,GrammarAndPunctuation,107747224,Grammar and Punctuation,7,2017,11.00,541.00,6,P
+21215,9,Spelling,208130465,Spelling,9,2017,20.00,625.00,9,P
+21215,9,Writing,208130465,Writing,9,2017,0.00,505.00,6,P
+21215,9,GrammarAndPunctuation,208130465,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21215,9,Reading,208130465,Reading,9,2017,35.00,614.38,8,P
+21215,9,Numeracy,208130465,Numeracy,9,2017,45.00,610.47,8,P
+21213,5,Spelling,745864299,Spelling,5,2017,14.00,509.00,6,P
+21213,5,Writing,745864299,Writing,5,2017,1.00,575.00,8,P
+21213,5,GrammarAndPunctuation,745864299,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21213,5,Reading,745864299,Reading,5,2017,32.00,531.67,6,P
+21213,5,Numeracy,745864299,Numeracy,5,2017,,,,E
+21214,5,Spelling,971054274,Spelling,5,2017,,,,X
+21214,5,Writing,971054274,Writing,5,2017,,,,X
+21214,5,GrammarAndPunctuation,971054274,Grammar and Punctuation,5,2017,13.00,503.00,6,P
+21214,5,Reading,971054274,Reading,5,2017,31.00,528.33,6,P
+21214,5,Numeracy,971054274,Numeracy,5,2017,31.00,528.33,6,P
+21218,9,Spelling,964692628,Spelling,9,2017,16.00,601.00,8,P
+21218,9,Writing,964692628,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,964692628,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21218,9,Reading,964692628,Reading,9,2017,31.00,601.88,8,P
+21218,9,Numeracy,964692628,Numeracy,9,2017,41.00,601.09,8,P
+21220,9,Spelling,499366569,Spelling,9,2017,20.00,625.00,9,P
+21220,9,Writing,499366569,Writing,9,2017,1.00,655.00,10,P
+21220,9,GrammarAndPunctuation,499366569,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21220,9,Reading,499366569,Reading,9,2017,35.00,614.38,8,P
+21220,9,Numeracy,499366569,Numeracy,9,2017,40.00,598.75,8,P
+21220,9,Spelling,207247806,Spelling,9,2017,21.00,631.00,9,P
+21220,9,Writing,207247806,Writing,9,2017,1.00,655.00,10,P
+21220,9,GrammarAndPunctuation,207247806,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21220,9,Reading,207247806,Reading,9,2017,39.00,626.88,9,P
+21220,9,Numeracy,207247806,Numeracy,9,2017,50.00,622.19,9,P
+21216,5,Spelling,192085491,Spelling,5,2017,,,,S
+21216,5,Writing,192085491,Writing,5,2017,0.00,425.00,4,P
+21216,5,GrammarAndPunctuation,192085491,Grammar and Punctuation,5,2017,0.0,0.0,0,R
+21216,5,Reading,192085491,Reading,5,2017,36.00,545.00,7,P
+21216,5,Numeracy,192085491,Numeracy,5,2017,36.00,545.00,7,P
+21213,3,GrammarAndPunctuation,936770252,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21213,3,Reading,936770252,Reading,3,2017,25.00,411.15,5,P
+21213,3,Numeracy,936770252,Numeracy,3,2017,29.00,426.54,5,P
+21213,3,Spelling,936770252,Spelling,3,2017,,,,X
+21215,3,GrammarAndPunctuation,184725944,Grammar and Punctuation,3,2017,,,,C
+21215,3,Reading,184725944,Reading,3,2017,27.00,418.85,5,P
+21215,3,Numeracy,184725944,Numeracy,3,2017,23.00,403.46,5,P
+21215,3,Spelling,184725944,Spelling,3,2017,21.00,441.00,6,P
+21220,7,Numeracy,154543294,Numeracy,7,2017,45.00,580.47,7,P
+21220,7,Writing,154543294,Writing,7,2017,0.00,475.00,5,P
+21220,7,Spelling,154543294,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,154543294,Reading,7,2017,33.00,578.12,7,P
+21220,7,GrammarAndPunctuation,154543294,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21215,9,Spelling,798199675,Spelling,9,2017,0.0,0.0,0,R
+21215,9,Writing,798199675,Writing,9,2017,1.00,655.00,10,P
+21215,9,GrammarAndPunctuation,798199675,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21215,9,Reading,798199675,Reading,9,2017,37.00,620.62,9,P
+21215,9,Numeracy,798199675,Numeracy,9,2017,,,,E
+21219,7,Numeracy,588637840,Numeracy,7,2017,45.00,580.47,7,P
+21219,7,Writing,588637840,Writing,7,2017,,,,A
+21219,7,Spelling,588637840,Spelling,7,2017,17.00,577.00,7,P
+21219,7,Reading,588637840,Reading,7,2017,32.00,575.00,7,P
+21219,7,GrammarAndPunctuation,588637840,Grammar and Punctuation,7,2017,18.00,583.00,7,P
+21214,5,Spelling,901431343,Spelling,5,2017,20.00,545.00,7,P
+21214,5,Writing,901431343,Writing,5,2017,0.00,425.00,4,P
+21214,5,GrammarAndPunctuation,901431343,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21214,5,Reading,901431343,Reading,5,2017,31.00,528.33,6,P
+21214,5,Numeracy,901431343,Numeracy,5,2017,35.00,541.67,7,P
+21213,3,GrammarAndPunctuation,297620849,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21213,3,Reading,297620849,Reading,3,2017,32.00,438.08,6,P
+21213,3,Numeracy,297620849,Numeracy,3,2017,28.00,422.69,5,P
+21213,3,Spelling,297620849,Spelling,3,2017,17.00,417.00,5,P
+21212,5,Spelling,439073665,Spelling,5,2017,18.00,533.00,6,P
+21212,5,Writing,439073665,Writing,5,2017,,,,S
+21212,5,GrammarAndPunctuation,439073665,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21212,5,Reading,439073665,Reading,5,2017,29.00,521.67,6,P
+21212,5,Numeracy,439073665,Numeracy,5,2017,,,,E
+21221,7,Numeracy,863957213,Numeracy,7,2017,43.00,575.78,7,P
+21221,7,Writing,863957213,Writing,7,2017,,,,E
+21221,7,Spelling,863957213,Spelling,7,2017,15.00,565.00,7,P
+21221,7,Reading,863957213,Reading,7,2017,29.00,565.62,7,P
+21221,7,GrammarAndPunctuation,863957213,Grammar and Punctuation,7,2017,,,,A
+21221,3,GrammarAndPunctuation,319048887,Grammar and Punctuation,3,2017,15.00,405.00,5,P
+21221,3,Reading,319048887,Reading,3,2017,27.00,418.85,5,P
+21221,3,Numeracy,319048887,Numeracy,3,2017,25.00,411.15,5,P
+21221,3,Spelling,319048887,Spelling,3,2017,21.00,441.00,6,P
+21214,3,GrammarAndPunctuation,70232588,Grammar and Punctuation,3,2017,0.00,0.00,0,P
+21214,3,Reading,70232588,Reading,3,2017,27.00,418.85,5,P
+21214,3,Numeracy,70232588,Numeracy,3,2017,26.00,415.00,5,P
+21214,3,Spelling,70232588,Spelling,3,2017,,,,W
+21215,5,Spelling,747044761,Spelling,5,2017,13.00,503.00,6,P
+21215,5,Writing,747044761,Writing,5,2017,0.0,0.0,0,R
+21215,5,GrammarAndPunctuation,747044761,Grammar and Punctuation,5,2017,16.00,521.00,6,P
+21215,5,Reading,747044761,Reading,5,2017,30.00,525.00,6,P
+21215,5,Numeracy,747044761,Numeracy,5,2017,35.00,541.67,7,P
+21220,7,Numeracy,668085738,Numeracy,7,2017,35.00,584.38,7,P
+21220,7,Writing,668085738,Writing,7,2017,1.00,625.00,9,P
+21220,7,Spelling,668085738,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,668085738,Reading,7,2017,32.00,575.00,7,P
+21220,7,GrammarAndPunctuation,668085738,Grammar and Punctuation,7,2017,15.00,565.00,7,P
+21218,7,Numeracy,297514420,Numeracy,7,2017,41.00,571.09,7,P
+21218,7,Writing,297514420,Writing,7,2017,1.00,625.00,9,P
+21218,7,Spelling,297514420,Spelling,7,2017,,,,X
+21218,7,Reading,297514420,Reading,7,2017,,,,W
+21218,7,GrammarAndPunctuation,297514420,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21218,9,Spelling,549297543,Spelling,9,2017,,,,X
+21218,9,Writing,549297543,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,549297543,Grammar and Punctuation,9,2017,13.00,583.00,8,P
+21218,9,Reading,549297543,Reading,9,2017,37.00,620.62,9,P
+21218,9,Numeracy,549297543,Numeracy,9,2017,,,,S
+21218,9,Spelling,804320309,Spelling,9,2017,19.00,619.00,9,P
+21218,9,Writing,804320309,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,804320309,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21218,9,Reading,804320309,Reading,9,2017,36.00,617.50,9,P
+21218,9,Numeracy,804320309,Numeracy,9,2017,33.00,608.12,8,P
+21212,5,Spelling,600949416,Spelling,5,2017,21.00,551.00,7,P
+21212,5,Writing,600949416,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,600949416,Grammar and Punctuation,5,2017,0.00,0.00,0,P
+21212,5,Reading,600949416,Reading,5,2017,,,,X
+21212,5,Numeracy,600949416,Numeracy,5,2017,33.00,535.00,6,P
+21221,5,Spelling,749764543,Spelling,5,2017,18.00,533.00,6,P
+21221,5,Writing,749764543,Writing,5,2017,,,,S
+21221,5,GrammarAndPunctuation,749764543,Grammar and Punctuation,5,2017,18.00,533.00,6,P
+21221,5,Reading,749764543,Reading,5,2017,32.00,531.67,6,P
+21221,5,Numeracy,749764543,Numeracy,5,2017,34.00,538.33,7,P
+21219,9,Spelling,685952291,Spelling,9,2017,20.00,625.00,9,P
+21219,9,Writing,685952291,Writing,9,2017,0.00,505.00,6,P
+21219,9,GrammarAndPunctuation,685952291,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21219,9,Reading,685952291,Reading,9,2017,36.00,617.50,9,P
+21219,9,Numeracy,685952291,Numeracy,9,2017,48.00,617.50,9,P
+21215,7,Numeracy,500224274,Numeracy,7,2017,41.00,571.09,7,P
+21215,7,Writing,500224274,Writing,7,2017,,,,S
+21215,7,Spelling,500224274,Spelling,7,2017,17.00,577.00,7,P
+21215,7,Reading,500224274,Reading,7,2017,38.00,593.75,8,P
+21215,7,GrammarAndPunctuation,500224274,Grammar and Punctuation,7,2017,20.00,595.00,8,P
+21221,9,Spelling,17572599,Spelling,9,2017,16.00,601.00,8,P
+21221,9,Writing,17572599,Writing,9,2017,1.00,655.00,10,P
+21221,9,GrammarAndPunctuation,17572599,Grammar and Punctuation,9,2017,21.00,631.00,9,P
+21221,9,Reading,17572599,Reading,9,2017,31.00,601.88,8,P
+21221,9,Numeracy,17572599,Numeracy,9,2017,29.00,595.62,8,P
+21212,5,Spelling,872347538,Spelling,5,2017,17.00,527.00,6,P
+21212,5,Writing,872347538,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,872347538,Grammar and Punctuation,5,2017,20.00,545.00,7,P
+21212,5,Reading,872347538,Reading,5,2017,26.00,511.67,6,P
+21212,5,Numeracy,872347538,Numeracy,5,2017,26.00,511.67,6,P
+21215,7,Numeracy,796511436,Numeracy,7,2017,42.00,573.44,7,P
+21215,7,Writing,796511436,Writing,7,2017,0.00,475.00,5,P
+21215,7,Spelling,796511436,Spelling,7,2017,,,,X
+21215,7,Reading,796511436,Reading,7,2017,39.00,596.88,8,P
+21215,7,GrammarAndPunctuation,796511436,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21217,3,GrammarAndPunctuation,912219902,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21217,3,Reading,912219902,Reading,3,2017,24.00,407.31,5,P
+21217,3,Numeracy,912219902,Numeracy,3,2017,,,,A
+21217,3,Spelling,912219902,Spelling,3,2017,17.00,417.00,5,P
+21212,3,GrammarAndPunctuation,799288106,Grammar and Punctuation,3,2017,19.00,429.00,6,P
+21212,3,Reading,799288106,Reading,3,2017,26.00,415.00,5,P
+21212,3,Numeracy,799288106,Numeracy,3,2017,26.00,415.00,5,P
+21212,3,Spelling,799288106,Spelling,3,2017,17.00,417.00,5,P
+21218,9,Spelling,899750212,Spelling,9,2017,14.00,589.00,8,P
+21218,9,Writing,899750212,Writing,9,2017,0.00,505.00,6,P
+21218,9,GrammarAndPunctuation,899750212,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21218,9,Reading,899750212,Reading,9,2017,33.00,608.12,8,P
+21218,9,Numeracy,899750212,Numeracy,9,2017,0.0,0.0,0,R
+21221,5,Spelling,880056195,Spelling,5,2017,12.00,497.00,5,P
+21221,5,Writing,880056195,Writing,5,2017,1.00,575.00,8,P
+21221,5,GrammarAndPunctuation,880056195,Grammar and Punctuation,5,2017,,,,C
+21221,5,Reading,880056195,Reading,5,2017,30.00,525.00,6,P
+21221,5,Numeracy,880056195,Numeracy,5,2017,,,,C
+21215,9,Spelling,691066350,Spelling,9,2017,16.00,601.00,8,P
+21215,9,Writing,691066350,Writing,9,2017,1.00,655.00,10,P
+21215,9,GrammarAndPunctuation,691066350,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21215,9,Reading,691066350,Reading,9,2017,35.00,614.38,8,P
+21215,9,Numeracy,691066350,Numeracy,9,2017,,,,X
+21214,3,GrammarAndPunctuation,503927230,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21214,3,Reading,503927230,Reading,3,2017,27.00,418.85,5,P
+21214,3,Numeracy,503927230,Numeracy,3,2017,32.00,438.08,6,P
+21214,3,Spelling,503927230,Spelling,3,2017,16.00,411.00,5,P
+21219,7,Numeracy,744221821,Numeracy,7,2017,39.00,566.41,7,P
+21219,7,Writing,744221821,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,744221821,Spelling,7,2017,14.00,559.00,7,P
+21219,7,Reading,744221821,Reading,7,2017,33.00,578.12,7,P
+21219,7,GrammarAndPunctuation,744221821,Grammar and Punctuation,7,2017,20.00,595.00,8,P
+21220,7,Numeracy,23518540,Numeracy,7,2017,42.00,573.44,7,P
+21220,7,Writing,23518540,Writing,7,2017,,,,A
+21220,7,Spelling,23518540,Spelling,7,2017,15.00,565.00,7,P
+21220,7,Reading,23518540,Reading,7,2017,32.00,575.00,7,P
+21220,7,GrammarAndPunctuation,23518540,Grammar and Punctuation,7,2017,17.00,577.00,7,P
+21214,3,GrammarAndPunctuation,867232991,Grammar and Punctuation,3,2017,13.00,393.00,5,P
+21214,3,Reading,867232991,Reading,3,2017,30.00,430.38,6,P
+21214,3,Numeracy,867232991,Numeracy,3,2017,28.00,422.69,5,P
+21214,3,Spelling,867232991,Spelling,3,2017,0.0,0.0,0,R
+21212,3,GrammarAndPunctuation,165911230,Grammar and Punctuation,3,2017,18.00,423.00,5,P
+21212,3,Reading,165911230,Reading,3,2017,25.00,411.15,5,P
+21212,3,Numeracy,165911230,Numeracy,3,2017,26.00,415.00,5,P
+21212,3,Spelling,165911230,Spelling,3,2017,20.00,435.00,6,P
+21214,5,Spelling,31407761,Spelling,5,2017,19.00,539.00,7,P
+21214,5,Writing,31407761,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,31407761,Grammar and Punctuation,5,2017,,,,W
+21214,5,Reading,31407761,Reading,5,2017,32.00,531.67,6,P
+21214,5,Numeracy,31407761,Numeracy,5,2017,27.00,515.00,6,P
+21219,9,Spelling,348983856,Spelling,9,2017,19.00,619.00,9,P
+21219,9,Writing,348983856,Writing,9,2017,1.00,655.00,10,P
+21219,9,GrammarAndPunctuation,348983856,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21219,9,Reading,348983856,Reading,9,2017,32.00,605.00,8,P
+21219,9,Numeracy,348983856,Numeracy,9,2017,43.00,605.78,8,P
+21215,5,Spelling,133472063,Spelling,5,2017,,,,C
+21215,5,Writing,133472063,Writing,5,2017,1.00,575.00,8,P
+21215,5,GrammarAndPunctuation,133472063,Grammar and Punctuation,5,2017,13.00,503.00,6,P
+21215,5,Reading,133472063,Reading,5,2017,33.00,535.00,6,P
+21215,5,Numeracy,133472063,Numeracy,5,2017,34.00,538.33,7,P
+21216,3,GrammarAndPunctuation,850988822,Grammar and Punctuation,3,2017,17.00,417.00,5,P
+21216,3,Reading,850988822,Reading,3,2017,30.00,430.38,6,P
+21216,3,Numeracy,850988822,Numeracy,3,2017,,,,A
+21216,3,Spelling,850988822,Spelling,3,2017,17.00,417.00,5,P
+21213,3,GrammarAndPunctuation,438794451,Grammar and Punctuation,3,2017,0.0,0.0,0,R
+21213,3,Reading,438794451,Reading,3,2017,32.00,438.08,6,P
+21213,3,Numeracy,438794451,Numeracy,3,2017,25.00,411.15,5,P
+21213,3,Spelling,438794451,Spelling,3,2017,16.00,411.00,5,P
+21220,9,Spelling,343362773,Spelling,9,2017,17.00,607.00,8,P
+21220,9,Writing,343362773,Writing,9,2017,0.00,505.00,6,P
+21220,9,GrammarAndPunctuation,343362773,Grammar and Punctuation,9,2017,18.00,613.00,8,P
+21220,9,Reading,343362773,Reading,9,2017,,,,S
+21220,9,Numeracy,343362773,Numeracy,9,2017,44.00,608.12,8,P
+21212,5,Spelling,951674161,Spelling,5,2017,,,,A
+21212,5,Writing,951674161,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,951674161,Grammar and Punctuation,5,2017,20.00,545.00,7,P
+21212,5,Reading,951674161,Reading,5,2017,29.00,521.67,6,P
+21212,5,Numeracy,951674161,Numeracy,5,2017,24.00,505.00,6,P
+21220,7,Numeracy,237840113,Numeracy,7,2017,48.00,587.50,8,P
+21220,7,Writing,237840113,Writing,7,2017,0.00,475.00,5,P
+21220,7,Spelling,237840113,Spelling,7,2017,17.00,577.00,7,P
+21220,7,Reading,237840113,Reading,7,2017,,,,C
+21220,7,GrammarAndPunctuation,237840113,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21218,9,Spelling,648654892,Spelling,9,2017,,,,W
+21218,9,Writing,648654892,Writing,9,2017,1.00,655.00,10,P
+21218,9,GrammarAndPunctuation,648654892,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21218,9,Reading,648654892,Reading,9,2017,37.00,620.62,9,P
+21218,9,Numeracy,648654892,Numeracy,9,2017,34.00,611.25,8,P
+21215,9,Spelling,948766497,Spelling,9,2017,18.00,613.00,8,P
+21215,9,Writing,948766497,Writing,9,2017,0.00,505.00,6,P
+21215,9,GrammarAndPunctuation,948766497,Grammar and Punctuation,9,2017,16.00,601.00,8,P
+21215,9,Reading,948766497,Reading,9,2017,35.00,614.38,8,P
+21215,9,Numeracy,948766497,Numeracy,9,2017,48.00,617.50,9,P
+21216,7,Numeracy,60555998,Numeracy,7,2017,48.00,587.50,8,P
+21216,7,Writing,60555998,Writing,7,2017,,,,A
+21216,7,Spelling,60555998,Spelling,7,2017,11.00,541.00,6,P
+21216,7,Reading,60555998,Reading,7,2017,32.00,575.00,7,P
+21216,7,GrammarAndPunctuation,60555998,Grammar and Punctuation,7,2017,,,,S
+21213,3,GrammarAndPunctuation,938798662,Grammar and Punctuation,3,2017,,,,S
+21213,3,Reading,938798662,Reading,3,2017,26.00,415.00,5,P
+21213,3,Numeracy,938798662,Numeracy,3,2017,29.00,426.54,5,P
+21213,3,Spelling,938798662,Spelling,3,2017,15.00,405.00,5,P
+21219,7,Numeracy,843681862,Numeracy,7,2017,43.00,575.78,7,P
+21219,7,Writing,843681862,Writing,7,2017,1.00,625.00,9,P
+21219,7,Spelling,843681862,Spelling,7,2017,,,,A
+21219,7,Reading,843681862,Reading,7,2017,38.00,593.75,8,P
+21219,7,GrammarAndPunctuation,843681862,Grammar and Punctuation,7,2017,0.00,0.00,0,P
+21213,3,GrammarAndPunctuation,470222285,Grammar and Punctuation,3,2017,14.00,399.00,5,P
+21213,3,Reading,470222285,Reading,3,2017,26.00,415.00,5,P
+21213,3,Numeracy,470222285,Numeracy,3,2017,27.00,418.85,5,P
+21213,3,Spelling,470222285,Spelling,3,2017,0.0,0.0,0,R
+21217,5,Spelling,327244049,Spelling,5,2017,17.00,527.00,6,P
+21217,5,Writing,327244049,Writing,5,2017,1.00,575.00,8,P
+21217,5,GrammarAndPunctuation,327244049,Grammar and Punctuation,5,2017,15.00,515.00,6,P
+21217,5,Reading,327244049,Reading,5,2017,25.00,508.33,6,P
+21217,5,Numeracy,327244049,Numeracy,5,2017,31.00,528.33,6,P
+21213,3,GrammarAndPunctuation,200021907,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21213,3,Reading,200021907,Reading,3,2017,29.00,426.54,5,P
+21213,3,Numeracy,200021907,Numeracy,3,2017,30.00,430.38,6,P
+21213,3,Spelling,200021907,Spelling,3,2017,19.00,429.00,6,P
+21220,9,Spelling,619028703,Spelling,9,2017,18.00,613.00,8,P
+21220,9,Writing,619028703,Writing,9,2017,0.00,505.00,6,P
+21220,9,GrammarAndPunctuation,619028703,Grammar and Punctuation,9,2017,15.00,595.00,8,P
+21220,9,Reading,619028703,Reading,9,2017,38.00,623.75,9,P
+21220,9,Numeracy,619028703,Numeracy,9,2017,48.00,617.50,9,P
+21220,7,Numeracy,105664271,Numeracy,7,2017,31.00,571.88,7,P
+21220,7,Writing,105664271,Writing,7,2017,0.0,0.0,0,R
+21220,7,Spelling,105664271,Spelling,7,2017,16.00,571.00,7,P
+21220,7,Reading,105664271,Reading,7,2017,33.00,578.12,7,P
+21220,7,GrammarAndPunctuation,105664271,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21212,5,Spelling,282611052,Spelling,5,2017,17.00,527.00,6,P
+21212,5,Writing,282611052,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,282611052,Grammar and Punctuation,5,2017,15.00,515.00,6,P
+21212,5,Reading,282611052,Reading,5,2017,34.00,538.33,7,P
+21212,5,Numeracy,282611052,Numeracy,5,2017,28.00,518.33,6,P
+21217,9,Spelling,443154971,Spelling,9,2017,,,,A
+21217,9,Writing,443154971,Writing,9,2017,1.00,655.00,10,P
+21217,9,GrammarAndPunctuation,443154971,Grammar and Punctuation,9,2017,13.00,583.00,8,P
+21217,9,Reading,443154971,Reading,9,2017,34.00,611.25,8,P
+21217,9,Numeracy,443154971,Numeracy,9,2017,45.00,610.47,8,P
+21212,3,GrammarAndPunctuation,912208774,Grammar and Punctuation,3,2017,,,,E
+21212,3,Reading,912208774,Reading,3,2017,28.00,422.69,5,P
+21212,3,Numeracy,912208774,Numeracy,3,2017,29.00,426.54,5,P
+21212,3,Spelling,912208774,Spelling,3,2017,18.00,423.00,5,P
+21214,5,Spelling,821927062,Spelling,5,2017,17.00,527.00,6,P
+21214,5,Writing,821927062,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,821927062,Grammar and Punctuation,5,2017,21.00,551.00,7,P
+21214,5,Reading,821927062,Reading,5,2017,39.00,555.00,7,P
+21214,5,Numeracy,821927062,Numeracy,5,2017,31.00,528.33,6,P
+21214,3,GrammarAndPunctuation,539010323,Grammar and Punctuation,3,2017,,,,S
+21214,3,Reading,539010323,Reading,3,2017,23.00,403.46,5,P
+21214,3,Numeracy,539010323,Numeracy,3,2017,26.00,415.00,5,P
+21214,3,Spelling,539010323,Spelling,3,2017,18.00,423.00,5,P
+21219,7,Numeracy,621711852,Numeracy,7,2017,44.00,578.12,7,P
+21219,7,Writing,621711852,Writing,7,2017,0.00,475.00,5,P
+21219,7,Spelling,621711852,Spelling,7,2017,21.00,601.00,8,P
+21219,7,Reading,621711852,Reading,7,2017,0.0,0.0,0,R
+21219,7,GrammarAndPunctuation,621711852,Grammar and Punctuation,7,2017,16.00,571.00,7,P
+21212,5,Spelling,457520822,Spelling,5,2017,13.00,503.00,6,P
+21212,5,Writing,457520822,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,457520822,Grammar and Punctuation,5,2017,19.00,539.00,7,P
+21212,5,Reading,457520822,Reading,5,2017,30.00,525.00,6,P
+21212,5,Numeracy,457520822,Numeracy,5,2017,32.00,531.67,6,P
+21215,9,Spelling,439271349,Spelling,9,2017,19.00,619.00,9,P
+21215,9,Writing,439271349,Writing,9,2017,0.00,505.00,6,P
+21215,9,GrammarAndPunctuation,439271349,Grammar and Punctuation,9,2017,0.00,0.00,0,P
+21215,9,Reading,439271349,Reading,9,2017,,,,W
+21215,9,Numeracy,439271349,Numeracy,9,2017,47.00,615.16,8,P
+21215,9,Spelling,823126537,Spelling,9,2017,18.00,613.00,8,P
+21215,9,Writing,823126537,Writing,9,2017,0.00,505.00,6,P
+21215,9,GrammarAndPunctuation,823126537,Grammar and Punctuation,9,2017,20.00,625.00,9,P
+21215,9,Reading,823126537,Reading,9,2017,29.00,595.62,8,P
+21215,9,Numeracy,823126537,Numeracy,9,2017,42.00,603.44,8,P
+21214,5,Spelling,521388793,Spelling,5,2017,19.00,539.00,7,P
+21214,5,Writing,521388793,Writing,5,2017,1.00,575.00,8,P
+21214,5,GrammarAndPunctuation,521388793,Grammar and Punctuation,5,2017,22.00,557.00,7,P
+21214,5,Reading,521388793,Reading,5,2017,35.00,541.67,7,P
+21214,5,Numeracy,521388793,Numeracy,5,2017,32.00,531.67,6,P
+21212,5,Spelling,343044931,Spelling,5,2017,21.00,551.00,7,P
+21212,5,Writing,343044931,Writing,5,2017,1.00,575.00,8,P
+21212,5,GrammarAndPunctuation,343044931,Grammar and Punctuation,5,2017,16.00,521.00,6,P
+21212,5,Reading,343044931,Reading,5,2017,28.00,518.33,6,P
+21212,5,Numeracy,343044931,Numeracy,5,2017,35.00,541.67,7,P
+21213,3,GrammarAndPunctuation,493598277,Grammar and Punctuation,3,2017,16.00,411.00,5,P
+21213,3,Reading,493598277,Reading,3,2017,28.00,422.69,5,P
+21213,3,Numeracy,493598277,Numeracy,3,2017,30.00,430.38,6,P
+21213,3,Spelling,493598277,Spelling,3,2017,20.00,435.00,6,P
+21213,5,Spelling,746926784,Spelling,5,2017,16.00,521.00,6,P
+21213,5,Writing,746926784,Writing,5,2017,1.00,575.00,8,P
+21213,5,GrammarAndPunctuation,746926784,Grammar and Punctuation,5,2017,21.00,551.00,7,P
+21213,5,Reading,746926784,Reading,5,2017,32.00,531.67,6,P
+21213,5,Numeracy,746926784,Numeracy,5,2017,,,,C
+21214,3,GrammarAndPunctuation,62853932,Grammar and Punctuation,3,2017,20.00,435.00,6,P
+21214,3,Reading,62853932,Reading,3,2017,27.00,418.85,5,P
+21214,3,Numeracy,62853932,Numeracy,3,2017,,,,S
+21214,3,Spelling,62853932,Spelling,3,2017,17.00,417.00,5,P
+21219,9,Spelling,20896464,Spelling,9,2017,14.00,589.00,8,P
+21219,9,Writing,20896464,Writing,9,2017,0.00,505.00,6,P
+21219,9,GrammarAndPunctuation,20896464,Grammar and Punctuation,9,2017,19.00,619.00,9,P
+21219,9,Reading,20896464,Reading,9,2017,39.00,626.88,9,P
+21219,9,Numeracy,20896464,Numeracy,9,2017,31.00,601.88,8,P
+21220,9,Spelling,105780998,Spelling,9,2017,15.00,595.00,8,P
+21220,9,Writing,105780998,Writing,9,2017,1.00,655.00,10,P
+21220,9,GrammarAndPunctuation,105780998,Grammar and Punctuation,9,2017,17.00,607.00,8,P
+21220,9,Reading,105780998,Reading,9,2017,31.00,601.88,8,P
+21220,9,Numeracy,105780998,Numeracy,9,2017,,,,A
+21218,7,Numeracy,565645348,Numeracy,7,2017,37.00,590.62,8,P
+21218,7,Writing,565645348,Writing,7,2017,1.00,625.00,9,P
+21218,7,Spelling,565645348,Spelling,7,2017,13.00,553.00,7,P
+21218,7,Reading,565645348,Reading,7,2017,38.00,593.75,8,P
+21218,7,GrammarAndPunctuation,565645348,Grammar and Punctuation,7,2017,16.00,571.00,7,P
