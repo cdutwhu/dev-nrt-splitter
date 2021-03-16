@@ -1,7 +1,6 @@
 package splitter
 
 import (
-	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
@@ -11,45 +10,55 @@ import (
 	"github.com/digisan/gotk/slice/ts"
 )
 
-func csvSplitter(csvfile, outdir string, categories ...string) error {
-	// headers, _, err := csvtool.FileInfo(csvfile)
-	// if err != nil {
-	// 	return err
-	// }
-	// fmt.Println(headers)
-
-	// CAT0 ------------------------------------------ //
+func CsvSplitter(csvfile, outdir string, categories ...string) error {
 
 	outdir = strings.TrimSuffix(outdir, "/") + "/"
 	basename := filepath.Base(csvfile)
+	return split(0, csvfile, outdir, basename, categories)
 
-	cat0 := categories[0]
-	_, rows0, err := csvtool.Subset(csvfile, true, []string{cat0}, false, nil, "")
+}
+
+func split(rl int, csvfile, outdir, basename string, categories []string, pCatItems ...string) error {
+	if rl >= len(categories) {
+		return nil
+	}
+
+	defer func() {
+		if rl > 1 && rl <= len(categories) {
+			os.RemoveAll(csvfile)
+		}
+	}()
+
+	cat := categories[rl]
+	rl++
+
+	_, rows, err := csvtool.Subset(csvfile, true, []string{cat}, false, nil, "")
 	if err != nil {
 		return err
 	}
-	rows0 = ts.MkSet(rows0...) // make unique
-	// ts.FM(rows0, nil, func(i int, e string) string { fmt.Println(e); return "" })
+
+	unirows := ts.MkSet(rows...)
 
 	wg := &sync.WaitGroup{}
-	wg.Add(len(rows0))
+	wg.Add(len(unirows))
 
-	for _, cat0Item := range rows0 {
+	for _, catItem := range unirows {
 
-		go func(cat0Item string, wg *sync.WaitGroup) {
-			defer func() {
-				fmt.Println(cat0Item, "done")
-				wg.Done()
-			}()
+		go func(wg *sync.WaitGroup, catItem string) {
+			defer wg.Done()
 
-			outcsv := fmt.Sprintf("%s%s/%s", outdir, cat0Item, basename)
+			outcsv := outdir
+			for _, pcItem := range pCatItems {
+				outcsv += pcItem + "/"
+			}
+			outcsv += catItem + "/" + basename
 			// fmt.Println(outcsv)
 
 			_, _, err := csvtool.Query(csvfile,
 				false,
-				[]string{cat0},
+				[]string{cat},
 				'&',
-				[]csvtool.Condition{{Hdr: cat0, Val: cat0Item, ValTyp: "string", Rel: "="}},
+				[]csvtool.Condition{{Hdr: cat, Val: catItem, ValTyp: "string", Rel: "="}},
 				outcsv,
 				nil,
 			)
@@ -57,69 +66,12 @@ func csvSplitter(csvfile, outdir string, categories ...string) error {
 				panic(err)
 			}
 
-			// CAT1 ------------------------------------------ //
+			split(rl, outcsv, outdir, basename, categories, append(pCatItems, catItem)...)
 
-			func() error {
-				csvfile := outcsv
-				defer func() { os.RemoveAll(csvfile) }()
-
-				_, rows1, err := csvtool.Subset(csvfile, true, []string{categories[1]}, false, nil, "")
-				if err != nil {
-					return err
-				}
-
-				for _, cat1Item := range ts.MkSet(rows1...) {
-					outcsv := fmt.Sprintf("%s%s/%s/%s", outdir, cat0Item, cat1Item, basename)
-					// fmt.Println(outcsv)
-
-					_, _, err := csvtool.Query(csvfile,
-						false,
-						[]string{categories[1]},
-						'&',
-						[]csvtool.Condition{{Hdr: categories[1], Val: cat1Item, ValTyp: "string", Rel: "="}},
-						outcsv,
-						nil,
-					)
-					if err != nil {
-						panic(err)
-					}
-
-					// CAT2 ------------------------------------------ //
-
-					func() error {
-						csvfile := outcsv
-						defer func() { os.RemoveAll(csvfile) }()
-
-						_, rows2, err := csvtool.Subset(csvfile, true, []string{categories[2]}, false, nil, "")
-						if err != nil {
-							return err
-						}
-
-						for _, cat2Item := range ts.MkSet(rows2...) {
-							outcsv := fmt.Sprintf("%s%s/%s/%s/%s", outdir, cat0Item, cat1Item, cat2Item, basename)
-							// fmt.Println(outcsv)
-
-							_, _, err := csvtool.Query(csvfile,
-								false,
-								[]string{categories[2]},
-								'&',
-								[]csvtool.Condition{{Hdr: categories[2], Val: cat2Item, ValTyp: "string", Rel: "="}},
-								outcsv,
-								nil,
-							)
-							if err != nil {
-								panic(err)
-							}
-						}
-						return nil
-					}()
-				}
-				return nil
-			}()
-
-		}(cat0Item, wg)
+		}(wg, catItem)
 	}
 
 	wg.Wait()
+
 	return nil
 }
