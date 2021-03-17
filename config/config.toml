@@ -1,0 +1,11 @@
+InFolder = "../in/system_reports"
+
+[TrimColumn]
+Columns = ["School", "YrLevel", "Domain"]
+Enabled = true
+OutFolder = "../out/"
+
+[Splitting]
+Enabled = true
+OutFolder = "../out/"
+Schema = ["School", "YrLevel", "Domain"]

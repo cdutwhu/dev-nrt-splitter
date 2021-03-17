@@ -1,4 +1,8 @@
 #!/bin/bash
 
-rm -rf ./splitter/out/*
-rm -rf ./splitter/tempcsv/*
+rm -rf ./out/*
+rm -rf ./tempcsv
+
+# delete all binary files
+find . -type f -executable -exec sh -c "file -i '{}' | grep -q 'x-executable; charset=binary'" \; -print | xargs rm -f
+for f in $(find ./ -name '*.log' -or -name '*.doc'); do rm $f; done

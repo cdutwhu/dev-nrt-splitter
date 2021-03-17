@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/cdutwhu/csv-tool v0.0.5 h1:CudFY1Xph1TdhXcR/ikV9T+zwT9LjL+/HHy3O9c55sY=
-github.com/cdutwhu/csv-tool v0.0.5/go.mod h1:NJ9VB7sCf8o+k9uXz1wcKKemPj7jX/AQeJdc0Kn1d84=
+github.com/cdutwhu/csv-tool v0.0.6 h1:CzKx+PL9U+oMtxR9sbRv6Q8Xb8eehmK0YKyuMfc1A7I=
+github.com/cdutwhu/csv-tool v0.0.6/go.mod h1:NJ9VB7sCf8o+k9uXz1wcKKemPj7jX/AQeJdc0Kn1d84=
 github.com/cdutwhu/debog v0.2.11/go.mod h1:qMQrHVozPZKANb+rDva6fnK453xaQ/pXGgo9tXifJQI=
 github.com/cdutwhu/debog v0.2.12 h1:1Si7VftJfLAeSec3NAHoGPPt7Li0R1CHa7mjb+cRO8k=
 github.com/cdutwhu/debog v0.2.12/go.mod h1:qMQrHVozPZKANb+rDva6fnK453xaQ/pXGgo9tXifJQI=
@@ -13,6 +13,7 @@ github.com/cdutwhu/json-tool v0.1.7/go.mod h1:1kAmetwM3fXX/+Qx6A7r2KkeuQdxvemBXA
 github.com/clbanning/mxj v1.8.4 h1:HuhwZtbyvyOw+3Z1AowPkU87JkJUSv751ELWaiTpj8I=
 github.com/clbanning/mxj v1.8.4/go.mod h1:BVjHeAH+rl9rs6f+QIpeRl0tfu10SXn1pUSa5PVGJng=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/digisan/gotk v0.0.2 h1:PzkhGOBRSGTVWIsM+QLzZlUg3JYKOZkLLXqa+Fe6j/Q=
 github.com/digisan/gotk v0.0.2/go.mod h1:0wcy9B48yQflK0HkIAqXTypPYk1tEfqexh49jG2nAPc=
