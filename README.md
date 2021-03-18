@@ -28,7 +28,7 @@ If running report_splitter without designating configuration file path, default 
 
 ### configuration
 
-```toml
+```
 InFolder (string) -> in which folder splitter processes report csv file. 
 WalkSubFolders (bool) -> if true, splitter process every file even if in sub-folder; otherwise, it ignores files in sub-folders.
 
