@@ -29,7 +29,7 @@ If running report_splitter without designating configuration file path, default 
 ### configuration
 
 ```
-InFolder (string) -> in which folder splitter processes report csv file. 
+InFolder (string) -> in which folder splitter processes report csv files.
 WalkSubFolders (bool) -> if true, splitter process every file even if in sub-folder; otherwise, it ignores sub-folder files.
 
 [Trim]
