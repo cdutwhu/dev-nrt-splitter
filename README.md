@@ -30,7 +30,7 @@ If running report_splitter without designating configuration file path, default 
 
 ```
 InFolder (string) -> in which folder splitter processes report csv file. 
-WalkSubFolders (bool) -> if true, splitter process every file even if in sub-folder; otherwise, it ignores files in sub-folders.
+WalkSubFolders (bool) -> if true, splitter process every file even if in sub-folder; otherwise, it ignores sub-folder files.
 
 [Trim]
 Enabled (bool) -> turn on/off Trim function.
