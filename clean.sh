@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -rf ./in/*
+rm -rf ./in
 rm -rf ./out
 rm -rf ./tempcsv
 rm -rf ./cmd/tempcsv

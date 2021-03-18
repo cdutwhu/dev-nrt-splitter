@@ -13,7 +13,13 @@ import (
 func main() {
 	defer os.RemoveAll("./tempcsv")
 
-	cfg := config.GetConfig("./config.toml", "../config/config.toml", "./config/config.toml")
+	configurations := []string{}
+	if len(os.Args) > 1 {
+		configurations = append(configurations, os.Args[1:]...)
+	}
+	configurations = append(configurations, "./config.toml")
+
+	cfg := config.GetConfig(configurations...)
 	fmt.Println(cfg.InFolder)
 
 	err := filepath.Walk(cfg.InFolder, func(path string, info os.FileInfo, err error) error {
