@@ -1,6 +1,7 @@
-InFolder = "../in/system_reports"
+InFolder = "../in/system_reports/"
+WalkSubFolders = false
 
-[TrimColumn]
+[Trim]
 Columns = ["School", "YrLevel", "Domain"]
 Enabled = true
 OutFolder = "../out/"

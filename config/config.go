@@ -1,19 +1,23 @@
 package config
 
 import (
+	"log"
+	"strings"
+
 	"github.com/BurntSushi/toml"
 )
 
 // Config :
 type ReportConfig struct {
-	InFolder   string
-	TrimColumn struct {
+	InFolder       string
+	WalkSubFolders bool
+	Trim           struct {
 		Columns   []string
-		Enable    bool
+		Enabled   bool
 		OutFolder string
 	}
 	Splitting struct {
-		Enable    bool
+		Enabled   bool
 		OutFolder string
 		Schema    []string
 	}
@@ -27,7 +31,14 @@ func GetConfig(configs ...string) *ReportConfig {
 		if err != nil {
 			continue
 		}
+
+		// Dir Process
+		cfg.InFolder = strings.TrimSuffix(cfg.InFolder, "/") + "/"
+		cfg.Trim.OutFolder = strings.TrimSuffix(cfg.Trim.OutFolder, "/") + "/"
+		cfg.Splitting.OutFolder = strings.TrimSuffix(cfg.Splitting.OutFolder, "/") + "/"
+
 		return cfg
 	}
-	panic("Report Config File is missing or error")
+	log.Fatalln("Report Config File is Missing or Error")
+	return nil
 }
